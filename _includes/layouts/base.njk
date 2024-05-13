@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="{{ metadata.language }}">
+<html lang="{{ lang }}">
 	<head>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -15,16 +15,16 @@
 		<a href="#skip" class="visually-hidden">Skip to main content</a>
 
 		<header>
-			<a href="/" class="home-link">{{ metadata.title }}</a>
+			<a href="/" class="home-link">{{ metadata.title[lang] }}</a>
 
 		</header>
 
 		<main id="skip">
+			<h1>{{ title | safe }}</h1>
 			{{ content | safe }}
 		</main>
 
 		<footer></footer>
 
-		<!-- This page `{{ page.url | htmlBaseUrl }}` was built on {% currentBuildDate %} -->
 	</body>
 </html>

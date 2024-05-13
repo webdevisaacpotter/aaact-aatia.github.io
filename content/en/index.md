@@ -1,6 +1,8 @@
 ---
 layout: layouts/base.njk
-permalink: /
+permalink: /en/
+lang: en
+title: Welcome to the Accessibility, Accommodation and Adaptive Computer Technology program (AAACT) website
 ---
 
 The Government of Canada (GC) envisions a public service that is a world leader in barrier-free, inclusive workplaces and services. The Accessibility, Accommodation and Adaptive Computer Technology program (AAACT) is committed to making this vision a reality by:
