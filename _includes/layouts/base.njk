@@ -18,14 +18,9 @@
 		<div class="home">
 			<div class="container p-0 p-sm-3">
 				<div class="well header-rwd brdr-0 brdr-rds-0 text-white bg-gctheme">
-					<h1 property="name" id="wb-cont">
-						{{ title | safe }}
-					</h1>
-					{% if description %}
-						<p>{{ description | safe }}</p>
-					{% else %}
-						<p><strong>{{ landingPage[locale].descriptionNoneText }}</strong></p>
-					{% endif %}
+					<span class="siteName">
+						{{ metadata.title[lang] | safe }}
+					</span>
 				</div>
 			</div>
 		</div>
@@ -36,6 +31,7 @@
 			{% include "partials/office-toc.njk" %}
 			{% include "partials/office365Notice.njk" %}
 			{% endif %}
+				<h1 property="name" id="wb-cont">{{ title }}</h1>
 				{{ content | safe }}
 				{% if officeTOC === true %}
 				{% include "partials/office-toc.njk" %}

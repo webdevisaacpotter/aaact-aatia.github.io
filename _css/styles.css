@@ -74,8 +74,9 @@
 	}
 }
 
-.home .bg-gctheme.well.header-rwd h1 {
-	width: 100%
+.home .bg-gctheme.well.header-rwd .siteName {
+	width: 100%;
+	font-size: 1.5em;
 }
 
 .a11y-standards-list {
@@ -123,5 +124,3 @@
 	text-decoration: none;
 	color: #a0ccf8
 }
-
-/*# sourceMappingURL=da11yn.css.map */
