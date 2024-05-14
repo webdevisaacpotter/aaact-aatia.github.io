@@ -1,9 +1,5 @@
 {% set otherLang = "fr" if locale == "en" else "en" %}
 
-{% if settings.env === "local" %}
-	{% include "partials/pageLabel.njk" %}
-{% endif %}
-
 {% if isDraft or needsTranslation or internalLinks %}
 <div class="container">
 	<section class="alert alert-warning mrgn-tp-lg">

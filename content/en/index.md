@@ -1,7 +1,5 @@
 ---
-layout: layouts/base.njk
 permalink: /en/
-lang: en
 title: Welcome to the Accessibility, Accommodation and Adaptive Computer Technology program (AAACT) website
 ---
 

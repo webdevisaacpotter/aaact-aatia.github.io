@@ -1,7 +1,5 @@
 ---
-layout: layouts/base.njk
 permalink: /fr/
-lang: fr
 title: Bienvenue sur le site du Programme d'accessibilité, d'adaptation et de technologie informatique adaptée (AATIA)
 ---
 
