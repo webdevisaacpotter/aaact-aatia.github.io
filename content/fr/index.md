@@ -15,6 +15,4 @@ Pour les fonctionnaires en situation de handicap ou ayant une blessure, l'AATIA 
 
 L'AATIA dessert tous les employés et ministères du GC, en présentiel et à distance, dans divers types de conditions de travail.
 
-Pour en savoir plus au sujet des services de l'AATIA concernant les employés, les gestionnaires et l'accessibilité numérique, rendez-vous à notre page des services « Comment le programme d’AATIA peut-il vous aider? ».
-
-To learn more about AAACT's services for employees, management and digital accessibility please visit our “How can AAACT help you?” services page.
+Pour en savoir plus au sujet des services de l'AATIA concernant les employés, les gestionnaires et l'accessibilité numérique, rendez-vous à notre page des services « [Comment le programme d’AATIA peut-il vous aider?](/fr/programme-aatia-peut-aider).md) ».
