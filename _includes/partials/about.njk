@@ -1,0 +1,23 @@
+{% if collections.aboutUs === undefined %}
+
+{% else %}
+<section class="container">
+	<h2>{{ about[locale].about }}</h2>
+	<p>{{ about[locale].aboutPara }}</p>
+	<div class="row wb-eqht mrgn-tp-lg gc-srvinfo">
+		{% for item in collections.aboutUs| sort(false, false, 'data.title') | localeMatch(locale) %}
+		<section class="col-md-4">
+			<h3><a href="{{ item.url }}">{{ item.data.title }}</a></h3>
+			<p>
+			{% if item.data.description %}
+			{{ item.data.description }}
+			{% else %}
+			{{ landingPage[locale].descriptionNoneText }}
+			{% endif %}
+		</p>
+		</section>
+		{% endfor %}
+	</div>
+</section>
+
+{% endif %}

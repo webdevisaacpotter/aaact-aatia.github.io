@@ -21,28 +21,20 @@
 					<h1 property="name" id="wb-cont">
 						{{ title | safe }}
 					</h1>
-					{% if description %}
-						<p>{{ description | safe }}</p>
-					{% else %}
-						<p><strong>{{ landingPage[locale].descriptionNoneText }}</strong></p>
-					{% endif %}
+					<p>{{ description | safe }}</p>
 				</div>
 			</div>
 		</div>
 
-			{% include "partials/alerts.njk" %}
-			<div class="container">
-			{% if officeTOC === true %}
-			{% include "partials/office-toc.njk" %}
-			{% include "partials/office365Notice.njk" %}
-			{% endif %}
-				{{ content | safe }}
-				{% if officeTOC === true %}
-				{% include "partials/office-toc.njk" %}
-			</div>
-			{% endif %}
-			{% include "partials/pagedetails.njk" %}
-
+		{% include "partials/alerts.njk" %}
+		<div class="container">
+			<h2>{{ home[locale].explore }}</h2>
+			{{ content | safe }}
+		</div>
+		{% include "partials/collectionsMain.njk" %}
+		{% include "partials/updatesMain.njk" %}
+		{% include "partials/about.njk" %}
+		{% include "partials/pagedetails.njk" %}
 	</main>
 
 	{% include "partials/contribute.njk" %}

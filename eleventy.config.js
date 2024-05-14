@@ -13,6 +13,12 @@ module.exports = function(eleventyConfig) {
 		"./node_modules/prismjs/themes/prism-okaidia.css": "/css/prism-okaidia.css"
 	});
 
+	eleventyConfig.addFilter("postDate", (dateObj) => {
+		return DateTime.fromJSDate(dateObj, { zone: "utc" })
+			.setLocale("en")
+			.toFormat("yyyy'-'MM'-'dd");
+	});
+
 	// Run Eleventy when these files change:
 	// https://www.11ty.dev/docs/watch-serve/#add-your-own-watch-targets
 
