@@ -10,7 +10,15 @@ module.exports = function(eleventyConfig) {
 	// For example, `./public/css/` ends up in `_site/css/`
 	eleventyConfig.addPassthroughCopy({
 		"./public/": "/",
-		"./node_modules/prismjs/themes/prism-okaidia.css": "/css/prism-okaidia.css"
+		"./node_modules/prismjs/themes/prism-okaidia.css": "/css/prism-okaidia.css",
+		"./_css/": "/css/",
+		"_images/": "/img/",
+	});
+
+	eleventyConfig.addFilter("postDate", (dateObj) => {
+		return DateTime.fromJSDate(dateObj, { zone: "utc" })
+			.setLocale("en")
+			.toFormat("yyyy'-'MM'-'dd");
 	});
 
 	// Run Eleventy when these files change:

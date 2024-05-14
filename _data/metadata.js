@@ -1,4 +1,8 @@
 module.exports = {
+	buildTime: new Date(),
+	env: process.env.ELEVENTY_ENV,
+	dateCreated: "2023-08-01",
+	baseUrl: "/",
 	title: {
 		en: "Accessibility, Accommodation and Adaptive Computer Technology (AAACT)",
 		fr: "Accessibilité, adaptation et technologie informatique adaptée (AATIA)"
