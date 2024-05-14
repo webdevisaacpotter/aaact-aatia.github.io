@@ -2,8 +2,6 @@
 	publish = "_site"
 	command = "npm run build"
 
-[[plugins]]
-
 	# Opt-in to the Netlify Lighthouse plugin (choose one):
 
 	# 1. Go to your site on https://app.netlify.com and navigate to the Integrations tab, search for the `Lighthouse` plugin
