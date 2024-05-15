@@ -25,7 +25,7 @@ npm install
 Generate a production-ready build to the `_site` folder:
 
 ``` bash
-npm ruyn build
+npm run build
 ```
 
 Or build and host on a local development server:
