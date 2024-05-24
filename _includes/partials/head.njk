@@ -36,20 +36,4 @@
 	<meta name="dcterms.modified" content="{{ page.date | postDate }}" >
 	<meta name="dcterms.subject" content="{% if subject %}{{ tagList.subjects[locale][subject] }};{% endif %}{% for item in tags %}{{ tagList.tags[locale][item] }}; {% endfor %}" />
 
-	<!-- Google tag (gtag.js) -->
-	<script async src="https://www.googletagmanager.com/gtag/js?id=G-SM9MSHWDVN"></script>
-	<script>
-		(function (w) {
-			"use strict";
-			var dl = "dataLayer";
-			if (w.location.hostname === "a11y.canada.ca" || w.location.hostname === "deploy-preview-335--a11ycanada.netlify.app") {
-				w[dl] = w[dl] || [];
-				w.gtag = function () {
-					w[dl].push(arguments);
-				}
-				w.gtag('js', new Date());
-				w.gtag('config', 'G-SM9MSHWDVN');
-			}
-		})(window);
-	</script>
 </head>

@@ -1,6 +1,7 @@
 ---
 title: Intake form
 description: This intake form is to determine what service you require from AAACT.
+customScript: /js/intake.js
 ---
 
 <form id="myForm">
@@ -58,13 +59,4 @@ description: This intake form is to determine what service you require from AAAC
 		</ul>
 	</div><input type="submit" id="submitButton">
 </form>
-<script>document.getElementById('myForm').addEventListener('submit', function (event) {
-		event.preventDefault(); // Prevent form submission
-		setTimeout(function () {
-			// This function will be executed after 1 seconds
-			var loadingMessage = document.getElementById('loadingMessage');
-			loadingMessage.setAttribute('aria-hidden', 'true');
-		}, 500);
-
-	});</script>
 <div id="ajaxContainer" aria-live="polite" style="margin: 15px"></div>
