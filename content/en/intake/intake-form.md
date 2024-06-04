@@ -8,7 +8,6 @@ Contact us at <a href = "mailto:AAACT-AATIA@ssc-spc.gc.ca">AAACT-AATIA@ssc-spc.g
 
 <section id="SSCMember">
 	<p id="loadingMessage" class="wb-inv">Content loaded...</p>
-	<h2 class="mrgn-tp-0">Proof of concept</h2>
 	<div class="well">
 		<p>Please fill in the <a href = "">GCForm</a> to make a document remediation request. <br><br>
 		Here are some resourses you can use to create accessible documents:<br>
@@ -24,7 +23,6 @@ Contact us at <a href = "mailto:AAACT-AATIA@ssc-spc.gc.ca">AAACT-AATIA@ssc-spc.g
 
 <section id="nonSSCMember">
 	<p id="loadingMessage" class="wb-inv">Content loaded...</p>
-	<h2 class="mrgn-tp-0">Proof of concept</h2>
 	<div class="well">
 		<p>Unfortunately, we do <strong>not</strong> remediate documents. Please contact the communications team in your department for assistance in making your document accessible.<br><br>
 		Here are some resourses you can use to create accessible documents:<br>
@@ -40,7 +38,6 @@ Contact us at <a href = "mailto:AAACT-AATIA@ssc-spc.gc.ca">AAACT-AATIA@ssc-spc.g
     
 <section id="workshops">
 	<p id="loadingMessage" class="wb-inv">Content loaded...</p>
-	<h2 class="mrgn-tp-0">Proof of concept</h2>
 	<div class = "well">
 		<p>The AAACT program offers workshops and presentations throughout the year in English and French.  We run many of the sessions quarterly and it is best to check and register for sessions on our GCpedia page: <a href = "https://www.gcpedia.gc.ca/wiki/GC_Accessibility_Training_and_Events_/_Formation_et_événements_du_GC_sur_l%27accessibilité">Accessibility Training and Events</a>.<br><br>
 		Some of these events are about document accessibility. Every document created must be accessible by default. This workshop teaches participants how to implement accessibility requirements through presentations, demonstrations, and exercises. <br><br>
@@ -70,7 +67,6 @@ Contact us at <a href = "mailto:AAACT-AATIA@ssc-spc.gc.ca">AAACT-AATIA@ssc-spc.g
 
 <section id="a11y">
 	<p id="loadingMessage" class="wb-inv">Content loaded...</p>
-	<h2 class="mrgn-tp-0">Proof of concept</h2>
 	<div class = "well">
 		<p>Understanding and learning about accessibility is crucial for creating an environment where everyone, regardless of their abilities, can fully participate and access information. It empowers individuals and organizations to design products, services, and environments that accommodate diverse needs, fostering equality and inclusivity.<br><br>We offer quarterly workshops in English and French on accessibility. You can find the time and dates of each session on<a href = "https://www.gcpedia.gc.ca/wiki/GC_Accessibility_Training_and_Events_/_Formation_et_événements_du_GC_sur_l%27accessibilité"> GCpedia - GC Accessibility Training and Events</a>.<br><br>
 		Here are some additional resourses you can browse to learn about accessibility:<br>
@@ -86,7 +82,6 @@ Contact us at <a href = "mailto:AAACT-AATIA@ssc-spc.gc.ca">AAACT-AATIA@ssc-spc.g
 
 <section id="accessibleDocuments">
 	<p id="loadingMessage" class="wb-inv">Content loaded...</p>
-	<h2 class="mrgn-tp-0">Proof of concept</h2>
 	<div class = "well">
 		<p>Accessible documents are vital for ensuring that information is available to everyone. By making documents accessible, we enable equal access to essential content and resources for all individuals, regardless of their abilities.<br><br>Here are some resourses you can use to create accessible documents:<br>
 		<ul>
@@ -101,7 +96,6 @@ Contact us at <a href = "mailto:AAACT-AATIA@ssc-spc.gc.ca">AAACT-AATIA@ssc-spc.g
 
 <section id="accessibleForms">
 	<p id="loadingMessage" class="wb-inv">Content loaded...</p>
-	<h2 class="mrgn-tp-0">Proof of concept</h2>
 	<div class = "well">
 		<p>Accessible forms are crucial to ensure that all users can complete and submit information independently and efficiently. This promotes inclusivity and ensures equal access to essential services and opportunities.<br><br>Here are some resourses you can use to create accessible forms:<br>
 		<ul>
@@ -115,7 +109,6 @@ Contact us at <a href = "mailto:AAACT-AATIA@ssc-spc.gc.ca">AAACT-AATIA@ssc-spc.g
 
 <section id="virtualEvents">
 	<p id="loadingMessage" class="wb-inv">Content loaded...</p>
-	<h2 class="mrgn-tp-0">Proof of concept</h2>
 	<div class = "well">
 		<p>Accessible virtual events are essential to ensure that all participants, including those with disabilities, can fully engage and benefit from the content and interactions. This inclusivity fosters equal opportunities and enhances the overall experience for everyone.<br><br>Here are some resourses you can use to plan accessible events:<br>
 		<ul>
@@ -129,7 +122,6 @@ Contact us at <a href = "mailto:AAACT-AATIA@ssc-spc.gc.ca">AAACT-AATIA@ssc-spc.g
 
 <section id="COTS">
 	<p id="loadingMessage" class="wb-inv">Content loaded...</p>
-	<h2 class="mrgn-tp-0">Proof of concept</h2>
 	<div class = "well" font>
 		<p>If you are using a Commercial - Off-The-Shelf (COTS) platform, are implementing a custom solution using a COTS, or are building something custom, you need to include ICT accessibility requirements as part of your procurement and resulting contracts. It is strongly recommended that you select platforms that conform to the ICT accessibility requirements based on the EN 301 549.<br><br>
 		See the SSC Accessible ICT Procurement Guide, which you can access from the OPSA Hub: <a href = "https://www.gcpedia.gc.ca/wiki/Procurement/_Approvisionnement">OPSA Accessibility Hub’s Procurement page (GCpedia)</a>. The guide provides you with advice and guidance on how to purchase and evaluate accessible ICT.<br><br>
@@ -148,7 +140,6 @@ Contact us at <a href = "mailto:AAACT-AATIA@ssc-spc.gc.ca">AAACT-AATIA@ssc-spc.g
 
 <section id="a11ySoftwareDev">
 	<p id="loadingMessage" class="wb-inv">Content loaded...</p>
-	<h2 class="mrgn-tp-0">Proof of concept</h2>
 	<div class = "well">
 		<p>Digital accessibility ensures that digital content, products and services can be used by all individuals, regardless of their abilities or disabilities. It promotes inclusivity, improves user experience, and expands the reach of technology to a wider audience.<br><br>Here are some resourses you can use to learn more about digital accessibility and how to implement accessibility in your developmemt process:<br>
 		<ul>
@@ -189,7 +180,6 @@ Contact us at <a href = "mailto:AAACT-AATIA@ssc-spc.gc.ca">AAACT-AATIA@ssc-spc.g
 
 <section id="altText">
 	<p id="loadingMessage" class="wb-inv">Content loaded...</p>
-	<h2 class="mrgn-tp-0">Proof of concept</h2>
 	<div class = "well">
 		<p>Alternative text is essential for providing textual descriptions of images, making web content accessible to individuals who use screen readers or have images disabled. It ensures that everyone, including those with visual impairments, can understand and engage with the content equally.<br><br>Here are some resourses you can use to learn how to handle images and alt text:<br>
 		<ul>
@@ -203,7 +193,6 @@ Contact us at <a href = "mailto:AAACT-AATIA@ssc-spc.gc.ca">AAACT-AATIA@ssc-spc.g
 
 <section id="linkText">
 	<p id="loadingMessage" class="wb-inv">Content loaded...</p>
-	<h2 class="mrgn-tp-0">Proof of concept</h2>
 	<div class = "well">
 		<p>Good link text is crucial as it clearly describes the content or purpose of the link, aiding all users, in navigating and understanding web content effectively. It enhances usability and accessibility, ensuring a more intuitive user experience.<br><br>Here are some resourses you can use to learn :<br>
 		<ul>
@@ -217,12 +206,11 @@ Contact us at <a href = "mailto:AAACT-AATIA@ssc-spc.gc.ca">AAACT-AATIA@ssc-spc.g
 
 <section id="M365">
 	<p id="loadingMessage" class="wb-inv">Content loaded...</p>
-	<h2 class="mrgn-tp-0">Proof of concept</h2>
 	<div class = "well">
 		<p>Unfortunately, we do not test Microsoft products as some M365 applications have already been flagged for having some accessibility issues. The <a href= "https://www.canada.ca/en/shared-services/corporate/digital-communications-collaboration.html">SSC Digital Communications and Collaboration</a> (DCC) has a group in charge of communicating these issues to Microsoft. You can check out the known issues that the DCC has listed on <a href = "https://www.gcpedia.gc.ca/wiki/Probl%C3%A8mes_d%27accessibilit%C3%A9_M365_Accessibility_Issues">M365 Accessibility Issues - GCpedia</a> and <a href = "https://www.gcpedia.gc.ca/gcwiki/images/7/77/SSC-DCC-M365-Accessibility-Issues-Tracker-EN.xlsx">The SSC DCC Accessibility Issues Tracker</a>.<br><br> Please note that when you are using a Microsoft product not all issues that you find will be solvable by you; only Microsoft can resolve them. If you encounter an issue that is not in DCC’s list, please engage with the official process for filing issues to Microsoft described on below.<br></p>
 		<h3> How to file issues to Microsoft</h3>
 		<p>When any GC partner/department/service encounter an accessibility issue with any Microsoft product such as SharePoint, Power Apps, MS Dynamics, Forms, MS Teams, etc., they need to send it to the DCC UX team (<a href= "mailto:dcc-ssc.accessibility-accessibilite@ssc-spc.gc.ca">dcc-ssc.accessibility-accessibilite@ssc-spc.gc.ca</a>) and DCC take care of submitting the issue to Microsoft.<br><br>
-		<strong>Why do we recommend that they go through DCC UX team?</strong><br>
+		<strong>Why do we recommend that you go through the DCC UX team?</strong><br>
 		The main reason is that DCC needs to fill out a Microsoft form to provide all the details about the issue. They must review the form for quality assurance before they submit it so that they can make sure Microsoft doesn’t reject the form as DCC upload all the tickets details from the testing template directly to Microsoft system.<br>
 		The template has 3 main sheets to be filled out:</p>
 		<ul>
@@ -231,13 +219,13 @@ Contact us at <a href = "mailto:AAACT-AATIA@ssc-spc.gc.ca">AAACT-AATIA@ssc-spc.g
 			<li>Snapshots: Screenshots, print screens, images, pictures that need to be sent to Microsoft as well, about the issue contained in the “Form” sheet.</li>
 		</ul>
 		<p>In addition, GC departments/partners can also use their mailbox (<a href= "mailto:dcc-ssc.accessibility-accessibilite@ssc-spc.gc.ca">dcc-ssc.accessibility-accessibilite@ssc-spc.gc.ca</a>) to raise their M365 Official Language issues and we will take care to submit them to Microsoft as well. No need to use the template for Official Language, the template is only for Accessibility issues.<br><br>
+		You can find and evaluate ACRs from Microsoft and make informed decisions about technology used to build an inclusive workplace by browsing the <a href= "https://www.microsoft.com/en-us/accessibility/conformance-reports">Microsoft - Accessibility Conformance Reports</a>.<br><br>
 		Contact us at <a href = "mailto:AAACT-AATIA@ssc-spc.gc.ca">AAACT-AATIA@ssc-spc.gc.ca</a> if you have more questions.</p>	
 	</div>
 </section>
 
 <section id="other">
 	<p id="loadingMessage" class="wb-inv">Content loaded...</p>
-	<h2 class="mrgn-tp-0">Proof of concept</h2>
 	<div class = "well">
 		<p>If you have a specific question or if you have more questions please contact us at <a href = "mailto:AAACT-AATIA@ssc-spc.gc.ca">AAACT-AATIA@ssc-spc.gc.ca</a>.</p>	
 	</div>
@@ -245,16 +233,55 @@ Contact us at <a href = "mailto:AAACT-AATIA@ssc-spc.gc.ca">AAACT-AATIA@ssc-spc.g
 
 <section id="procurement">
 	<p id="loadingMessage" class="wb-inv">Content loaded...</p>
-	<h2 class="mrgn-tp-0">Proof of concept</h2>
 	<div class = "well">
 	<!-- Changes: Requires word-smithing -->
 		<p>For specific advice on your project, contact <a href = "mailto:AAACT-AATIA@ssc-spc.gc.ca">AAACT-AATIA@ssc-spc.gc.ca</a> for assistance in the procurement of ICT goods and services, including developing your accessibility strategy, statement of work, evaluation criteria, etc.	Please include <strong>'Procurement'</strong> in the email subject line and provide additional details about the purpose of your inquiry.</p>
 	</div>
 </section>
 
+<section id="planning">
+	<p id="loadingMessage" class="wb-inv">Content loaded...</p>
+	<div class = "well">
+		<p>Integrating accessibility into the planning phase of projects is not just a matter of inclusivity; it is a cost-effective strategy. Early incorporation of accessibility can significantly reduce costs compared to retrofitting accessibility features after a project's completion. We offer advice and guidance at the beginning of the development stage to help you make accessibility be part of your product. Contact us at <a href = "mailto:AAACT-AATIA@ssc-spc.gc.ca">AAACT-AATIA@ssc-spc.gc.ca</a> to set up a meeting.<br><br>Here are some resourses you can use to learn more about digital accessibility and how to implement accessibility in your developmemt process:<br>
+		<!-- Changes: Should we actually provide resources like Deque etc? -->
+		<ul>
+			<li><a href = "https://a11y.canada.ca/en/">Digital Accessibility Toolkit (DAT)</a>
+				<ul>
+					<li><a href = "https://a11y.canada.ca/en/designing-accessible-services/">DAT - Designing accessible services</a></li>
+					<li> <a href = "https://a11y.canada.ca/en/additional-resources/#development">DAT - Resources</a></li>
+				</ul>
+			</li><br>
+			<li><a href = "https://wet-boew.github.io/wet-boew/index-en.html">Web Experience Toolkit (WET)</a> is an open-source accessible web framework maintained by the Government of Canada. The WET Core serves as an accessible foundation for the Canada.ca website theme.
+				<ul>
+					<li><a href = "https://wet-boew.github.io/wet-boew/demos/index-en.html">WET - Working Examples</a></li>
+					<li> <a href = "https://wet-boew.github.io/wet-boew-styleguide/index-en.html">WET - Style Guide</a></li>
+				</ul>
+			</li><br>
+			<li> <a href = "https://www.w3.org/WAI/standards-guidelines/wcag/">Web Content Accessibility Guidelines (WCAG) 2 Overview</a>
+				<ul>
+					<li><a href = "https://www.w3.org/WAI/WCAG21/quickref/">How to Meet WCAG 2.1 (Quick Reference)</a></li>
+					<li> <a href = "https://www.w3.org/WAI/WCAG21/Understanding/">Understanding WCAG 2.1</a></li>
+					<li> <a href = "https://www.w3.org/WAI/WCAG21/Techniques/">Techniques for WCAG 2.1</a></li>
+					<li> <a href = "https://www.w3.org/WAI/tutorials/">Web Accessibility Tutorials</a></li>
+				</ul>
+			</li><br>
+			<li> <a href = "https://www.w3.org/WAI/standards-guidelines/atag/">Web Accessibility Initiative (WAI) | W3C - Authoring Tool Accessibility Guidelines (ATAG) Overview</a></li><br>
+			<li> <a href="https://www.etsi.org/human-factors-accessibility/en-301-549-v3-the-harmonized-european-standard-for-ict-accessibility">EN 301 549 V3 the harmonized European Standard for ICT Accessibility</a></li><br>
+			<li>Mobile accessibility
+				<ul>
+					<li><a href = "https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=27088">Mobile Optimization - Standard on Optimizing Websites and Applications for Mobile Devices</a></li>
+					<li> <a href = "https://www.w3.org/TR/mobile-accessibility-mapping/">Mobile Accessibility: How WCAG 2.0 and Other W3C/WAI Guidelines Apply to Mobile</a></li>
+					<li> <a href = "https://www.google.com/accessibility/">Google Accessibility</a></li>
+					<li> <a href = "https://developer.apple.com/accessibility/">Apple Accessibility</a></li>
+				</ul>
+			</li>
+		</ul><br>
+		Contact us at <a href = "mailto:AAACT-AATIA@ssc-spc.gc.ca">AAACT-AATIA@ssc-spc.gc.ca</a> if you have more questions.</p>
+	</div>
+</section>
+
 <section id="design">
 	<p id="loadingMessage" class="wb-inv">Content loaded...</p>
-	<h2 class="mrgn-tp-0">Proof of concept</h2>
 	<div class = "well">
 		<p>We offer advice and guidance at the beginning of the development stage to help you make accessibility be part of your product. Contact us at <a href = "mailto:AAACT-AATIA@ssc-spc.gc.ca">AAACT-AATIA@ssc-spc.gc.ca</a> to set up a meeting.<br><br>Here are some resourses you can use to learn more about digital accessibility and how to implement accessibility in your developmemt process:<br>
 		<!-- Changes: Should we actually provide resources like Deque etc? -->
@@ -295,7 +322,6 @@ Contact us at <a href = "mailto:AAACT-AATIA@ssc-spc.gc.ca">AAACT-AATIA@ssc-spc.g
 </section>
 <section id="selfAssessmentDone">
 	<p id="loadingMessage" class="wb-inv">Content loaded...</p>
-	<h2 class="mrgn-tp-0">Proof of concept</h2>
 	<div class = "well">
 		<p>Please send us your self assessment and fill in the <a href = "">GCForm</a> to make an Accessibility Conformance testing request.<br><br>
 		Contact us at <a href = "mailto:AAACT-AATIA@ssc-spc.gc.ca">AAACT-AATIA@ssc-spc.gc.ca</a> if you have more questions.</p>
@@ -303,7 +329,6 @@ Contact us at <a href = "mailto:AAACT-AATIA@ssc-spc.gc.ca">AAACT-AATIA@ssc-spc.g
 </section>
 <section id="selfAssessmentNotDone">
 	<p id="loadingMessage" class="wb-inv">Content loaded...</p>
-	<h2 class="mrgn-tp-0">Proof of concept</h2>
 	<div class = "well">
 	<p>Please carry out a self-assessment using the checklist below. After conducting the self-assessment, please send us your report and fill in the <a href = "">GCForm</a> to make an Accessibility Conformance testing request.<br><br>
 	<strong>Self-assessment checklist</strong><br>
@@ -313,7 +338,6 @@ Contact us at <a href = "mailto:AAACT-AATIA@ssc-spc.gc.ca">AAACT-AATIA@ssc-spc.g
 </section>
 <section id="VPATDone">
 	<p id="loadingMessage" class="wb-inv">Content loaded...</p>
-	<h2 class="mrgn-tp-0">Proof of concept</h2>
 	<div class = "well">
 		<p>Please send us the VPAT or ACR and fill in the <a href = "">GCForm</a> to make an Accessibility Conformance testing request or to evaluate the VPAT or ACR.<br><br>
 		Contact us at <a href = "mailto:AAACT-AATIA@ssc-spc.gc.ca">AAACT-AATIA@ssc-spc.gc.ca</a> if you have more questions.</p>
@@ -321,7 +345,6 @@ Contact us at <a href = "mailto:AAACT-AATIA@ssc-spc.gc.ca">AAACT-AATIA@ssc-spc.g
 </section>
 <section id="VPATNotDone">
 	<p id="loadingMessage" class="wb-inv">Content loaded...</p>
-	<h2 class="mrgn-tp-0">Proof of concept</h2>
 	<div class = "well">
 		<p>Please request an Accessibility Conformance Report (ACR) or a Voluntary Product Accessibility Template (VPAT) to identify the compliance level of your product for applicable ICT accessibility standards. After receiving it, please contact AAACT and we can decide whether to:
 		<ul>
@@ -332,9 +355,17 @@ Contact us at <a href = "mailto:AAACT-AATIA@ssc-spc.gc.ca">AAACT-AATIA@ssc-spc.g
 		Contact us at <a href = "mailto:AAACT-AATIA@ssc-spc.gc.ca">AAACT-AATIA@ssc-spc.gc.ca</a> if you have more questions.</p>
 	</div>
 </section>
+<section id="VPATACR">
+	<p id="loadingMessage" class="wb-inv">Content loaded...</p>
+	<div class = "well">
+		<p>An Accessibility Conformance Report (ACR) and a Voluntary Product Accessibility Template (VPAT) are tools used to assess and communicate the accessibility of information and communication technology (ICT) products and services. Here’s a detailed look at each:<br><br>
+		<strong>Voluntary Product Accessibility Template (VPAT)</strong><br>
+		VPAT is a standardized document that suppliers of ICT products and services use to describe how their products or services conform to accessibility standards. These standards are typically outlined in the EN 301 549 and the Web Content Accessibility Guidelines (WCAG). The VPAT helps buyers, particularly government agencies, to assess the accessibility of the products and services they are considering purchasing.<br><br> <strong>Accessibility Conformance Report (ACR)</strong><br> An ACR is a completed VPAT. Once the supplier fills out the VPAT with detailed information about their product’s compliance with accessibility standards, it becomes the ACR. The ACR is the final report used to convey the accessibility compliance status of a product or service to potential buyers.<br><br>
+		Contact us at <a href = "mailto:AAACT-AATIA@ssc-spc.gc.ca">AAACT-AATIA@ssc-spc.gc.ca</a> if you have more questions.</p>
+	</div>
+</section>
 <section id="userTesting">
 	<p id="loadingMessage" class="wb-inv">Content loaded...</p>
-	<h2 class="mrgn-tp-0">Proof of concept</h2>
 	<div class = "well">
 		<p>Please carry out the self-assessment using the checklist below. After conducting the self-assessment, please send us your report and fill in the <a href = "">GCForm</a> to make a user testing request.<br><br>
 		<strong>Self-assessment checklist</strong><br>

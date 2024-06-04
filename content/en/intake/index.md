@@ -61,8 +61,23 @@ customScript: /js/intake.js
 										<div class="wb-fieldflow-sub">
 											<p>At which stage of the software development process are you?</p>
 											<ul>
+												<li data-wb-fieldflow='{"action": "ajax", "url": "./intake-form/index.html#planning","container":"#ajaxContainer", "type": "replace"}'>Planning</li>
 												<li data-wb-fieldflow='{"action": "ajax", "url": "./intake-form/index.html#design","container":"#ajaxContainer", "type": "replace"}'>Design</li>
-												<li>Under construction, QA phase or already launched<div class="wb-fieldflow-sub">
+												<li>Under construction<div class="wb-fieldflow-sub">
+													<p>Have you already conducted the accessibility self assessment?</p>
+													<ul>
+														<li data-wb-fieldflow='{"action": "ajax", "url": "./intake-form/index.html#selfAssessmentDone","container":"#ajaxContainer","type": "replace"}'>Yes</li>
+														<li data-wb-fieldflow='{"action": "ajax", "url": "./intake-form/index.html#selfAssessmentNotDone","container":"#ajaxContainer", "type": "replace"}'>No</li>
+													</ul>
+												</li>
+												<li>QA phase<div class="wb-fieldflow-sub">
+													<p>Have you already conducted the accessibility self assessment?</p>
+													<ul>
+														<li data-wb-fieldflow='{"action": "ajax", "url": "./intake-form/index.html#selfAssessmentDone","container":"#ajaxContainer","type": "replace"}'>Yes</li>
+														<li data-wb-fieldflow='{"action": "ajax", "url": "./intake-form/index.html#selfAssessmentNotDone","container":"#ajaxContainer", "type": "replace"}'>No</li>
+													</ul>
+												</li>
+												<li>Already launched<div class="wb-fieldflow-sub">
 													<p>Have you already conducted the accessibility self assessment?</p>
 													<ul>
 														<li data-wb-fieldflow='{"action": "ajax", "url": "./intake-form/index.html#selfAssessmentDone","container":"#ajaxContainer","type": "replace"}'>Yes</li>
@@ -74,10 +89,11 @@ customScript: /js/intake.js
 									</li>
 									<li>The software is a Commercial-Off-The-Shelf (COTS) product 
 										<div class="wb-fieldflow-sub">
-											<p>Does the company provide a Voluntary Product Accessibility Template (VPAT), an Accessibility Conformance Report (ACR), installation guides, accessibility guides, guides for using the tool with different assistive technologies, etc?</p>
+											<p>Did you obtain a Voluntary Product Accessibility Template (VPAT) or an Accessibility Conformance Report (ACR) from the company?</p>
 											<ul>
 												<li data-wb-fieldflow='{"action": "ajax", "url": "./intake-form/index.html#VPATDone","container":"#ajaxContainer","type": "replace"}'>Yes</li>
 												<li data-wb-fieldflow='{"action": "ajax", "url": "./intake-form/index.html#VPATNotDone","container":"#ajaxContainer", "type": "replace"}'>No</li>
+												<li data-wb-fieldflow='{"action": "ajax", "url": "./intake-form/index.html#VPATACR","container":"#ajaxContainer", "type": "replace"}'>I don't know what a VPAT and an ACR is.</li>
 											</ul>
 										</div>
 									</li>
