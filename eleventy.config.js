@@ -10,6 +10,7 @@ module.exports = function(eleventyConfig) {
 	// For example, `./public/css/` ends up in `_site/css/`
 	eleventyConfig.addPassthroughCopy({
 		"./public": "/",
+		"./admin": "/admin",
 	});
 
 	eleventyConfig.addFilter("postDate", (dateObj) => {
