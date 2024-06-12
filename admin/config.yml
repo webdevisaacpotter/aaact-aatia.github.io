@@ -25,7 +25,7 @@ i18n:
 collections:
   - name: "events"
     label: "Events"
-    folder: "src/events"
+    folder: "content/events"
     create: true
     slug: "{{slug}}"
     i18n: true
