@@ -31,14 +31,15 @@ collections:
     i18n: true
     fields:
       - { label: "Title", name: "title", widget: "string", i18n: true }
-      - { label: "Description", name: "description", widget: "string", i18n: true }
+      - { label: "Host", name: "host", widget: "string", default: "", i18n: true }
       - { label: "Language", name: "language", widget: "select", options: ["English", "French"], i18n: duplicate }
       - { label: "Online", name: "online", widget: "boolean", default: duplicate }
-      - { label: "Teams Link", name: "teamsLink", widget: "string", i18n: duplicate }
-      - { label: "Teams ID", name: "teamsID", widget: "string", i18n: duplicate }
+      - { label: "Link", name: "link", widget: "string", i18n: duplicate }
+      - { label: "Link Text", name: "linkText", widget: "string", i18n: true }
+      - { label: "Teams ID", name: "teamsID", required: false, widget: "string", i18n: duplicate }
       - { label: "Audience", name: "audience", widget: "select", options: ["GC Employees and Managers", "All GC employees"], i18n: duplicate }
-      - { label: "Event Date", name: "eventDate", widget: "datetime", format: "YYYY-MM-DD", i18n: duplicate }
-      - { label: "Event Start Time", name: "startTime", widget: "datetime", format: "HH:mm", i18n: duplicate }
-      - { label: "Event End Time", name: "endTime", widget: "datetime", format: "HH:mm", i18n: duplicate }
-      - { label: "Location", name: "location", widget: "string", i18n: true }
-      - { label: "Body", name: "body", widget: "markdown",  i18n: true }
+      - { label: "Event Date", name: "eventDate", widget: "datetime", date_format: "YYYY-MM-DD", i18n: duplicate }
+      - { label: "Event Start Time", name: "startTime", widget: "datetime", time_format: "HH:mm", i18n: duplicate }
+      - { label: "Event End Time", name: "endTime", widget: "datetime", time_format: "HH:mm", i18n: duplicate }
+      - { label: "Location", name: "location", widget: "string", default: "Microsoft Teams", i18n: duplicate }
+      - { label: "Details", name: "body", widget: "markdown",  i18n: true }
