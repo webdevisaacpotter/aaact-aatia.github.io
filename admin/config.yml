@@ -1,8 +1,7 @@
 local_backend: true
 
 backend:
-  name: github
-  repo: aaact-aatia/aaact-aatia.github.io
+  name: git-gateway
   branch: main
 
 publish_mode: editorial_workflow
