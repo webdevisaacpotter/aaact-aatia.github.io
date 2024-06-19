@@ -6,7 +6,7 @@
 		"build": "npx @11ty/eleventy",
 		"build-ghpages": "npx @11ty/eleventy --pathprefix=/eleventy-base-blog/",
 		"start": "npx @11ty/eleventy --serve --quiet",
-		"cms-local": "npm-run-all --parallel start decap",
+		"cms": "npm-run-all --parallel start decap",
 		"decap": "npx decap-server",
 		"debug": "DEBUG=Eleventy* npx @11ty/eleventy",
 		"debugstart": "DEBUG=Eleventy* npx @11ty/eleventy --serve --quiet",
