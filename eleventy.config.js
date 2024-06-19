@@ -1,9 +1,9 @@
 const { DateTime } = require("luxon");
 const markdownItAnchor = require("markdown-it-anchor");
-
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 const pluginSyntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const { EleventyHtmlBasePlugin } = require("@11ty/eleventy");
+const getFileInfo = require("./scripts/filters/fileInfo");
 
 module.exports = function(eleventyConfig) {
 	// Copy the contents of the `public` folder to the output folder
@@ -11,6 +11,15 @@ module.exports = function(eleventyConfig) {
 	eleventyConfig.addPassthroughCopy({
 		"./public": "/",
 		"./admin": "/admin",
+	});
+
+	eleventyConfig.addNunjucksAsyncFilter("fileInfo", async (filePaths, callback) => {
+		try {
+			const fileInfoArray = await getFileInfo(filePaths);
+			callback(null, fileInfoArray);
+		} catch (error) {
+			callback(error, null);
+		}
 	});
 
 	eleventyConfig.addFilter("postDate", (dateObj) => {

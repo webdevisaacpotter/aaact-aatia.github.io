@@ -1,0 +1,17 @@
+{% if fileInfoArray and fileInfoArray.length > 0 %}
+<ul class="file-list">
+	{% for fileInfo in fileInfoArray %}
+	{% set fileType = "" %}
+	{% if fileInfo.path.endsWith('.docx') %}
+	{% set fileType = "Word" %}
+	{% elif fileInfo.path.endsWith('.ppt') %}
+	{% set fileType = "PowerPoint" %}
+	{% elif fileInfo.path.endsWith('.pdf') %}
+	{% set fileType = "PDF" %}
+	{% endif %}
+	<li>
+		<a href="{{ fileInfo.path }}">{{ fileInfo.title }} ({{ fileType }}, {{ fileInfo.displaySize }} {{ fileInfo.displayUnit }})</a>
+	</li>
+	{% endfor %}
+</ul>
+{% endif %}
