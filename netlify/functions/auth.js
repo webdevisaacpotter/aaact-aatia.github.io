@@ -15,17 +15,20 @@ exports.handler = async function (event, context) {
 			};
 		}
 
+		const tokenRequestBody = {
+			client_id: process.env.GITHUB_CLIENT_ID,
+			client_secret: process.env.GITHUB_CLIENT_SECRET,
+			code
+		};
+		console.log('Token request body:', tokenRequestBody);
+
 		const response = await fetch('https://github.com/login/oauth/access_token', {
 			method: 'POST',
 			headers: {
 				'Content-Type': 'application/json',
 				'Accept': 'application/json'
 			},
-			body: JSON.stringify({
-				client_id: process.env.GITHUB_CLIENT_ID,
-				client_secret: process.env.GITHUB_CLIENT_SECRET,
-				code
-			})
+			body: JSON.stringify(tokenRequestBody)
 		});
 
 		const data = await response.json();
