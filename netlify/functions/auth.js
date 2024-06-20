@@ -1,9 +1,19 @@
-const fetch = require('node-fetch');
-
 exports.handler = async function (event, context) {
+	console.log('Auth function invoked');
 	try {
+		const { default: fetch } = await import('node-fetch');
+
 		const params = new URLSearchParams(event.queryStringParameters);
 		const code = params.get('code');
+		console.log('Authorization code:', code);
+
+		if (!code) {
+			console.error('Authorization code not found in query parameters');
+			return {
+				statusCode: 400,
+				body: JSON.stringify({ message: 'Authorization code not found' })
+			};
+		}
 
 		const response = await fetch('https://github.com/login/oauth/access_token', {
 			method: 'POST',
@@ -19,7 +29,10 @@ exports.handler = async function (event, context) {
 		});
 
 		const data = await response.json();
+		console.log('Response from GitHub:', data);
+
 		const accessToken = data.access_token;
+		console.log('Access token:', accessToken);
 
 		if (!accessToken) {
 			console.error('No access token received:', data);
@@ -37,6 +50,7 @@ exports.handler = async function (event, context) {
 		});
 
 		const userData = await userResponse.json();
+		console.log('User data:', userData);
 
 		if (!userData.login) {
 			console.error('Failed to fetch user data:', userData);
@@ -51,6 +65,8 @@ exports.handler = async function (event, context) {
 				'Authorization': `token ${accessToken}`
 			}
 		});
+
+		console.log('Organization membership response status:', orgResponse.status);
 
 		if (orgResponse.status === 204) {
 			// User is a member of the organization
