@@ -29,7 +29,7 @@ exports.handler = async function (event, context) {
 
 	const userData = await userResponse.json();
 
-	const orgResponse = await fetch(`https://api.github.com/orgs/aaact-aatia/people/${userData.login}`, {
+	const orgResponse = await fetch(`https://api.github.com/orgs/aaact-aatia/members/${userData.login}`, {
 		headers: {
 			'Authorization': `token ${accessToken}`
 		}
