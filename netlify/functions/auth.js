@@ -25,7 +25,7 @@ exports.handler = async function (event, context) {
 			console.error('No access token received:', data);
 			return {
 				statusCode: 400,
-				body: JSON.stringify({ message: 'Authentication failed' })
+				body: JSON.stringify({ message: 'Authentication failed', error: data })
 			};
 		}
 
@@ -42,7 +42,7 @@ exports.handler = async function (event, context) {
 			console.error('Failed to fetch user data:', userData);
 			return {
 				statusCode: 400,
-				body: JSON.stringify({ message: 'Failed to fetch user data' })
+				body: JSON.stringify({ message: 'Failed to fetch user data', error: userData })
 			};
 		}
 
@@ -69,7 +69,7 @@ exports.handler = async function (event, context) {
 		console.error('Error in authentication function:', error);
 		return {
 			statusCode: 500,
-			body: JSON.stringify({ message: 'Internal Server Error' })
+			body: JSON.stringify({ message: 'Internal Server Error', error: error.message })
 		};
 	}
 };
