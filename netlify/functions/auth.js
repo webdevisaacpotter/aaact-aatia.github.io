@@ -17,7 +17,6 @@ exports.handler = async function (event, context) {
 
 		const tokenRequestBody = {
 			client_id: process.env.GITHUB_CLIENT_ID,
-			client_secret: process.env.GITHUB_CLIENT_SECRET,
 			code
 		};
 		console.log('Token request body:', tokenRequestBody);
