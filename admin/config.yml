@@ -3,7 +3,7 @@ local_backend: true
 # Use DecapBridge auth
 backend:
   name: git-gateway
-  repo: https://github.com/aaact-aatia/aaact-aatia.github.io
+  repo: aaact-aatia/aaact-aatia.github.io
   branch: main
   identity_url: https://auth.decapbridge.com/sites/26e21dc3-ba5e-49f2-9c2d-f1dd43f1117c
   gateway_url: https://gateway.decapbridge.com
