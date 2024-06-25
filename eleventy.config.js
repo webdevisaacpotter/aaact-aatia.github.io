@@ -92,6 +92,11 @@ module.exports = function(eleventyConfig) {
 		});
 	});
 
+	eleventyConfig.addFilter("localeMatch", function (collection) {
+		const { locale } = this.ctx; // avoid retrieving it for each item
+		return collection.filter((item) => item.data.locale === locale);
+	});
+
 	// Customize Markdown library settings:
 	eleventyConfig.amendLibrary("md", mdLib => {
 		mdLib.use(markdownItAnchor, {

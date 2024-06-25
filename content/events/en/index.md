@@ -13,5 +13,5 @@ To help promote upcoming accessibility activities organized by various Governmen
 
 {# List all events here #}
 
-{% set eventslist = collections.events %}
+{% set eventslist = collections.events | localeMatch(locale) %}
 {% include "partials/eventslist.njk" %}

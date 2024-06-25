@@ -14,5 +14,5 @@ Pour aider à promouvoir les activités d'accessibilité à venir organisées pa
 
 {# Liste de tous les événements ici #}
 
-{% set eventslist = collections.events %}
+{% set eventslist = collections.events | localeMatch(locale) %}
 {% include "partials/eventslist.njk" %}
