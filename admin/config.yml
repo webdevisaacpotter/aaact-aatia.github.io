@@ -47,7 +47,7 @@ collections:
       - { label: "Title (required)", name: "title", widget: "string", i18n: true }
       - { label: "Host", name: "host", widget: "string", default: "", i18n: true, required: false }
       - { label: "Language", name: "language", widget: "select", options: ["English", "French"], i18n: duplicate, required: false }
-      - { label: "Online (required)", name: "online", widget: "boolean", default: true }
+      - { label: "Online (required)", name: "online", widget: "boolean", default: true, i18n: duplicate }
       - { label: "Link", name: "link", widget: "string", i18n: duplicate, required: false }
       - { label: "Link Text", name: "linkText", widget: "string", i18n: true, required: false }
       - { label: "Teams ID", name: "teamsID", widget: "string", i18n: duplicate, required: false }

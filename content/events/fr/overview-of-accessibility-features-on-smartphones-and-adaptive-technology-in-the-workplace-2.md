@@ -2,6 +2,7 @@
 title: Aperçu des caractéristiques d’accessibilité sur les téléphones
   intelligents et de la technologie adaptée en milieu de travail
 host: ""
+online: true
 eventDate: 2024-06-18
 location: Microsoft Teams
 ---

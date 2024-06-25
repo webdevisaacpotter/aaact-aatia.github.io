@@ -2,6 +2,7 @@
 title: Atelier des documents accessibles
 host: Le Programme d’accessibilité, d’adaptation et de technologie informatique
   adaptée (AATIA) à Services partagés Canada
+online: true
 language: French
 link: https://teams.microsoft.com/l/meetup-join/19%3ameeting_MGNkNzg4OWYtZDk0ZS00NDcwLTg0NmQtMTM3MThlNjQwN2Nl%40thread.v2/0?context=%7b%22Tid%22%3a%22d05bc194-94bf-4ad6-ae2e-1db0f2e38f5e%22%2c%22Oid%22%3a%22c2372ff0-7823-4e1f-b52c-c5b6d4b4df22%22%7d
 linkText: Lien d'atelier
