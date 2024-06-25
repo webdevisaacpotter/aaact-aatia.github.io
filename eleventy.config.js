@@ -82,6 +82,16 @@ module.exports = function(eleventyConfig) {
 		return (tags || []).filter(tag => ["all", "nav", "post", "posts"].indexOf(tag) === -1);
 	});
 
+	const slugifyFilter = eleventyConfig.javascriptFunctions.slugify;
+
+	eleventyConfig.addFilter("stripTagsSlugify", (str) => {
+
+		if (!str) return;
+
+		return slugifyFilter(stripHtml(str).result, {
+		});
+	});
+
 	// Customize Markdown library settings:
 	eleventyConfig.amendLibrary("md", mdLib => {
 		mdLib.use(markdownItAnchor, {
