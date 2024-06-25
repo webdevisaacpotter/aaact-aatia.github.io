@@ -4,23 +4,23 @@
 	<li class="col-xs-12 col-md-6 mrgn-tp-md mrgn-bttm-md">
 		<div class="brdr-tp brdr-rght brdr-bttm brdr-lft hght-inhrt">
 			<h3 class="mrgn-tp-md mrgn-rght-md mrgn-bttm-md mrgn-lft-md">{{ event.data.title }}
-				{% if event.data.online %}<span class="label label-success mrgn-lft-sm"><span class="wb-inv">Location: </span>Online</span>{% endif %}
-				{% if event.data.host %}<small>Presented by <strong>{{ event.data.host }}</strong></small>{% endif %}
+				{% if event.data.online %}<span class="label label-success mrgn-lft-sm"><span class="wb-inv">{{ events[locale].location }} </span>{{ events[locale].online }}</span>{% endif %}
+				{% if event.data.host %}<small>{{ events[locale].hostedBy }} <strong>{{ event.data.host }}</strong></small>{% endif %}
 			</h3>
 			<div class="mrgn-rght-md mrgn-bttm-md mrgn-lft-md">
 				<p>{{ event.content | safe }}</p>
 				<dl>
-					<dt>Event start time</dt>
+					<dt>{{ events[locale].startTime }}</dt>
 					<dd>{{ event.data.startTime }}</dd>
-					<dt>Event end time</dt>
+					<dt>{{ events[locale].endTime }}</dt>
 					<dd>{{ event.data.endTime }}</dd>
-					<dt>Event date</dt>
+					<dt>{{ events[locale].eventDate }}</dt>
 					<dd>{{ event.data.eventDate | htmlDateString }}</dd>
-					<dt>Language of presentation</dt>
+					<dt>{{ events[locale].language }}</dt>
 					<dd>{{ event.data.language }}</dd>
-					<dt>Audience</dt>
+					<dt>{{ events[locale].audience }}</dt>
 					<dd>{{ event.data.audience }}</dd>
-					<dt>Location</dt>
+					<dt>{{ events[locale].eventLocation }}</dt>
 					<dd>{{ event.data.location }}</dd>
 				</dl>
 			</div>
