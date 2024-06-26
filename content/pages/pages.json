@@ -1,0 +1,7 @@
+{
+	"tags": [
+		"pages"
+	],
+	"permalink": "{{ locale }}/{{ title | slugify }}/",
+	"layout": "layouts/base.njk"
+}
