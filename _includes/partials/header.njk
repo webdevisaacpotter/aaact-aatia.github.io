@@ -109,7 +109,9 @@
 	</div>
 </div>
 
-{% include "partials/breadcrumbs.njk" %}
+{%- if page.url != "/en/" and page.url != "/fr/" -%}
+	{% include "partials/breadcrumbs.njk" %}
+{%- endif -%}
 
 </header>
 
