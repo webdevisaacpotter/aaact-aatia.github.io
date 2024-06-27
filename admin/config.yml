@@ -37,6 +37,21 @@ i18n:
   default_locale: en
 
 collections:
+
+  - name: "pages"
+    label: "Pages"
+    folder: "content/pages"
+    create: true
+    identifier_field: "title"
+    slug: "{{slug}}"
+    i18n: true
+    fields:
+      - { label: "Title (required)", name: "title", widget: "string", i18n: true }
+      - { label: "Description", name: "description", widget: "markdown", i18n: true }
+      - { label: "Other Language Link", name: "otherLangLink", widget: "string", i18n: true }
+      - { label: "File", name: "file", widget: "file", i18n: true, required: false, media_library: { config: { multiple: true } } }
+      - { label: "Details (required)", name: "body", widget: "markdown",  i18n: true }
+
   - name: "events"
     label: "Events"
     folder: "content/events"
@@ -56,18 +71,5 @@ collections:
       - { label: "Event Start Time", name: "startTime", widget: "datetime", time_format: "HH:mm", i18n: duplicate, required: false }
       - { label: "Event End Time", name: "endTime", widget: "datetime", time_format: "HH:mm", i18n: duplicate, required: false }
       - { label: "Location", name: "location", widget: "string", default: "Microsoft Teams", i18n: duplicate, required: false }
-      - { label: "File", name: "file", widget: "file", i18n: true, required: false, media_library: { config: { multiple: true } } }
-      - { label: "Details (required)", name: "body", widget: "markdown",  i18n: true }
-  - name: "pages"
-    label: "Pages"
-    folder: "content/pages"
-    create: true
-    identifier_field: "title"
-    slug: "{{slug}}"
-    i18n: true
-    fields:
-      - { label: "Title (required)", name: "title", widget: "string", i18n: true }
-      - { label: "Description", name: "description", widget: "markdown", i18n: true }
-      - { label: "Other Language Link", name: "otherLangLink", widget: "string", i18n: true }
       - { label: "File", name: "file", widget: "file", i18n: true, required: false, media_library: { config: { multiple: true } } }
       - { label: "Details (required)", name: "body", widget: "markdown",  i18n: true }
