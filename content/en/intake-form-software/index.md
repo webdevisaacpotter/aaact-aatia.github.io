@@ -50,12 +50,11 @@ customScript: /js/intake-form-software.js
         <!-- After reading the above, I agree -->
         <fieldset class="focus-group" tabindex="0">
             <legend class="gc-label">
-                <span class="field-name">After reading the above, I agree to</span> the following:
+                After reading the above, <span class="field-name">I agree to</span> the following:
                 <span class="required"> (all checkboxes required)</span>
             </legend>
             <!-- 1st checkbox -->
             <div class="gc-input-checkbox">
-                <div class="wb-inv">After reading the above, I agree to: </div>
                 <input id="agreement_1" required="required" class="gc-input-checkbox__input" type="checkbox" value="Fill out and submit the self-assessment form before AAACT's testing." name= "agreement_1">
                 <label class="gc-checkbox-label" for="agreement_1">
                     Fill out and submit the self-assessment form before AAACT's testing.
@@ -63,7 +62,6 @@ customScript: /js/intake-form-software.js
             </div>
             <!-- 2nd checkbox -->
             <div class="gc-input-checkbox">
-                <div class="wb-inv">After reading the above, I agree to: </div>
                 <input id="agreement_2" required="required" class="gc-input-checkbox__input" type="checkbox" value="Complete this form only if you are seeking sample/verification testing." name= "agreement_2">
                 <label class="gc-checkbox-label" for="agreement_2">
                     Complete this form only if you are seeking sample/verification testing
@@ -71,7 +69,6 @@ customScript: /js/intake-form-software.js
             </div>
             <!-- 3rd checkbox -->
             <div class="gc-input-checkbox">
-                <div class="wb-inv">After reading the above, I agree to: </div>
                 <input id="agreement_3" required="required" class="gc-input-checkbox__input" type="checkbox" value="Seek a VPAT® or ACR from the company when using a COTS product." name= "agreement_3">
                 <label class="gc-checkbox-label" for="agreement_3">
                      Seek a VPAT® or ACR from the company when using a COTS product.
@@ -86,7 +83,6 @@ customScript: /js/intake-form-software.js
             </legend>
             <!-- 1st checkbox -->
             <div class="gc-input-radio">
-                <div class="wb-inv">Are you currently in the middle of a procurement process?</div>
                 <input id="procurementYes" data-rule-required="true" class="gc-radio__input" type="radio" value="Yes" name="Procurement Process">
                 <label class="gc-radio-label" for="procurementYes">
                 Yes
@@ -94,12 +90,12 @@ customScript: /js/intake-form-software.js
             </div>
             <!-- 2nd checkbox -->
             <div class="gc-input-radio">
-                <div class="wb-inv">Are you currently in the middle of a procurement process?</div>
                 <input id="procurementNo" class="gc-radio__input" type="radio" value="No" name="Procurement Process">
                 <label class="gc-radio-label" for="procurementNo">
                     No
                 </label>
             </div>
+            <div id="inProcurement" aria-hidden="true"  class="hidden" aria-live="polite"></div>
         </fieldset>
         <!-- Contact Details -->
         <div>
@@ -139,7 +135,6 @@ customScript: /js/intake-form-software.js
                 <span class="required"> (required)</span>
             </legend>
             <div class="gc-input-radio">
-                <div class="wb-inv">Preferred language for communication</div>
                 <input id="languageEN" data-rule-required="true" class="gc-radio__input" type="radio" value="English" name="Preferred language">
                 <label class="gc-radio-label" for="languageEN">
                     English</span>
@@ -147,7 +142,6 @@ customScript: /js/intake-form-software.js
             </div>
             <!--  -->
             <div class="gc-input-radio">
-                <div class="wb-inv">Preferred language for communication</div>
                 <input id="languageFR" class="gc-radio__input" type="radio" value="French" name="Preferred language">
                 <label class="gc-radio-label" for="languageFR">
                     French</span>
@@ -350,63 +344,54 @@ customScript: /js/intake-form-software.js
                 <span class="required"> (required)</span>
             </legend>
             <div class="gc-input-checkbox">
-                <div class="wb-inv">Please check all that apply for the application:</div>
                 <input id="applicationDetails1" data-rule-required="true" class="gc-input-checkbox__input" type="checkbox" value="Web-based" name="Application Details">
                 <label class="gc-checkbox-label" for="applicationDetails1"> 
                 Web-based
                 </label>
             </div>
             <div class="gc-input-checkbox">
-                <div class="wb-inv">Please check all that apply for the application:</div>
                 <input id="applicationDetails2" class="gc-input-checkbox__input" type="checkbox" value="Desktop application" name="Application Details">
                 <label class="gc-checkbox-label" for="applicationDetails2"> 
                 Desktop application
                 </label>
             </div>
             <div class="gc-input-checkbox">
-                <div class="wb-inv">Please check all that apply for the application:</div>
                 <input id="applicationDetails3" class="gc-input-checkbox__input" type="checkbox" value="Mobile application" name="Application Details">
                 <label class="gc-checkbox-label" for="applicationDetails3">
                     <span>Mobile application</span>
                 </label>
             </div>
             <div class="gc-input-checkbox">
-                <div class="wb-inv">Please check all that apply for the application:</div>
                 <input id="applicationDetails4" class="gc-input-checkbox__input" type="checkbox" value="Authoring tool" name="Application Details">
                 <label class="gc-checkbox-label" for="applicationDetails4">   
                     <span>Authoring tool</span>
                 </label>
             </div>
             <div class="gc-input-checkbox">
-                <div class="wb-inv">Please check all that apply for the application:</div>
                 <input id="applicationDetails5" class="gc-input-checkbox__input" type="checkbox" value="Based on GC Design System or Web Experience Toolkit (WET)" name="Application Details">
                 <label class="gc-checkbox-label" for="applicationDetails5">
                     <span>Based on GC Design System or Web Experience Toolkit (WET)</span>
                 </label>
             </div>
             <div class="gc-input-checkbox">
-                <div class="wb-inv">Please check all that apply for the application:</div>
                 <input id="applicationDetails6" class="gc-input-checkbox__input" type="checkbox" value="Contains time-based media (videos)" name="Application Details">
                 <label class="gc-checkbox-label" for="applicationDetails6">
                     <span>Contains time-based media (videos)</span>
                 </label>
             </div>
             <div class="gc-input-checkbox">
-                <div class="wb-inv">Please check all that apply for the application:</div>
                 <input id="applicationDetails7" class="gc-input-checkbox__input" type="checkbox" value="Contains fillable forms" name="Application Details">
                 <label class="gc-checkbox-label" for="applicationDetails7">
                     <span>Contains fillable forms</span>
                 </label>
             </div>
             <div class="gc-input-checkbox">
-                <div class="wb-inv">Please check all that apply for the application:</div>
                 <input id="applicationDetails8" class="gc-input-checkbox__input" type="checkbox" value="Includes an admin side" name="Application Details">
                 <label class="gc-checkbox-label" for="applicationDetails8">
                     <span>Includes an admin side</span>
                 </label>
             </div>
             <div class="gc-input-checkbox">
-                <div class="wb-inv">Please check all that apply for the application:</div>
                 <input id="applicationDetails9" class="gc-input-checkbox__input" type="checkbox" value="Supports multiple user roles" name="Application Details">
                 <label class="gc-checkbox-label" for="applicationDetails9">
                     <span>Supports multiple user roles</span>
@@ -417,21 +402,18 @@ customScript: /js/intake-form-software.js
         <fieldset class="focus-group" tabindex="0">
             <legend class="gc-label">Will this application be public-facing, internal or both?</legend>
             <div class="gc-input-radio">
-                <div class="wb-inv">Will this application be public-facing, internal or both?</div>
                 <input id="applicationReachPublic" class="gc-radio__input" type="radio" value="Public-facing" name="Application Reach">
                 <label class="gc-radio-label" for="applicationReachPublic">
                     Public-facing
                 </label>
             </div>
             <div class="gc-input-radio">
-                <div class="wb-inv">Will this application be public-facing, internal or both?</div>
                 <input id="applicationReachInternal" class="gc-radio__input" type="radio" value="Internal" name="Application Reach">
                 <label class="gc-radio-label" for="applicationReachInternal">
                     Internal
                 </label>
             </div>
             <div class="gc-input-radio">
-                <div class="wb-inv">Will this application be public-facing, internal or both?</div>
                 <input id="applicationReachBoth" class="gc-radio__input" type="radio" value="Both" name="Application Reach">
                 <label class="gc-radio-label" for="applicationReachBoth">
                     Both
@@ -441,20 +423,18 @@ customScript: /js/intake-form-software.js
         <fieldset class="focus-group" tabindex="0">
             <legend class="gc-label">Is the application currently live?</legend>
             <div class="gc-input-radio">
-                <div class="wb-inv">Is the application currently live?</div>
                 <input id="applicationLiveYes" class="gc-radio__input" type="radio" value="Yes" name="Application Live">
                 <label class="gc-radio-label" for="applicationLiveYes">
                     Yes
                 </label>
             </div>
-            <!--  -->
             <div class="gc-input-radio">
-                <div class="wb-inv">Is the application currently live?</div>
                 <input id="applicationLiveNo" class="gc-radio__input" type="radio" value="No" name="Application Live">
                 <label class="gc-radio-label" for="applicationLiveNo">
                     No
                 </label>
             </div>
+            <div id="appLive" aria-hidden="true"  class="hidden" aria-live="polite"></div>
         </fieldset>
         <!-- Special access -->
         <fieldset class="focus-group" aria-describedby="access-desc" tabindex="0">
@@ -464,14 +444,12 @@ customScript: /js/intake-form-software.js
             </legend>
             <div class="gc-description" id="access-desc">If the answer is yes, please refrain from sharing the details within this form. We will inquire about any necessary accounts or access setup in our response email regarding this task.</div>
             <div class="gc-input-radio">
-                <div class="wb-inv">Will we need accounts or any special method of access to be set up?</div>
                 <input id="specialAccessYes" data-rule-required="true" class="gc-radio__input" type="radio" value="Yes" name="Special access">
                 <label class="gc-radio-label" for="specialAccessYes">
                     Yes
                 </label>
             </div>
             <div class="gc-input-radio">
-                <div class="wb-inv">Will we need accounts or any special method of access to be set up?</div>
                 <input id="specialAccessNo" class="gc-radio__input" type="radio" value="No" name="Special access">
                 <label class="gc-radio-label" for="specialAccessNo">
                     No
@@ -485,28 +463,24 @@ customScript: /js/intake-form-software.js
                 <span class="required"> (required)</span>
             </legend>
             <div class="gc-input-radio">
-                <div class="wb-inv">Approximately, how many users do you expect will use the solution?</div>
                 <input id="numUsers_less20" data-rule-required="true" class="gc-radio__input" type="radio" value="Less than 20" name="Num of Users">
                 <label class="gc-radio-label" for="numUsers_less20">
                     Less than 20
                 </label>
             </div>
             <div class="gc-input-radio">
-                <div class="wb-inv">Approximately, how many users do you expect will use the solution?</div>
                 <input id="numUsers_btw20_100" class="gc-radio__input" type="radio" value="20 to 100" name="Num of Users">
                 <label class="gc-radio-label" for="numUsers_btw20_100">
                     20 to 100
                 </label>
             </div>
             <div class="gc-input-radio">
-                <div class="wb-inv">Approximately, how many users do you expect will use the solution?</div>
                 <input id="numUsers_btw100_1000" class="gc-radio__input" type="radio" value="100 to 1000" name="Num of Users">
                 <label class="gc-radio-label" for="numUsers_btw100_1000">
                     100 to 1000
                 </label>
             </div>
             <div class="gc-input-radio">
-                <div class="wb-inv">Approximately, how many users do you expect will use the solution?</div>
                 <input id="numUsers_more10000_" class="gc-radio__input" type="radio" value="More than 1000" name="Num of Users">
                 <label class="gc-radio-label" for="numUsers_more10000_">
                     More than 1000
@@ -537,28 +511,24 @@ customScript: /js/intake-form-software.js
                 <span class="required"> (required)</span>
             </legend>
             <div class="gc-input-radio">
-                <div class="wb-inv">What is the current stage of development for your project?</div>
                 <input id="stage.0" data-rule-required="true" class="gc-radio__input" type="radio" value="Design (drafting requirements)" name="Stage of Development">
                 <label class="gc-radio-label" for="stage.0">
                     Design (drafting requirements)
                 </label>
             </div>
             <div class="gc-input-radio">
-                <div class="wb-inv">What is the current stage of development for your project?</div>
                 <input id="stage.1" class="gc-radio__input" type="radio" value="Development (building the solution)" name="Stage of Development">
                 <label class="gc-radio-label" for="stage.1">
                     Development (building the solution)
                 </label>
             </div>
             <div class="gc-input-radio">
-                <div class="wb-inv">What is the current stage of development for your project?</div>
                 <input id="stage.2" class="gc-radio__input" type="radio" value="Quality assurance (reviewing the app, most development is complete)" name="Stage of Development">
                 <label class="gc-radio-label" for="stage.2">
                     Quality assurance (reviewing the app, most development is complete)
                 </label>
             </div>
             <div class="gc-input-radio">
-                <div class="wb-inv">What is the current stage of development for your project?</div>
                 <input id="stage.3" class="gc-radio__input" type="radio" value="Ready for or post deployment (app has been accepted in its current state)" name="Stage of Development">
                 <label class="gc-radio-label" for="stage.3">
                     Ready for or post deployment (app has been accepted in its current state)
@@ -591,14 +561,12 @@ customScript: /js/intake-form-software.js
             <legend class="gc-label">Are you looking to have user testers?</legend>
             <div class="gc-description" id="userTesting-desc">We suggest requesting user testing only after ensuring that the application meets the accessibility standards (EN 301 549).</div>
             <div class="gc-input-radio">
-                <div class="wb-inv">Are you looking to have user testers?</div>
                 <input id="userTestingYes" class="gc-radio__input" type="radio" value="Yes" name="userTesting">
                 <label class="gc-radio-label" for="userTestingYes">
                     Yes
                 </label>
             </div>
             <div class="gc-input-radio">
-                <div class="wb-inv">Are you looking to have user testers?</div>
                 <input id="userTestingNo" class="gc-radio__input" type="radio" value="No" name="userTesting">
                 <label class="gc-radio-label" for="userTestingNo">
                     No
@@ -609,14 +577,12 @@ customScript: /js/intake-form-software.js
         <fieldset class="focus-group" tabindex="0">
             <legend class="gc-label">Did you complete the self-assessment?</legend>
             <div class="gc-input-radio">
-                <div class="wb-inv">Did you complete the self-assessment?</div>
                 <input id="selfAssessmentYes" class="gc-radio__input" type="radio" value="Yes" name="Self Assessment">
                 <label class="gc-radio-label" for="selfAssessmentYes">
                     Yes
                 </label>
             </div>
             <div class="gc-input-radio">
-                <div class="wb-inv">Did you complete the self-assessment?</div>
                 <input id="selfAssessmentNo" class="gc-radio__input" type="radio" value="No" name="Self Assessment">
                 <label class="gc-radio-label" for="selfAssessmentNo">
                     No
