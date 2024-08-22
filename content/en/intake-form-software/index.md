@@ -1,6 +1,7 @@
 ---
 title: "Intake Form: Software Testing Request"
 customScript: /js/intake-form-software.js
+permalink: /en/intake-form-software/
 ---
 
 <div id="AAACTSoftwareDescription">
@@ -345,13 +346,13 @@ customScript: /js/intake-form-software.js
             </legend>
             <div class="gc-input-checkbox">
                 <input id="applicationDetails1" data-rule-required="true" class="gc-input-checkbox__input" type="checkbox" value="Web-based" name="Application Details">
-                <label class="gc-checkbox-label" for="applicationDetails1"> 
+                <label class="gc-checkbox-label" for="applicationDetails1">
                 Web-based
                 </label>
             </div>
             <div class="gc-input-checkbox">
                 <input id="applicationDetails2" class="gc-input-checkbox__input" type="checkbox" value="Desktop application" name="Application Details">
-                <label class="gc-checkbox-label" for="applicationDetails2"> 
+                <label class="gc-checkbox-label" for="applicationDetails2">
                 Desktop application
                 </label>
             </div>
@@ -363,7 +364,7 @@ customScript: /js/intake-form-software.js
             </div>
             <div class="gc-input-checkbox">
                 <input id="applicationDetails4" class="gc-input-checkbox__input" type="checkbox" value="Authoring tool" name="Application Details">
-                <label class="gc-checkbox-label" for="applicationDetails4">   
+                <label class="gc-checkbox-label" for="applicationDetails4">
                     <span>Authoring tool</span>
                 </label>
             </div>
@@ -603,12 +604,8 @@ customScript: /js/intake-form-software.js
             <p><strong>Complaints</strong></p>
             <p>If you have concerns about how your personal information is handled, you may file a complaint with [insert contact details for the institution’s complaint process] or with the Privacy Commissioner of Canada.</p>
         </div>
-        <div id="PreviewSubmitButton"> 
+        <div id="PreviewSubmitButton">
             <button type="submit" id="SubmitButton">Submit</button>
-            <div class="inline-block bg-purple-200 px-4 py-1">
-                <a href="/en/auth/login">Sign in</a> to test how you can submit and view responses
-            </div>
         </div>
     </form>
 </div>
-

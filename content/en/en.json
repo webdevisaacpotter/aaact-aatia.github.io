@@ -1,0 +1,6 @@
+{
+	"date": "git Last Modified",
+	"layout": "layouts/base.njk",
+	"permalink": "{{ locale }}/{{ title | slugify }}/",
+	"locale": "en"
+}

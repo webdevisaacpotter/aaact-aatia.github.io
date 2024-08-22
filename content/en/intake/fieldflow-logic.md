@@ -1,6 +1,7 @@
 ---
 title: Intake form information
 description: Intake form information description
+permalink: /en/fieldflow-logic/
 ---
 
 <!-- <a href = ""> </a>
@@ -35,7 +36,7 @@ Contact us at <a href = "mailto:AAACT-AATIA@ssc-spc.gc.ca">AAACT-AATIA@ssc-spc.g
 		Contact us at <a href = "mailto:AAACT-AATIA@ssc-spc.gc.ca">AAACT-AATIA@ssc-spc.gc.ca</a> if you have more questions.</p>
 	</div>
 </section>
-    
+
 <section id="workshops">
 	<p id="loadingMessage" class="wb-inv">Content loaded...</p>
 	<div class = "well">
@@ -53,7 +54,7 @@ Contact us at <a href = "mailto:AAACT-AATIA@ssc-spc.gc.ca">AAACT-AATIA@ssc-spc.g
 		There are many ways to modify your computer and display settings to increase content readability. This session explores setting changes, free add-ons to install on your computer, and software available to enlarge, magnify, and improve readability of material.
 		Through this session, participants gain an understanding of techniques and available options to improve material readability, reduce eye strain, and gain an enhanced computer use experience.<br><br>
 		<strong>Inclusion by design: information and communication technology (ICT) accessibility</strong><br>
-		This session raises awareness on accessibility-related issues and empowers participants as leaders in implementing solutions. Technology is used to demonstrate the various impacts of accessible/inaccessible content. This session is geared towards: 
+		This session raises awareness on accessibility-related issues and empowers participants as leaders in implementing solutions. Technology is used to demonstrate the various impacts of accessible/inaccessible content. This session is geared towards:
 		<ul>
 			<li>managers with business requirements to publish content on the web.</li>
 			<li>communication specialists, content creators or publishers.</li>
@@ -62,7 +63,7 @@ Contact us at <a href = "mailto:AAACT-AATIA@ssc-spc.gc.ca">AAACT-AATIA@ssc-spc.g
 		</ul><br>
 		Contact us at <a href = "mailto:AAACT-AATIA@ssc-spc.gc.ca">AAACT-AATIA@ssc-spc.gc.ca</a> if you have more questions.</p>
 	</div>
-	
+
 </section>
 
 <section id="a11y">
@@ -116,7 +117,7 @@ Contact us at <a href = "mailto:AAACT-AATIA@ssc-spc.gc.ca">AAACT-AATIA@ssc-spc.g
 			<li> <a href = "https://www.csps-efpc.gc.ca/tools/jobaids/access-virtual-events-eng.aspx">Canada School of Public Service (CSPC) - Planning Accessible Virtual Events</a></li>
 			<li> <a href = "https://www.w3.org/WAI/teach-advocate/accessible-presentations/">Web Accessibility Initiative (WAI) | W3C - Making Events Accessible</a></li>
 		</ul><br>
-		Contact us at <a href = "mailto:AAACT-AATIA@ssc-spc.gc.ca">AAACT-AATIA@ssc-spc.gc.ca</a> if you have more questions.</p>	
+		Contact us at <a href = "mailto:AAACT-AATIA@ssc-spc.gc.ca">AAACT-AATIA@ssc-spc.gc.ca</a> if you have more questions.</p>
 	</div>
 </section>
 
@@ -134,7 +135,7 @@ Contact us at <a href = "mailto:AAACT-AATIA@ssc-spc.gc.ca">AAACT-AATIA@ssc-spc.g
 			<li> <a href = "https://www.section508.gov/sell/acr-vpat-faq/">Accessibility Conformance Report/Voluntary Product Accessibility Template (VPAT) - Frequently Asked Questions (FAQ)</a> (Should maybe remove!)</li>
 			<li> <a href = "https://www.itic.org/policy/accessibility/vpat">Information Technology Industry Council - VPAT</a> (Should maybe remove!)</li>
 		</ul><br>
-		Contact us at <a href = "mailto:AAACT-AATIA@ssc-spc.gc.ca">AAACT-AATIA@ssc-spc.gc.ca</a> if you have more questions.</p>	
+		Contact us at <a href = "mailto:AAACT-AATIA@ssc-spc.gc.ca">AAACT-AATIA@ssc-spc.gc.ca</a> if you have more questions.</p>
 	</div>
 </section>
 
@@ -174,7 +175,7 @@ Contact us at <a href = "mailto:AAACT-AATIA@ssc-spc.gc.ca">AAACT-AATIA@ssc-spc.g
 				</ul>
 			</li>
 		</ul><br>
-		Contact us at <a href = "mailto:AAACT-AATIA@ssc-spc.gc.ca">AAACT-AATIA@ssc-spc.gc.ca</a> if you have more questions.</p>	
+		Contact us at <a href = "mailto:AAACT-AATIA@ssc-spc.gc.ca">AAACT-AATIA@ssc-spc.gc.ca</a> if you have more questions.</p>
 	</div>
 </section>
 
@@ -187,7 +188,7 @@ Contact us at <a href = "mailto:AAACT-AATIA@ssc-spc.gc.ca">AAACT-AATIA@ssc-spc.g
 			<li> <a href = "https://webaim.org/techniques/alttext/#logos">WebAIM: Alternative Text</a></li>
 			<li> <a href = "https://www.canada.ca/en/employment-social-development/programs/accessible-canada-regulations-guidance/alternate-formats/making-documents-more-accessible.html#h2.4.h3b">Employment and Social Development Canada (ESDC) - Alternative text for images and other visual elements</a></li>
 		</ul><br>
-		Contact us at <a href = "mailto:AAACT-AATIA@ssc-spc.gc.ca">AAACT-AATIA@ssc-spc.gc.ca</a> if you have more questions.</p>	
+		Contact us at <a href = "mailto:AAACT-AATIA@ssc-spc.gc.ca">AAACT-AATIA@ssc-spc.gc.ca</a> if you have more questions.</p>
 	</div>
 </section>
 
@@ -200,7 +201,7 @@ Contact us at <a href = "mailto:AAACT-AATIA@ssc-spc.gc.ca">AAACT-AATIA@ssc-spc.g
 			<li> <a href = "https://webaim.org/techniques/hypertext/link_text">WebAIM: Links and Hypertext</a></li>
 			<li> <a href = "https://www.w3.org/WAI/WCAG21/Understanding/link-purpose-in-context.html">Web Content Accessibility Guidelines (WCAG) - Link Purpose (In Context) (Level A)</a></li>
 		</ul><br>
-		Contact us at <a href = "mailto:AAACT-AATIA@ssc-spc.gc.ca">AAACT-AATIA@ssc-spc.gc.ca</a> if you have more questions.</p>	
+		Contact us at <a href = "mailto:AAACT-AATIA@ssc-spc.gc.ca">AAACT-AATIA@ssc-spc.gc.ca</a> if you have more questions.</p>
 	</div>
 </section>
 
@@ -220,14 +221,14 @@ Contact us at <a href = "mailto:AAACT-AATIA@ssc-spc.gc.ca">AAACT-AATIA@ssc-spc.g
 		</ul>
 		<p>In addition, GC departments/partners can also use their mailbox (<a href= "mailto:dcc-ssc.accessibility-accessibilite@ssc-spc.gc.ca">dcc-ssc.accessibility-accessibilite@ssc-spc.gc.ca</a>) to raise their M365 Official Language issues and we will take care to submit them to Microsoft as well. No need to use the template for Official Language, the template is only for Accessibility issues.<br><br>
 		You can find and evaluate ACRs from Microsoft and make informed decisions about technology used to build an inclusive workplace by browsing the <a href= "https://www.microsoft.com/en-us/accessibility/conformance-reports">Microsoft - Accessibility Conformance Reports</a>.<br><br>
-		Contact us at <a href = "mailto:AAACT-AATIA@ssc-spc.gc.ca">AAACT-AATIA@ssc-spc.gc.ca</a> if you have more questions.</p>	
+		Contact us at <a href = "mailto:AAACT-AATIA@ssc-spc.gc.ca">AAACT-AATIA@ssc-spc.gc.ca</a> if you have more questions.</p>
 	</div>
 </section>
 
 <section id="other">
 	<p id="loadingMessage" class="wb-inv">Content loaded...</p>
 	<div class = "well">
-		<p>If you have a specific question or if you have more questions please contact us at <a href = "mailto:AAACT-AATIA@ssc-spc.gc.ca">AAACT-AATIA@ssc-spc.gc.ca</a>.</p>	
+		<p>If you have a specific question or if you have more questions please contact us at <a href = "mailto:AAACT-AATIA@ssc-spc.gc.ca">AAACT-AATIA@ssc-spc.gc.ca</a>.</p>
 	</div>
 </section>
 
@@ -350,7 +351,7 @@ Contact us at <a href = "mailto:AAACT-AATIA@ssc-spc.gc.ca">AAACT-AATIA@ssc-spc.g
 		<ul>
 			<li>conduct the assessment of the product and review and compare the results provided by the vendor or developer, or</li>
 			<li>evaluate the accessibility conformance reports (ACR) that are based off the VPAT template received from the vendor or developer.</li>
-		</ul>			
+		</ul>
 		<br>
 		Contact us at <a href = "mailto:AAACT-AATIA@ssc-spc.gc.ca">AAACT-AATIA@ssc-spc.gc.ca</a> if you have more questions.</p>
 	</div>
