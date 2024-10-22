@@ -9,7 +9,7 @@ description: AAACT provides a variety of adaptive technologies, tools, and
   access to adaptive hardware and software. AAACT also offers training,
   workshops, and resources on accessibility, inclusive design, and digital
   content creation.
-otherLangLink: /fr/comment-le-programme-d-aatia-peut-il-vous-aider/
+otherLangLink: comment-le-programme-d-aatia-peut-il-vous-aider/
 ---
 
 <div class="row">

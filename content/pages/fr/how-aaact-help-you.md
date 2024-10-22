@@ -10,7 +10,7 @@ description: AATIA offre une variété de technologies adaptatives, d’outils e
   fournissant rapidement du matériel et des logiciels adaptatifs. AATIA offre
   également des formations, des ateliers et des ressources sur l’accessibilité,
   la conception inclusive et la création de contenu numérique.
-otherLangLink: /en/how-aaact-help-you/
+otherLangLink: how-can-aaact-help-you
 ---
 <div class="row">
 <div class="col-xs-12 col-md-4 pull-right">

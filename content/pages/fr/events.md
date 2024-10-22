@@ -3,7 +3,7 @@ permalink: /fr/evenements/
 eleventyExcludeFromCollections: true
 title: Formation et événements du GC sur l'accessibilité
 description: La vision du gouvernement du Canada est de faire de la fonction publique du Canada la plus accessible et inclusive au monde.
-otherLangLink: /en/events
+otherLangLink: events
 ---
 
 [Services partagés Canada (SPC)](https://www.canada.ca/fr/services-partages.html) appuie cette vision en rendant les technologies de l'information et des communications utilisables par tous. SSC organise de nombreuses formations et événements liés à l'accessibilité et ils sont répertoriés sur cette page.
