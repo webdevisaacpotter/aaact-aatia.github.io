@@ -1,9 +1,11 @@
-{% set otherLang = "fr" if locale == "en" else "en" %}
-
-{% if isDraft or needsTranslation or internalLinks %}
 <div class="container">
 	<section class="alert alert-warning mrgn-tp-lg">
 		<h2>{{ alerts[locale].alertHeading }}</h2>
+			{% if locale == "en" %}
+			This site is currently a proof of concept, and some of the content may not be up to date. We are continuously working on improving the site's features and accuracy. Your understanding is appreciated as we refine this project.
+			{% else %}
+			Ce site est actuellement une preuve de concept, et certains contenus peuvent ne pas être à jour. Nous travaillons continuellement à l'amélioration des fonctionnalités et de la précision du site. Nous vous remercions de votre compréhension pendant que nous peaufinons ce projet.
+			{% endif %}
 		<ul>
 			{% if isDraft == true %}
 			<li class="mrgn-tp-lg">{{ alerts[locale].draftText }}</li>
@@ -17,4 +19,3 @@
 		</ul>
 	</section>
 </div>
-{% endif %}
