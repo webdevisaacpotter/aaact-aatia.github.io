@@ -132,7 +132,7 @@ Ateliers en cours :
 <dl>
 <dt>Note de bas de page 1</dt>
 <dd id="fn1">
-[Programme fédéral d’expérience de travail étudiant (PFETE)](https://emploisfp-psjobs.cfp-psc.gc.ca/srs-sre/page01.htm?poster=1&lang=fr)
+<p><a href="https://emploisfp-psjobs.cfp-psc.gc.ca/srs-sre/page01.htm?poster=1&lang=fr">Programme fédéral d’expérience de travail étudiant (PFETE)</a></p>
 <p class="fn-rtn"><a href="#fn1-rf"><span class="wb-inv">Retour à la référence de la note de bas de page </span>1</a></p>
 </dd>
 </dl>

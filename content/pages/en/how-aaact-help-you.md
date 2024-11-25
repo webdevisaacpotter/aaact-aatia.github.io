@@ -132,7 +132,7 @@ On-going workshops:
 <dl>
 <dt>Footnote 1</dt>
 <dd id="fn1">
-<a href="https://emploisfp-psjobs.cfp-psc.gc.ca/srs-sre/page01.htm?poster=1&amp;lang=en">Federal Internship Program for Canadians with Disabilities</a>
+<p><a href="https://emploisfp-psjobs.cfp-psc.gc.ca/srs-sre/page01.htm?poster=1&amp;lang=en">Federal Internship Program for Canadians with Disabilities</a></p>
 <p class="fn-rtn"><a href="#fn1-rf"><span class="wb-inv">Return to footnote </span>1<span class="wb-inv"> referrer</span></a>
 </dd>
 </dl>
