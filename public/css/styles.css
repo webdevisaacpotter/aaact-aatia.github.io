@@ -1,24 +1,12 @@
-.home {
-	background: no-repeat center center;
-	background-size: cover;
-	background-image: url("../img/banner.png");
-	margin-bottom: 25px
-}
-
-.home .bg-gctheme.well.header-rwd {
+.siteBanner {
 	background-color: #31393a;
-	width: 90%
 }
 
-@media(min-width: 768px) {
-	.home .bg-gctheme.well.header-rwd {
-		width: 75%
-	}
-}
-
-.home .bg-gctheme.well.header-rwd .siteName {
-	width: 100%;
+.siteName {
 	font-size: 1.5em;
+	color: #fff;
+	padding-top: 25px;
+	padding-bottom: 25px;
 }
 
 .description {
