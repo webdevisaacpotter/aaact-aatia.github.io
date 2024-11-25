@@ -1,30 +1,21 @@
 
 <ul class="row list-unstyled wb-eqht-grd wb-filter mrgn-tp-md pb-4 wb-init wb-filter-inited">
-	{% for event in eventslist %}
-	<li class="col-xs-12 col-md-6 mrgn-tp-md mrgn-bttm-md">
-		<div class="brdr-tp brdr-rght brdr-bttm brdr-lft hght-inhrt">
-			<h3 class="mrgn-tp-md mrgn-rght-md mrgn-bttm-md mrgn-lft-md">{{ event.data.title }}
-				{% if event.data.online %}<span class="label label-success mrgn-lft-sm"><span class="wb-inv">{{ events[locale].location }} </span>{{ events[locale].online }}</span>{% endif %}
-				{% if event.data.host %}<small>{{ events[locale].hostedBy }} <strong>{{ event.data.host }}</strong></small>{% endif %}
-			</h3>
-			<div class="mrgn-rght-md mrgn-bttm-md mrgn-lft-md">
-				<p>{{ event.content | safe }}</p>
-				<dl>
-					<dt>{{ events[locale].startTime }}</dt>
-					<dd>{{ event.data.startTime }}</dd>
-					<dt>{{ events[locale].endTime }}</dt>
-					<dd>{{ event.data.endTime }}</dd>
-					<dt>{{ events[locale].eventDate }}</dt>
-					<dd>{{ event.data.eventDate | htmlDateString }}</dd>
-					<dt>{{ events[locale].language }}</dt>
-					<dd>{{ event.data.language }}</dd>
-					<dt>{{ events[locale].audience }}</dt>
-					<dd>{{ event.data.audience }}</dd>
-					<dt>{{ events[locale].eventLocation }}</dt>
-					<dd>{{ event.data.location }}</dd>
-				</dl>
+		{% for event in eventslist %}
+		<li class="col-xs-12 col-md-6 mrgn-tp-md mrgn-bttm-md">
+			<div class="brdr-tp brdr-rght brdr-bttm brdr-lft hght-inhrt">
+				<h3 class="mrgn-tp-md mrgn-rght-md mrgn-bttm-md mrgn-lft-md">{{ event.data.title }}
+					{% if event.data.online %}<span class="label label-success mrgn-lft-sm"><span class="wb-inv">{{ events[locale].location }} </span>{{ events[locale].online }}</span>{% endif %}
+					{% if event.data.host %}<small>{{ events[locale].hostedBy }} <strong>{{ event.data.host }}</strong></small>{% endif %}
+				</h3>
+				<div class="mrgn-rght-md mrgn-bttm-md mrgn-lft-md">
+					<dl>
+						<dt>{{ events[locale].eventDate }}</dt>
+						<dd>{{ event.data.eventDate | htmlDateString }}</dd>
+						<dt>{{ events[locale].eventDescription }}</dt>
+						<dd>{{ event.data.description }}</dd>
+					</dl>
+				</div>
 			</div>
-		</div>
-	</li>
-	{% endfor %}
+		</li>
+		{% endfor %}
 </ul>
