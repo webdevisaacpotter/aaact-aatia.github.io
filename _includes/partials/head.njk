@@ -8,7 +8,7 @@
 	<!-- Web Experience Toolkit (WET) / Boîte à outils de l'expérience Web (BOEW)
 		wet-boew.github.io/wet-boew/License-en.html / wet-boew.github.io/wet-boew/Licence-fr.html -->
 	{% set metaTitle = metadata.title[locale] %}
-	<title>{% if locale != "fr" %}Proof of concept - {% else %}Preuve de concept - {% endif %}{{ title | striptags(true) | escape | nl2br }} - {{ metaTitle }}</title>
+	<title>{{ title | striptags(true) | escape | nl2br }} - {{ metaTitle }}</title>
 	<meta content="width=device-width,initial-scale=1" name="viewport">
 	<meta name="description" content="{{ description | striptags(true) | escape | nl2br }}">
 
