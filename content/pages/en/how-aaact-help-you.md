@@ -21,7 +21,7 @@ otherLangLink: comment-le-programme-d-aatia-peut-il-vous-aider/
 <div class="panel-body">
 <dl class="mrgn-bttm-0">
 <dt>Email</dt>
-<dd>[aaact-aatia@ssc-spc.gc.ca](aaact-aatia@ssc-spc.gc.ca)</dd>
+<dd><a href="mailto:aaact-aatia@ssc-spc.gc.ca">aaact-aatia@ssc-spc.gc.ca</a></dd>
 <dt>Toll-free*</dt>
 <dt>TTY*</dt>
 <dd>
