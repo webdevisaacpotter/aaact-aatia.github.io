@@ -11,7 +11,16 @@ To view previous presentations check out our [past presentations page](https://w
 
 To help promote upcoming accessibility activities organized by various Government of Canada departments that are open to public service employees we have also posted their event details below.
 
-{# List all events here #}
+## Events
 
-{% set eventslist = collections.events | localeMatch(locale) %}
-{% include "partials/eventslist.njk" %}
+{# List all events here #}
+{% if collections.events and collections.events.length > 0 %}
+  {% set eventslist = collections.events | localeMatch(locale) %}
+  {% if eventslist and eventslist.length > 0 %}
+    {% include "partials/eventslist.njk" %}
+  {% else %}
+    There are no events scheduled at the moment.
+  {% endif %}
+{% else %}
+  There are no events scheduled at the moment.
+{% endif %}
