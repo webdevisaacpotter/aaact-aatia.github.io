@@ -1,10 +1,12 @@
 ---
-title: Journée internationale des personnes handicapées 2024
-description: Joignez-vous à l’équipe d’Accessibilité, d’Accommodements et de Technologie informatique adaptée (AAACT) pour un événement virtuel inclusif!
+title: Journée internationale des personnes en situation de handicap 2024
+description: Joignez-vous à l'équipe de l'Accessibilité, adaptation et technologie informatique adaptée (AATIA) pour un événement virtuel engageant et inclusif !
+tagline: Une étape importante sur la route vers l’accessibilité
+eventDate: 2024-12-04
 otherLangLink: events/international-day-of-persons-with-disabilities-2024
 ---
 
-Nous sommes ravis de vous inviter à notre événement pour la Journée internationale des personnes handicapées (JIPH) 2024, où nous discuterons de l’importance de l’accessibilité en milieu de travail et des façons de lever les obstacles pour tous les employés, y compris ceux ayant des handicaps non apparents. Cet événement virtuel de 30 minutes sur Teams offrira des perspectives précieuses pour créer un environnement de travail plus inclusif et accessible.
+Pendant cette session spéciale à l’occasion de la Journée internationale des personnes en situation de handicap 2024, nous vous emmènerons dans un tour virtuel de nos nouveaux locaux accessibles dans la région de la capitale nationale. Nous vous montrerons quelques outils moins connus que les employés utilisent pour surmonter des obstacles du milieu de travail. Nous partagerons des informations précieuses sur la création d'un environnement de travail inclusif et accessible.
 
 ## Détails de l’événement
 
@@ -17,25 +19,25 @@ Nous sommes ravis de vous inviter à notre événement pour la Journée internat
       <dt>Séance en anglais :</dt>
       <dd class="mrgn-lft-md">13 h à 13 h 30 (HNE)</dd>
       <dt>Séance en français :</dt>
-      <dd class="mrgn-lft-md">13 h 30 à 14 h (HNE)</dd>
+      <dd class="mrgn-lft-md">14 h à 14 h 30 (HNE)</dd>
     </dl>
   </dd>
-	<dt>Plateforme :</dt>
-	<dd class="mrgn-lft-md">Événement en direct sur Microsoft Teams</dd>
-	<dt>Interprétation en LSQ :</dt>
+	<dt>Plate-forme :</dt>
+	<dd class="mrgn-lft-md">Microsoft Teams</dd>
+	<dt>Interprétation en langue des signes  :</dt>
 	<dd class="mrgn-lft-md">Disponible pour les deux séances</dd>
 </dl>
 
-## Programme
+## Ordre du jour
 
-- **Explorer le nouvel espace de travail AAACT :** Une visite virtuelle de notre nouvel espace inclusif, conçu pour répondre aux besoins de tous les employés.
-- **Comprendre les handicaps non apparents :** Nous discuterons de ce que sont les handicaps non apparents, des défis qu’ils posent et de leur impact sur les employés en milieu de travail.
-- **Éliminer les obstacles :** Un échange sur les obstacles courants auxquels font face les employés et sur les solutions qui peuvent faire une différence.
+- Explorer le nouvel espace de l’AATIA : Une visite virtuelle de notre nouvel espace de travail inclusif et accessible.
+- Démonstration de quelques outils que l’AATIA peut fournir afin de surmonter les obstacles  au travail.
+- Nous allons illustrer une conversation entre un employé et gestionnaire, initiant un dialogue ouvert pour aborder les obstacles dans le milieu de travail.
 
-## Comment participer
+## Comment s'inscrire
 
-Cliquez simplement sur le lien d'inscription pour vous inscrire à la séance de votre choix (anglais ou français). Après votre inscription, vous recevrez une invitation dans votre calendrier avec le lien Teams et les détails de l’événement.
+Simplement activer le lien d'inscription pour vous inscrire à la session de votre choix (anglais ou français). Une fois inscrit, vous recevrez une invitation de calendrier avec le lien Teams et les détails de l'événement.
 
-Cet événement est ouvert à tous, et nous vous encourageons à le partager avec vos collègues qui pourraient bénéficier des discussions. Ensemble, travaillons à avoir un impact durable sur l’accessibilité et l’inclusion au travail.
+Cet événement est ouvert à tous les employés du GC, et nous vous encourageons à diffuser ces informations le plus largement possible. Rassemblons-nous pour avoir un impact durable sur l'accessibilité et l'inclusion en milieu de travail.
 
-Nous avons hâte de vous voir lors de l’événement!
+Nous avons hâte de vous voir lors de l'événement !
