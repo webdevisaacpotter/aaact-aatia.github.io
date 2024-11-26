@@ -4,7 +4,7 @@
 	"description": "Accessibility, Accommodation and Adaptive Computer Technology (AAACT) / Accessibilité, adaptation et technologie informatique adaptée (AATIA)",
 	"scripts": {
 		"build": "npx @11ty/eleventy",
-		"build-ghpages": "npx @11ty/eleventy --pathprefix=/eleventy-base-blog/",
+		"build-ghpages": "npx @11ty/eleventy",
 		"start": "npx @11ty/eleventy --serve --quiet",
 		"cms": "npm-run-all --parallel start decap",
 		"decap": "npx decap-server",
@@ -31,6 +31,7 @@
 	"homepage": "https://github.com/aaact-aatia/aaact-aatia.github.io#readme",
 	"devDependencies": {
 		"@11ty/eleventy": "^2.0.1",
+		"@11ty/eleventy-navigation": "^0.3.5",
 		"@11ty/eleventy-plugin-rss": "^1.2.0",
 		"@11ty/eleventy-plugin-syntaxhighlight": "^5.0.0",
 		"fs-extra": "^11.2.0",
