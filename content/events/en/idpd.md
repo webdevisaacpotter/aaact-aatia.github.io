@@ -17,9 +17,9 @@ During this unique International Day of Persons with Disabilities (<abbr>IDPD</a
 	<dd class="mrgn-lft-md">
 	<dl class="mrgn-lft-lg">
 		<dt>English session:</dt>
-		<dd class="mrgn-lft-md">1:00 PM -- 1:30 PM (<abbr title="Eastern Standard Time">EST</abbr>)</dd>
+		<dd class="mrgn-lft-md">1:00 PM &mdash; 1:30 PM (<abbr title="Eastern Standard Time">EST</abbr>)</dd>
 		<dt>French session:</dt>
-		<dd class="mrgn-lft-md">2:00 PM -- 2:30 PM (<abbr title="Eastern Standard Time">EST</abbr>)</dd>
+		<dd class="mrgn-lft-md">2:00 PM &mdash; 2:30 PM (<abbr title="Eastern Standard Time">EST</abbr>)</dd>
 	</dl>
 	</dd>
 	<dt>Platform:</dt>
