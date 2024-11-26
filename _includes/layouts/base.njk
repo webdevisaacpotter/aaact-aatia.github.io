@@ -21,9 +21,9 @@
 			<div class="container">
 				<h1 property="name" id="wb-cont">{{ title }}</h1>
 				{% if tagline %}
-					<p class="tagline">{{ tagline }}</p>
+					<p class="tagline">{{ tagline | safe }}</p>
 				{% endif %}
-				<p class="description">{{ description }}</p>
+				<p class="description">{{ description | safe }}</p>
 				{{ content | safe }}
 			</div>
 
