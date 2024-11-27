@@ -30,7 +30,7 @@ During this unique International Day of Persons with Disabilities (<abbr>IDPD</a
 
 ## Agenda
 
-- Exploring the new <abbr title="Accessibility, Accommodation and Adaptive Computer Technology">AAACT</abbr> space: A virtual tour of our newly designed, inclusive workspace.
+- Exploring the new <abbr title="Accessibility, Accommodation and Adaptive Computer Technology">AAACT</abbr> space: A virtual glimpse of our newly designed, inclusive workplace.
 - Demonstration of tools <abbr title="Accessibility, Accommodation and Adaptive Computer Technology">AAACT</abbr> can provide to address workplace barriers
 - Watch as we illustrate a conversation between an employee and manager, initiating an open dialogue to address potential barriers in the workplace.
 

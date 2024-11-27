@@ -30,7 +30,7 @@ Pendant cette session spéciale à l’occasion de la Journée internationale de
 
 ## Ordre du jour
 
-- Explorer le nouvel espace de <abbr title="Accessibilité, adaptation et technologie informatique adaptée">l’AATIA</abbr> : Une visite virtuelle de notre nouvel espace de travail inclusif et accessible.
+- Explorer le nouvel espace de l'<abbr title="Accessibilité, adaptation et technologie informatique adaptée">l’AATIA</abbr>: Un coup d'oeil virtuelle de notre nouvel espace de travail inclusif et accessible.
 - Démonstration de quelques outils que <abbr title="Accessibilité, adaptation et technologie informatique adaptée">l’AATIA</abbr> peut fournir afin de surmonter les obstacles  au travail.
 - Nous allons illustrer une conversation entre un employé et gestionnaire, initiant un dialogue ouvert pour aborder les obstacles dans le milieu de travail.
 
