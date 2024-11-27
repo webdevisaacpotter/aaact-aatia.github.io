@@ -1,10 +1,10 @@
 ---
-permalink: /en/events/
-eleventyExcludeFromCollections: true
-internalLinks: true
 title: Government of Canada Accessibility Training and Events
 description: The Government of Canada’s vision is to make Canada’s public service the most accessible and inclusive in the world.
-otherLangLink: evenements/
+permalink: /en/events/
+otherLanguagePermalink: /fr/evenements/
+eleventyExcludeFromCollections: true
+internalLinks: true
 ---
 [Shared Services Canada (SSC)](https://www.canada.ca/en/shared-services.html) supports this vision by making information and communications technology usable by all. SSC hosts many training and events related to accessibility and they are listed on this page.
 

@@ -1,5 +1,6 @@
 ---
 title: International Day of Persons with Disabilities 2024
+otherLanguageTitle: Journée internationale des personnes en situation de handicap 2024
 tagline: A milestone in the Road to Accessibility
 description: Join the Accessibility, Accommodation and Adaptive Computer Technology (<abbr>AAACT</abbr>) team for an inclusive and engaging virtual event!
 eventDate: 2024-12-04

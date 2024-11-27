@@ -1,16 +1,7 @@
 ---
 title: Comment le programme d’AATIA peut-il vous aider?
-description: AATIA offre une variété de technologies adaptatives, d’outils et de
-  services pour aider les employés de la fonction publique ayant des incapacités
-  ou des blessures. Il propose des adaptations telles que des changements de
-  taille de police, des configurations ergonomiques et de nouvelles méthodes de
-  travail grâce à un coaching individualisé. Le programme prend en charge plus
-  de 130 logiciels et 4000 aides techniques pour répondre à divers besoins. Le
-  projet pilote de la bibliothèque de prêt accélère les accommodements,
-  fournissant rapidement du matériel et des logiciels adaptatifs. AATIA offre
-  également des formations, des ateliers et des ressources sur l’accessibilité,
-  la conception inclusive et la création de contenu numérique.
-otherLangLink: how-can-aaact-help-you
+otherLanguageTitle: How can AAACT help you?
+description: AATIA offre une variété de technologies adaptatives, d’outils et de services pour aider les employés de la fonction publique ayant des incapacités ou des blessures. Il propose des adaptations telles que des changements de taille de police, des configurations ergonomiques et de nouvelles méthodes de travail grâce à un coaching individualisé. Le programme prend en charge plus de 130 logiciels et 4000 aides techniques pour répondre à divers besoins. Le projet pilote de la bibliothèque de prêt accélère les accommodements, fournissant rapidement du matériel et des logiciels adaptatifs. AATIA offre également des formations, des ateliers et des ressources sur l’accessibilité.
 ---
 <div class="row">
 <div class="col-xs-12 col-md-4 pull-right">
