@@ -1,8 +1,10 @@
 ---
 title: Journée internationale des personnes en situation de handicap 2024
 otherLanguageTitle: International Day of Persons with Disabilities 2024
-description: Joignez-vous à l'équipe de l'Accessibilité, adaptation et technologie informatique adaptée (<abbr>AATIA</abbr>) pour un événement virtuel engageant et inclusif !
 tagline: Une étape importante sur la route vers l’accessibilité
+description: Joignez-vous à l'équipe de l'Accessibilité, adaptation et
+  technologie informatique adaptée (<abbr>AATIA</abbr>) pour un événement
+  virtuel engageant et inclusif !
 eventDate: 2024-12-04
 ---
 
