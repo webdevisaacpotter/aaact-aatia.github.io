@@ -1,9 +1,8 @@
-{% set otherLang = "fr" if locale == "en" else
-	"en" %}
-{% set otherLanguage = "Français" if locale == "en" else
-	"English" %}
-{% set toggleURL = page.filePathStem | replace("/en/", "fr/")if locale == "en" else
-	page.filePathStem | replace("/fr/", "en/") %}
+{% set otherLang = "fr" if locale == "en" else "en" %}
+{% set otherLanguage = "Français" if locale == "en" else "English" %}
+{% set toggleTag = "evenements" if (tags and "events" in tags) and locale == "en" else ("events" if (tags and "events" in tags) else "") %}
+{% set togglePage = otherLanguagePermalink if otherLanguagePermalink else "/" ~ otherLang ~ ("/" ~ toggleTag if toggleTag else "") ~ "/" ~ (otherLanguageTitle | slugify) ~ "/" %}
+
 <header>
 	<div id="wb-bnr" class="container">
 		<div class="row">
