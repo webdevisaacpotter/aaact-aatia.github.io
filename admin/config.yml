@@ -47,9 +47,11 @@ collections:
     i18n: true
     fields:
       - { label: "Title (required)", name: "title", widget: "string", i18n: true }
+      - { label: "Other language title", name: "otherLanguageTitle", required: false, widget: "string", i18n: true }
+      - { label: "Tagline", name: "tagline", required: false, widget: "markdown", i18n: true }
       - { label: "Description (required)", name: "description", widget: "markdown", i18n: true }
-      - { label: "Other Language Link (required)", name: "otherLangLink", widget: "string", i18n: true }
-      - { label: "File", name: "file", widget: "file", i18n: true, required: false, media_library: { config: { multiple: true } } }
+      - { label: "Permalink (full path)", name: "permalink", required: false, widget: "string", i18n: true }
+      - { label: "Permalink to other language (full path)", name: "otherLanguagePermalink", required: false, widget: "string", i18n: true }
       - { label: "Details (required)", name: "body", widget: "markdown",  i18n: true }
 
   - name: "events"
@@ -60,8 +62,8 @@ collections:
     i18n: true
     fields:
       - { label: "Title (required)", name: "title", widget: "string", i18n: true }
-      - { label: "Description (required)", name: "description", widget: "markdown", i18n: true }
+      - { label: "Other language title", name: "otherLanguageTitle", widget: "string", i18n: true }
       - { label: "Tagline", name: "tagline", widget: "markdown", i18n: true }
+      - { label: "Description (required)", name: "description", widget: "markdown", i18n: true }
       - { label: "Event Date (YYYY-MM-DD) (required)", name: "eventDate", widget: "datetime", date_format: "YYYY-MM-DD", i18n: duplicate, required: false }
       - { label: "Details (required)", name: "body", widget: "markdown",  i18n: true }
-      - { label: "Other language title (Require)", name: "otherLangTitle", widget: "string", i18n: true }
