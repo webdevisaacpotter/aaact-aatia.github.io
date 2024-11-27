@@ -33,11 +33,11 @@ Pendant cette session spéciale à l’occasion de la Journée internationale de
 
 - Explorer le nouvel espace de l'<abbr title="Accessibilité, adaptation et technologie informatique adaptée">l’AATIA</abbr>: Un coup d'oeil virtuelle de notre nouvel espace de travail inclusif et accessible.
 - Démonstration de quelques outils que <abbr title="Accessibilité, adaptation et technologie informatique adaptée">l’AATIA</abbr> peut fournir afin de surmonter les obstacles  au travail.
-- Nous allons illustrer une conversation entre un employé et gestionnaire, initiant un dialogue ouvert pour aborder les obstacles dans le milieu de travail.
+- Observez un dialogue ouvert entre un.e employé.e et son gestionnaire, au sujet des obstacles potentiels en milieu de travail.
 
 ## Comment s'inscrire
 
-Simplement activer le lien d'inscription pour vous inscrire à la session de votre choix (anglais ou français). Une fois inscrit, vous recevrez une invitation de calendrier avec le lien Teams et les détails de l'événement.
+Simplement activer le lien [Webinaire Journée internationale des personnes en situation de handicap 2024 AATIA](https://events.teams.microsoft.com/event/246697b9-9c03-457e-a155-12c6e37328f7@d05bc194-94bf-4ad6-ae2e-1db0f2e38f5e) pour vous inscrire à la session. Une fois inscrit, vous recevrez une invitation de calendrier avec le lien et les détails de l'événement.
 
 Cet événement est ouvert à tous les employés du Gouvernement du Canada, et nous vous encourageons à diffuser ces informations le plus largement possible. Rassemblons-nous pour avoir un impact durable sur l'accessibilité et l'inclusion en milieu de travail.
 
