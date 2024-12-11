@@ -1,24 +1,16 @@
 ---
-title: Welcome to the Accessibility, Accommodation and Adaptive Computer Technology program (<abbr>AAACT</abbr>) website
-description: The Accessibility, Accommodation and Adaptive Computer Technology (<abbr>AAACT</abbr>) program supports creating inclusive, barrier-free workplaces in the Government of Canada. It offers training, tools, and adaptive technologies to ensure accessibility for all employees, including those with disabilities. <abbr title="Accessibility, Accommodation and Adaptive Computer Technology">AAACT</abbr> serves all government employees, providing resources both in person and remotely.
+title: Welcome to the Accessibility, Accommodation and Adaptive Computer
+  Technology program (<abbr>AAACT</abbr>) website
+description: The Accessibility, Accommodation and Adaptive Computer Technology
+  (<abbr>AAACT</abbr>) program supports creating inclusive, barrier-free
+  workplaces in the Government of Canada. It offers training, tools, and
+  adaptive technologies to ensure accessibility for all employees, including
+  those with disabilities. <abbr title="Accessibility, Accommodation and
+  Adaptive Computer Technology">AAACT</abbr> serves all government employees,
+  providing resources both in person and remotely.
 permalink: /en/
 otherLanguagePermalink: /fr/
 ---
-
-</div>
-
-<div class="row well weel-lg">
-<div class="container">
-
-**Event**: Check out what's coming up, [International Day of Persons with Disabilities 2024](/en/events/international-day-of-persons-with-disabilities-2024/)
-
-Join the Accessibility, Accommodation and Adaptive Computer Technology (<abbr>AAACT</abbr>) team for an inclusive and engaging virtual event!
-
-</div>
-</div>
-
-<div class="container">
-
 The Government of Canada (<abbr>GC</abbr>) envisions a public service that is a world leader in barrier-free, inclusive workplaces and services. The Accessibility, Accommodation and Adaptive Computer Technology program (<abbr>AAACT</abbr>) is committed to making this vision a reality by:
 
 - supporting departments who offer programs and services to Canadians

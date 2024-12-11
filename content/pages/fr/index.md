@@ -1,25 +1,17 @@
 ---
-title: Bienvenue sur le site du Programme d'accessibilité, d'adaptation et de technologie informatique adaptée (<abbr>AATIA</abbr>)
-description: Le programme accessibilité, d’adaptation et de technologie informatique adaptée (<abbr>AATIA</abbr>) soutient la création de milieux de travail inclusifs et sans barrières au sein du gouvernement du Canada. Il offre des formations, des outils et des technologies adaptatives pour garantir l'accessibilité à tous les employés, y compris ceux ayant des incapacités. <abbr title="accessibilité, d’adaptation et de technologie informatique adaptée">AATIA</abbr> dessert tous les employés du gouvernement, fournissant des ressources en personne et à distance.
+title: Bienvenue sur le site du Programme d'accessibilité, d'adaptation et de
+  technologie informatique adaptée (<abbr>AATIA</abbr>)
+description: Le programme accessibilité, d’adaptation et de technologie
+  informatique adaptée (<abbr>AATIA</abbr>) soutient la création de milieux de
+  travail inclusifs et sans barrières au sein du gouvernement du Canada. Il
+  offre des formations, des outils et des technologies adaptatives pour garantir
+  l'accessibilité à tous les employés, y compris ceux ayant des incapacités.
+  <abbr title="accessibilité, d’adaptation et de technologie informatique
+  adaptée">AATIA</abbr> dessert tous les employés du gouvernement, fournissant
+  des ressources en personne et à distance.
 permalink: /fr/
 otherLanguagePermalink: /en/
 ---
-
-
-</div>
-
-<div class="row well weel-lg">
-<div class="container">
-
-**Événement**: Découvrez ce qui vous attend, [Journée internationale des personnes en situation de handicap 2024](/fr/evenements/journee-internationale-des-personnes-en-situation-de-handicap-2024/)
-
-Joignez-vous à l'équipe de l'Accessibilité, adaptation et technologie informatique adaptée (<abbr>AATIA</abbr>) pour un événement virtuel engageant et inclusif !
-
-</div>
-</div>
-
-<div class="container">
-
 Le gouvernement du Canada (<abbr>GC</abbr>) imagine une fonction publique qui est un chef de file mondial au chapitre des lieux de travail et des services inclusifs et exempts d’obstacles. Le Programme d’accessibilité, d’adaptation et de technologie informatique adaptée (<abbr>AATIA</abbr>) a pour but de faire de cette vision une réalité :
 
 - En appuyant les ministères qui offrent des programmes et des services aux Canadiens;
