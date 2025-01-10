@@ -4,5 +4,8 @@ https://aaact.canada.ca/  /en/  301
 # Redirect root of aatia.canada.ca to /fr/
 https://aatia.canada.ca/  /fr/  301
 
+# Fallback for localhost and deploy previews
+/  /en/  302
+
 https://aaact.canada.ca/*  /en/:splat  200!
 https://aatia.canada.ca/*  /fr/:splat  200!
