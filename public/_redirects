@@ -1,2 +1,8 @@
+# Redirect root of aaact.canada.ca to /en/
+https://aaact.canada.ca/  /en/  301
+
+# Redirect root of aatia.canada.ca to /fr/
+https://aatia.canada.ca/  /fr/  301
+
 https://aaact.canada.ca/*  /en/:splat  200!
 https://aatia.canada.ca/*  /fr/:splat  200!
