@@ -9,3 +9,6 @@ https://aatia.canada.ca/  /fr/  301
 
 https://aaact.canada.ca/*  /en/:splat  200!
 https://aatia.canada.ca/*  /fr/:splat  200!
+
+# Redirect for Decap CMS
+/admin  /admin/index.html  200!
