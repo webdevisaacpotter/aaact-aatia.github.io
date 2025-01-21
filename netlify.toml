@@ -20,6 +20,19 @@
   status = 301
   force = true
 
+# Redirect aatia domain English links to aaact domain
+[[redirects]]
+  from = "https://aatia.canada.ca/en/*"
+  to = "https://aaact.canada.ca/en/:splat"
+  status = 301
+  force = true
+
+# Redirect aaact domain French links to aatia domain
+[[redirects]]
+  from = "https://aaact.canada.ca/fr/*"
+  to = "https://aatia.canada.ca/fr/:splat"
+  status = 301
+  force = true
 
 	# Opt-in to the Netlify Lighthouse plugin (choose one):
 
