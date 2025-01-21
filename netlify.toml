@@ -6,6 +6,18 @@
 [functions]
 	directory = "netlify/functions"
 
+[[redirects]]
+  from = "https://aaact.canada.ca/*"
+  to = "/en/:splat"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "https://aatia.canada.ca/*"
+  to = "/fr/:splat"
+  status = 200
+  force = true
+
 	# Opt-in to the Netlify Lighthouse plugin (choose one):
 
 	# 1. Go to your site on https://app.netlify.com and navigate to the Integrations tab, search for the `Lighthouse` plugin
