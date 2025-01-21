@@ -6,6 +6,7 @@
 [functions]
 	directory = "netlify/functions"
 
+# Redirect root domain to language-specific directories
 [[redirects]]
   from = "https://aaact.canada.ca/*"
   to = "/en/:splat"
@@ -17,6 +18,12 @@
   to = "/fr/:splat"
   status = 200
   force = true
+
+# Exclude static assets from redirects
+[[redirects]]
+  from = "/css/*"
+  to = "/css/:splat"
+  status = 200
 
 	# Opt-in to the Netlify Lighthouse plugin (choose one):
 
