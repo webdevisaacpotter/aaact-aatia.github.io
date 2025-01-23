@@ -21,8 +21,6 @@ Presented by:
 * To gain a clear understanding of digital accessibility, its importance for workforce diversity, compliance, and service to Canadians.
 * To identify key accessibility barriers and apply practical solutions, aligning these insights with organization’s strategic goals for immediate action.
 
-These objectives ensure that the session is focused, practical, and aligned with the participants' leadership roles, empowering them to drive meaningful changes in their organization’s approach to digital accessibility.
-
 <dl>
 	<dt>Date</dt>
 	<dd>January 29, 2025</dd>

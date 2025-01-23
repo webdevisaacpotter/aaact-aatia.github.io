@@ -21,8 +21,6 @@ Présenté par :
 * Acquérir une compréhension claire de l'accessibilité numérique, de son importance pour la diversité de la main-d'œuvre, la conformité et le service aux Canadiens.
 * Identifier les principaux obstacles à l'accessibilité et appliquer des solutions pratiques, en lien avec les objectifs stratégiques de l'organisation pour une action immédiate.
 
-Ces objectifs garantissent que la session est ciblée, pratique et fait appel au leadership des participants, leur permettant d’effectuer des changements significatifs dans l'approche de leur organisation en matière d'accessibilité numérique.
-
 <dl>
 	<dt>Date</dt>
 	<dd>29 janvier 2025</dd>
