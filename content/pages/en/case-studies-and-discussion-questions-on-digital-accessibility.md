@@ -2,7 +2,9 @@
 title: Case Studies and Discussion Questions on Digital Accessibility
 otherLanguageTitle: Études de cas et questions de discussion sur l'accessibilité numérique
 tagline: Embracing Digital Accessibility
-description: Discover
+description: A series of case studies and discussion questions to explore the
+  practical aspects of digital accessibility. These exercises are part of
+  interactive training sessions on digital accessibility.
 ---
 ## Case Studies
 
