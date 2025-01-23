@@ -16,8 +16,6 @@ Presented by:
 * Accessibility, Accommodation and Adaptive Computer Technology
 * Shared Services Canada
 
-Join us on January 29, 2025, for an enlightening and interactive session on digital accessibility. This one-hour session will delve into the significance of digital accessibility for workforce diversity, compliance, and service to Canadians. Through engaging presentations, group discussions, case studies, and hands-on activities, you'll explore key accessibility barriers and practical solutions. Discover how adaptive technologies can remove barriers and learn how you, as a senior leader, can drive meaningful change in your organization through digital accessibility.
-
 ## Objectives
 
 * To gain a clear understanding of digital accessibility, its importance for workforce diversity, compliance, and service to Canadians.
