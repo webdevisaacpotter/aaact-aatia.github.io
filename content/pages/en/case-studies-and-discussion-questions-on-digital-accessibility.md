@@ -4,40 +4,6 @@ otherLanguageTitle: Études de cas et questions de discussion sur l'accessibilit
 tagline: Embracing Digital Accessibility
 description: Discover
 ---
-
-
-
-## Session Description
-
-Presented by:
-
-* **Nadine Charron**, Executive Director
-* **Luna Bengio**, Senior Accessibility Consultant
-* Accessibility, Accommodation and Adaptive Computer Technology
-* Shared Services Canada
-
-## Objectives
-
-* To gain a clear understanding of digital accessibility, its importance for workforce diversity, compliance, and service to Canadians.
-* To identify key accessibility barriers and apply practical solutions, aligning these insights with organization’s strategic goals for immediate action.
-
-<dl>
-	<dt>Date</dt>
-	<dd>January 29, 2025</dd>
-	<dt>Duration</dt>
-	<dd>1 hour</dd>
-	<dt>Format</dt>
-	<dd>Interactive presentation, group discussions, case studies, and hands-on activities</dd>
-</dl>
-
-## Agenda
-
-* Introduction (5 minutes)
-* Toys, Tools & Tech (10 minutes)
-* The importance of digital accessibility (20 minutes)
-* Exercising your leadership (20 minutes)
-* Closing Remarks (5 minutes)
-
 ## Case studies
 
 <div class="row wb-eqht-grd mrgn-tp-md pb-4">
