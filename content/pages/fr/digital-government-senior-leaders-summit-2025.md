@@ -16,8 +16,6 @@ Présenté par :
 * Accessibilité, adaptation et technologie informatique adaptée
 * Services partagés Canada
 
-Joignez-vous à nous le 29 janvier 2025 pour une séance instructive et interactive sur l'accessibilité numérique. Cette séance d'une heure examinera l'importance de l'accessibilité numérique pour la diversité de la main-d'œuvre, la conformité et le service aux Canadiens. Grâce à des présentations engageantes, des discussions de groupe, des études de cas et des activités pratiques, vous explorerez les principaux obstacles à l'accessibilité et les solutions pratiques. Découvrez comment les technologies adaptées peuvent éliminer les obstacles et comment vous, en tant que haut dirigeant, pouvez susciter des changements significatifs dans votre organisation grâce à l'accessibilité numérique.
-
 ## Objectifs
 
 * Acquérir une compréhension claire de l'accessibilité numérique, de son importance pour la diversité de la main-d'œuvre, la conformité et le service aux Canadiens.
