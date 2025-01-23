@@ -4,7 +4,7 @@ otherLanguageTitle: Études de cas et questions de discussion sur l'accessibilit
 tagline: Embracing Digital Accessibility
 description: Discover
 ---
-## Case studies
+## Case Studies
 
 <div class="row wb-eqht-grd mrgn-tp-md pb-4">
   <div class="col-xs-12 col-md-6 mrgn-tp-md mrgn-bttm-md">
@@ -41,7 +41,7 @@ description: Discover
   </div>
 </div>
 
-## Discussion questions
+## Discussion Questions
 
 <div class="row wb-eqht-grd mrgn-tp-md pb-4">
   <div class="col-xs-12 col-md-6 mrgn-tp-md mrgn-bttm-md">
