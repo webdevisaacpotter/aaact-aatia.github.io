@@ -1,8 +1,11 @@
 ---
 title: Digital Government Senior Leaders Summit 2025
-tagline: Embracing Digital Accessibility
 otherLanguageTitle: Sommet des hauts dirigeants du gouvernement numérique 2025
-description: Discover how digital accessibility drives diversity, compliance, and service excellence at the Digital Government Senior Leaders Summit 2025. Engage in interactive discussions and practical activities tailored for senior leaders.
+tagline: Embracing Digital Accessibility
+description: Discover how digital accessibility drives diversity, compliance,
+  and service excellence at the Digital Government Senior Leaders Summit 2025.
+  Engage in interactive discussions and practical activities tailored for senior
+  leaders.
 ---
 
 ## Session Description
