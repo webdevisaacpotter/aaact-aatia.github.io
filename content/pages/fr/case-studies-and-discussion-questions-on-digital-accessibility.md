@@ -2,7 +2,7 @@
 title: Études de cas et questions de discussion sur l'accessibilité numérique
 otherLanguageTitle: Case Studies and Discussion Questions on Digital Accessibility
 tagline: Adopter l’accessibilité numérique
-description: a
+description: Discover
 ---
 
 
