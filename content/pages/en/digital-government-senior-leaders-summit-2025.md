@@ -23,7 +23,7 @@ Presented by:
 
 <dl>
 	<dt>Date</dt>
-	<dd>January 29, 2025</dd>
+	<dd>January 30, 2025</dd>
 	<dt>Duration</dt>
 	<dd>1 hour</dd>
 	<dt>Format</dt>
