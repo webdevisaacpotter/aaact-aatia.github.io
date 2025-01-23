@@ -1,25 +1,27 @@
 ---
 title: Digital Government Senior Leaders Summit 2025
-tagline: Embracing Digital Accessibility
 otherLanguageTitle: Sommet des hauts dirigeants du gouvernement numérique 2025
-description: Discover how digital accessibility drives diversity, compliance, and service excellence at the Digital Government Senior Leaders Summit 2025. Engage in interactive discussions and practical activities tailored for senior leaders.
+tagline: Embracing Digital Accessibility
+description: Discover how digital accessibility drives diversity, compliance,
+  and service excellence at the Digital Government Senior Leaders Summit 2025.
+  Engage in interactive discussions and practical activities tailored for senior
+  leaders.
 ---
-
 ## Session Description
 
 Presented by:
 
-- Nadine Charron, Executive Director
-- Luna Bengio, Senior Accessibility Consultant
-- Accessibility, Accommodation and Adaptive Computer Technology
-- Shared Services Canada
+* **Nadine Charron**, Executive Director
+* **Luna Bengio**, Senior Accessibility Consultant
+* Accessibility, Accommodation and Adaptive Computer Technology
+* Shared Services Canada
 
 Join us on January 29, 2025, for an enlightening and interactive session on digital accessibility. This one-hour session will delve into the significance of digital accessibility for workforce diversity, compliance, and service to Canadians. Through engaging presentations, group discussions, case studies, and hands-on activities, you'll explore key accessibility barriers and practical solutions. Discover how adaptive technologies can remove barriers and learn how you, as a senior leader, can drive meaningful change in your organization through digital accessibility.
 
 ## Objectives
 
-- To gain a clear understanding of digital accessibility, its importance for workforce diversity, compliance, and service to Canadians.
-- To identify key accessibility barriers and apply practical solutions, aligning these insights with organization’s strategic goals for immediate action.
+* To gain a clear understanding of digital accessibility, its importance for workforce diversity, compliance, and service to Canadians.
+* To identify key accessibility barriers and apply practical solutions, aligning these insights with organization’s strategic goals for immediate action.
 
 These objectives ensure that the session is focused, practical, and aligned with the participants' leadership roles, empowering them to drive meaningful changes in their organization’s approach to digital accessibility.
 
@@ -34,11 +36,11 @@ These objectives ensure that the session is focused, practical, and aligned with
 
 ## Agenda
 
-- Introduction (5 minutes)
-- Toys, Tools & Tech (10 minutes)
-- The importance of digital accessibility (20 minutes)
-- Exercising your leadership (20 minutes)
-- Closing Remarks (5 minutes)
+* Introduction (5 minutes)
+* Toys, Tools & Tech (10 minutes)
+* The importance of digital accessibility (20 minutes)
+* Exercising your leadership (20 minutes)
+* Closing Remarks (5 minutes)
 
 ## Case studies
 
