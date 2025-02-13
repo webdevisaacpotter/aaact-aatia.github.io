@@ -1,38 +1,17 @@
 [build]
-	publish = "_site"
-	command = "npm run build"
-	functions = "netlify/functions"
+  publish = "_site"
+  command = "npm run build"
+  functions = "netlify/functions"
 
 [functions]
-	directory = "netlify/functions"
+  directory = "netlify/functions"
 
-# Redirect root of aaact.canada.ca to /en/
+# ✅ Ensure `aatia.canada.ca` works correctly with Netlify's CNAME setup
 [[redirects]]
-  from = "https://aaact.canada.ca/"
-  to = "/en/"
-  status = 301
-  force = true
+  from = "https://aatia.canada.ca/*"
+  to = "https://aatia.canada.ca/:splat"
+  status = 200
 
-# Redirect root of aatia.canada.ca to /fr/
-[[redirects]]
-  from = "https://aatia.canada.ca/"
-  to = "/fr/"
-  status = 301
-  force = true
-
-# Redirect aatia domain English links to aaact domain
-[[redirects]]
-  from = "https://aatia.canada.ca/en/*"
-  to = "https://aaact.canada.ca/en/:splat"
-  status = 301
-  force = true
-
-# Redirect aaact domain French links to aatia domain
-[[redirects]]
-  from = "https://aaact.canada.ca/fr/*"
-  to = "https://aatia.canada.ca/fr/:splat"
-  status = 301
-  force = true
 
 	# Opt-in to the Netlify Lighthouse plugin (choose one):
 
