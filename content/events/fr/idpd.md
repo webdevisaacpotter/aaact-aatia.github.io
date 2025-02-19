@@ -1,20 +1,19 @@
 ---
-title: Journée internationale des personnes en situation de handicap 2024
-otherLanguageTitle: International Day of Persons with Disabilities 2024
+title: Horizons accessibles
+otherLanguageTitle: Accessible Horizons
 tagline: Une étape importante sur la route vers l’accessibilité
 description: Joignez-vous à l'équipe de l'Accessibilité, adaptation et
   technologie informatique adaptée (<abbr>AATIA</abbr>) pour un événement
   virtuel engageant et inclusif !
-eventDate: 2024-12-04
+eventDate: 2025-02-27
 ---
-
 Pendant cette séance spéciale à l’occasion de la Journée internationale des personnes en situation de handicap 2024, nous vous donnerons un coup d’œil virtuel de notre nouvel espace de travail accessible dans la région de la capitale nationale. Nous vous montrerons quelques outils moins connus que les employés utilisent pour surmonter des obstacles du milieu de travail. Nous partagerons des informations précieuses sur la création d'un environnement de travail inclusif et accessible.
 
 ## Détails de l’événement
 
 <dl>
   <dt>Date :</dt>
-  <dd class="mrgn-lft-md">4 décembre 2024</dd>
+  <dd class="mrgn-lft-md">27 février 2025</dd>
   <dt>Heure :</dt>
   <dd class="mrgn-lft-md">
     <dl class="mrgn-lft-lg">
@@ -36,9 +35,9 @@ Pendant cette séance spéciale à l’occasion de la Journée internationale de
 
 ## Ordre du jour
 
-- Explorer le nouvel espace de <abbr title="Accessibilité, adaptation et technologie informatique adaptée">l’AATIA</abbr> : Un coup d'oeil virtuelle de notre nouvel espace de travail inclusif et accessible.
-- Démonstration de quelques outils que l’<abbr title="Accessibilité, adaptation et technologie informatique adaptée">l’AATIA</abbr> peut fournir afin de surmonter les obstacles au travail.
-- Nous allons simuler une conversation entre un employé et gestionnaire, initiant un dialogue ouvert pour aborder les obstacles dans le milieu de travail.
+* Explorer le nouvel espace de <abbr title="Accessibilité, adaptation et technologie informatique adaptée">l’AATIA</abbr> : Un coup d'oeil virtuelle de notre nouvel espace de travail inclusif et accessible.
+* Démonstration de quelques outils que l’<abbr title="Accessibilité, adaptation et technologie informatique adaptée">l’AATIA</abbr> peut fournir afin de surmonter les obstacles au travail.
+* Nous allons simuler une conversation :.
 
 ## Comment s'inscrire
 

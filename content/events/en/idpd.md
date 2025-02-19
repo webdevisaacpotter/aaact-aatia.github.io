@@ -1,11 +1,11 @@
 ---
-title: International Day of Persons with Disabilities 2024
-otherLanguageTitle: Journée internationale des personnes en situation de handicap 2024
+title: Accessible Horizons
+otherLanguageTitle: Horizons accessibles
 tagline: A milestone in the road to accessibility
 description: Join the Accessibility, Accommodation and Adaptive Computer
   Technology (<abbr>AAACT</abbr>) team for an inclusive and engaging virtual
   event!
-eventDate: 2024-12-04
+eventDate: 2025-02-27
 ---
 During this unique International Day of Persons with Disabilities (<abbr>IDPD</abbr>) 2024 session, we will give you a virtual glimpse of our new accessible space in the National Capital Region. We will showcase some of the less known tools that employees use to address workplace barriers. We will hear valuable insights that will help you create a more inclusive and accessible work environment.
 
@@ -13,7 +13,7 @@ During this unique International Day of Persons with Disabilities (<abbr>IDPD</a
 
 <dl>
 	<dt>Date:</dt>
-	<dd class="mrgn-lft-md">December 4, 2024</dd>
+	<dd class="mrgn-lft-md">February 27, 2025</dd>
 	<dt>Time:</dt>
 	<dd class="mrgn-lft-md">
 	<dl class="mrgn-lft-lg">
@@ -37,7 +37,7 @@ During this unique International Day of Persons with Disabilities (<abbr>IDPD</a
 
 * Exploring the new <abbr title="Accessibility, Accommodation and Adaptive Computer Technology">AAACT</abbr> space: A virtual glimpse of our newly designed, inclusive workplace.
 * Demonstration of tools <abbr title="Accessibility, Accommodation and Adaptive Computer Technology">AAACT</abbr> can provide to address workplace barriers
-* Watch as we simulate a conversation between an employee and manager, initiating an open dialogue to address potential barriers in the workplace.
+* Watch as we simulate a conversation: when a live person is the best accommodation solution.
 
 ## How to join
 
