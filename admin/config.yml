@@ -69,7 +69,7 @@ collections:
       - { label: "Details (required)", name: "body", widget: "markdown",  i18n: true }
 
   - name: "newsletters"
-    label: "Events"
+    label: "Newsletters"
     folder: "content/newsletters"
     create: true
     slug: "{{slug}}"
