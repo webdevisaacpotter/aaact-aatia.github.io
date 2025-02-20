@@ -1,30 +1,48 @@
 {#
-
 # Breadcrumbs include
 
 This file controls the breadcrumbs on the site.
 
-Will eventually be replaced with [Navigation — Eleventy](https://www.11ty.dev/docs/plugins/navigation/)
-
-So far there is only one level for the breadcrumb
+So far, there is one level for the homepage and a second level for tagged pages.
 
 ## Related files
 
 - src/_includes/partials/header.njk - include file that this file is pulled into
-
 #}
+
+{% set firstLevel = "Page d'accueil" if locale == "fr" else "Welcome page" %}
+{% set secondLevel = "" %}
+{% set secondLevelUrl = "" %}
+
+{% if eleventyExcludeFromCollections != true %}
+{% if tags and "newsletters" in tags %}
+{% set secondLevel = "Infolettres" if locale == "fr" else "Newsletters" %}
+{% set secondLevelUrl = "/fr/infolettres/" if locale == "fr" else "/en/newsletters/" %}
+{% elif tags and "events" in tags %}
+{% set secondLevel = "Événements" if locale == "fr" else "Events" %}
+{% set secondLevelUrl = "/fr/evenements/" if locale == "fr" else "/en/events/" %}
+{% endif %}
+{% endif %}
 
 <nav id="wb-bc" property="breadcrumb">
 	<h2>{{ header[locale].breadcrumbsHeading }}</h2>
 	<div class="container">
 		<ol class="breadcrumb" typeof="BreadcrumbList">
-			<!-- First breadcrumb: Canada.ca -->
 			<li property="itemListElement" typeof="ListItem">
-				<a property="item" typeof="WebPage" href="{%- if locale == "en" -%}/en/{%- else -%}/fr/{%- endif -%}">
-					<span property="name">{{ metadata.title[locale] }}</span>
+				<a property="item" typeof="WebPage" href="{% if locale == " en" %}/en/{% else %}/fr/{% endif %}">
+					<span property="name">{{ firstLevel }}</span>
 				</a>
 				<meta property="position" content="1">
 			</li>
+
+			{% if secondLevel %}
+			<li property="itemListElement" typeof="ListItem">
+				<a property="item" typeof="WebPage" href="{{ secondLevelUrl }}">
+					<span property="name">{{ secondLevel }}</span>
+				</a>
+				<meta property="position" content="2">
+			</li>
+			{% endif %}
 		</ol>
 	</div>
 </nav>
