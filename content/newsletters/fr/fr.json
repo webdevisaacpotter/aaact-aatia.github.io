@@ -1,4 +1,4 @@
 {
 	"locale" : "fr",
-	"permalink": "/fr/infolettres/{{ title | slugify }}/"
+	"permalink": "/infolettres/{{ title | slugify }}/"
 }

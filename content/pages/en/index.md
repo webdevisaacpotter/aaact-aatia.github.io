@@ -21,4 +21,4 @@ For public servants with disabilities or injuries, <abbr title="Accessibility, A
 
 <abbr title="Accessibility, Accommodation and Adaptive Computer Technology">AAACT</abbr> serves all GC employees and departments, in person and remotely, in various types of work arrangements.
 
-To learn more about <abbr title="Accessibility, Accommodation and Adaptive Computer Technology"><abbr title="Accessibility, Accommodation and Adaptive Computer Technology">AAACT</abbr></abbr>'s services for employees, management and digital accessibility please visit our “[How can AAACT help you?](./how-can-aaact-help-you/)” services page.
+To learn more about <abbr title="Accessibility, Accommodation and Adaptive Computer Technology"><abbr title="Accessibility, Accommodation and Adaptive Computer Technology">AAACT</abbr></abbr>'s services for employees, management and digital accessibility please visit our “[How can AAACT help you?](/how-can-aaact-help-you/)” services page.

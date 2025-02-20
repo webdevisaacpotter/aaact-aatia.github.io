@@ -1,8 +1,8 @@
 ---
 title: Government of Canada Accessibility Training and Events
 description: The Government of Canada’s vision is to make Canada’s public service the most accessible and inclusive in the world.
-permalink: /en/events/
-otherLanguagePermalink: /fr/evenements/
+permalink: /events/
+otherLanguagePermalink: /evenements/
 eleventyExcludeFromCollections: true
 internalLinks: true
 ---

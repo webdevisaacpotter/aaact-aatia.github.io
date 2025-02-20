@@ -12,6 +12,25 @@
   to = "https://aatia.canada.ca/:splat"
   status = 200
 
+[[redirects]]
+  from = "/en/*"
+  to = "/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/fr/*"
+  to = "/:splat"
+  status = 301
+  force = true
+
+# Redirect all French pages to `aatia.canada.ca`
+[[redirects]]
+  from = "https://aaact.canada.ca/fr/*"
+  to = "https://aatia.canada.ca/fr/:splat"
+  status = 301
+  force = true
+
 
 	# Opt-in to the Netlify Lighthouse plugin (choose one):
 

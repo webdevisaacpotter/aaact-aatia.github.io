@@ -37,7 +37,7 @@ There are over 130 software packages and 4000 different technical aids in use ac
 
 ## The Lending Library pilot project
 
-The <a href="/en/shared-services/corporate/aaact-program/lending-library-service-pilot-project.html">Lending Library pilot project</a> is a fast-tracked accommodations process put in place to quickly provide adaptive hardware, software, resources and tools to public service employees. The Lending Library aims to address barriers that delay access to specialized services and workplace adjustments needed by:
+The <a href="https://canada.ca/en/shared-services/corporate/aaact-program/lending-library-service-pilot-project.html">Lending Library pilot project</a> is a fast-tracked accommodations process put in place to quickly provide adaptive hardware, software, resources and tools to public service employees. The Lending Library aims to address barriers that delay access to specialized services and workplace adjustments needed by:
 
 <ul class="lst-spcd">
 <li>Determinate employees with disabilities or injuries allowing them to focus on their job and training, gain valuable work experiences during their terms and deliver services to Canadians (determinate employees are employed on a temporary basis and include students, interns, casual and term employees).</li>
@@ -116,8 +116,8 @@ On-going workshops:
 - <a href="https://canada-ca.github.io/a11y/">Accessible Document Guides </a>
 - <a href="https://a11y.canada.ca/en/guides/design-accessible-services">Designing Accessible Services</a>
 - <a href="https://laws-lois.justice.gc.ca/eng/acts/A-0.6/">Accessible Canada Act</a>
-- <a href="/en/employment-social-development/programs/accessible-people-disabilities/act-summary.html">Proposed Accessible Canada Act – Summary of the bill</a>
-- <a href="/en/government/publicservice/wellness-inclusion-diversity-public-service/diversity-inclusion-public-service/accessibility-public-service.html">An accessibility strategy for the Public Service of Canada</a>
+- <a href="https://canada.ca/en/employment-social-development/programs/accessible-people-disabilities/act-summary.html">Proposed Accessible Canada Act – Summary of the bill</a>
+- <a href="https://canada.ca/en/government/publicservice/wellness-inclusion-diversity-public-service/diversity-inclusion-public-service/accessibility-public-service.html">An accessibility strategy for the Public Service of Canada</a>
 
 <aside class="wb-fnote" role="note">
 <h2 id="fn">Footnotes</h2>

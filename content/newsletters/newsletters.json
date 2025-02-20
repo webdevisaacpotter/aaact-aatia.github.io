@@ -1,8 +1,5 @@
 {
 	"tags": [
 		"newsletters"
-	],
-	"permalink": "{{ locale }}/newsletters/{{ title | slugify }}/",
-	"layout": "layouts/base.njk",
-	"date": "git Last Modified"
+	]
 }

@@ -1,4 +1,14 @@
 {# Language toggle #}
+{% set toggleTag = "" %}
+
+{% if tags and "events" in tags %}
+{% set toggleTag = "evenements" if locale == "en" else "events" %}
+{% elif tags and "newsletters" in tags %}
+{% set toggleTag = "infolettres" if locale == "en" else "newsletters" %}
+{% endif %}
+
+{% set togglePage = otherLanguagePermalink if otherLanguagePermalink else ("/" ~ toggleTag if toggleTag else "") ~ "/" ~ (otherLanguageTitle | slugify) ~ "/" %}
+
 {% if needsTranslation != true %}
 <section id="wb-lng" class="col-xs-3 col-sm-12 pull-right text-right">
 	<h2 class="wb-inv">{{ header[locale].languageSelections }}</h2>

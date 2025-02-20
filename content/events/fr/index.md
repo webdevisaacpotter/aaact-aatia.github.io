@@ -1,8 +1,8 @@
 ---
 title: Formation et événements du GC sur l'accessibilité
 description: La vision du gouvernement du Canada est de faire de la fonction publique du Canada la plus accessible et inclusive au monde.
-permalink: /fr/evenements/
-otherLanguagePermalink: /en/events/
+permalink: /evenements/
+otherLanguagePermalink: /events/
 eleventyExcludeFromCollections: true
 internalLinks: true
 ---

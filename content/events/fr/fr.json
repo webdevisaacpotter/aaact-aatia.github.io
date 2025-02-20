@@ -1,4 +1,4 @@
 {
-	"permalink": "/fr/evenements/{{ title | slugify }}/",
-	"locale": "fr"
+	"locale": "fr",
+	"permalink": "/evenements/{{ title | slugify }}/"
 }

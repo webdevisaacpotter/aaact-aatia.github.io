@@ -17,10 +17,10 @@ So far, there is one level for the homepage and a second level for tagged pages.
 {% if eleventyExcludeFromCollections != true %}
 {% if tags and "newsletters" in tags %}
 {% set secondLevel = "Infolettres" if locale == "fr" else "Newsletters" %}
-{% set secondLevelUrl = "/fr/infolettres/" if locale == "fr" else "/en/newsletters/" %}
+{% set secondLevelUrl = "/infolettres/" if locale == "fr" else "/newsletters/" %}
 {% elif tags and "events" in tags %}
 {% set secondLevel = "Événements" if locale == "fr" else "Events" %}
-{% set secondLevelUrl = "/fr/evenements/" if locale == "fr" else "/en/events/" %}
+{% set secondLevelUrl = "/evenements/" if locale == "fr" else "/events/" %}
 {% endif %}
 {% endif %}
 

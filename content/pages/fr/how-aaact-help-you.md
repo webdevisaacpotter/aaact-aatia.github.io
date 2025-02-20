@@ -36,7 +36,7 @@ Plus de 130 progiciels et 4 000 aides techniques différentes sont utilisés dan
 
 ## Projet pilote de service de bibliothèque de prêt
 
-Le [projet pilote de service de bibliothèque](/fr/services-partages/organisation/programme-aatia/projet-pilote-service-bibliotheque-pret.html) de prêt est un processus de mesures d’adaptation accélérées qui a été mis en place pour fournir rapidement du matériel, des logiciels, des ressources et des outils d’adaptation aux fonctionnaires. La bibliothèque de prêt vise à éliminer les obstacles qui retardent l’accès aux services spécialisés et aux mesures d’adaptation en milieu de travail nécessaires :
+Le [projet pilote de service de bibliothèque](https://canada.ca/fr/services-partages/organisation/programme-aatia/projet-pilote-service-bibliotheque-pret.html) de prêt est un processus de mesures d’adaptation accélérées qui a été mis en place pour fournir rapidement du matériel, des logiciels, des ressources et des outils d’adaptation aux fonctionnaires. La bibliothèque de prêt vise à éliminer les obstacles qui retardent l’accès aux services spécialisés et aux mesures d’adaptation en milieu de travail nécessaires :
 
 - aux employés en situation de handicap ou blessés nommés pour une période déterminée afin qu’ils puissent se concentrer sur leur travail et leur formation, acquérir une expérience professionnelle précieuse pendant leur période d’emploi et offrir des services à la population canadienne (les employés nommés pour une période déterminée sont employés sur une base temporaire, notamment des étudiants, des stagiaires, des employés occasionnels et des employés nommés pour une période déterminée);
 - aux employés nommés pour une période déterminée et à ceux nommés pour une période indéterminée afin qu’ils puissent continuer à travailler pendant les effets à court terme ou épisodiques d’un handicap d’une blessure ou d'une maladie.
@@ -115,8 +115,8 @@ Ateliers en cours :
 - [Guides des documents accessibles](https://canada-ca.github.io/a11y/index-fr.html)
 - [Principes de conception pour des services accessibles](https://a11y.canada.ca/fr/guides/design-accessible-services/)
 - [_Loi canadienne sur l'accessibilité_](https://laws-lois.justice.gc.ca/fra/lois/A-0.6/)
-- [Résumé du projet de Loi canadienne sur l'accessibilité](/fr/emploi-developpement-social/programmes/accessible-personnes-handicapees/loi-resume.html)
-- [Stratégie sur l'accessibilité au sein de la fonction publique](/fr/gouvernement/fonctionpublique/mieux-etre-inclusion-diversite-fonction-publique/diversite-equite-matiere-emploi/accessibilite-fonction-publique.html)
+- [Résumé du projet de Loi canadienne sur l'accessibilité](https://canada.ca/fr/emploi-developpement-social/programmes/accessible-personnes-handicapees/loi-resume.html)
+- [Stratégie sur l'accessibilité au sein de la fonction publique](https://canada.ca/fr/gouvernement/fonctionpublique/mieux-etre-inclusion-diversite-fonction-publique/diversite-equite-matiere-emploi/accessibilite-fonction-publique.html)
 
 <aside class="wb-fnote" role="note">
 <h2 id="fn">Notes de bas de page</h2>
