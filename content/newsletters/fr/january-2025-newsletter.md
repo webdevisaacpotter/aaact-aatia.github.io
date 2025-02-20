@@ -1,40 +1,40 @@
 ---
 title: Infolettre de janvier 2025
 otherLanguageTitle: January 2025 newsletter
-description: les jalons franchis au cours de 2024; la socialisation d’un chien d’assistance dans notre espace de travail; créer une culture de l'inclusion.
+description: les jalons franchis au cours de 2024; la socialisation d’un chien
+  d’assistance dans notre espace de travail; créer une culture de l'inclusion.
 newsletterDate: 2025-01-01
 ---
-
 Bonne année! À l’aube de 2025, nous sommes ravis de continuer à vous aider à réaliser des progrès significatifs au chapitre de l’accessibilité. Cette année, nous nous engageons à vous fournir des ressources utiles, des mises à jour et des conseils pour vous aider à intégrer l’accessibilité dans votre travail. Dans cette édition, nous revenons sur les jalons franchis au cours de l’année écoulée, nous racontons une histoire réconfortante sur la socialisation d’un chien d’assistance dans notre espace de travail, et nous explorons l’importance de favoriser une culture en milieu de travail positive.
 
 Nous vous souhaitons une année sous le signe du succès, de la croissance et d’une plus grande accessibilité!
 
 ## Sur cette page
 
-- [Les jalons de l'AATIA en 2024](#les-jalons-de-l-aatia-en-2024)
-- [Creer une culture de l'inclusion](#creer-une-culture-de-l-inclusion)
-- [Parcours de Rossy](#parcours-de-rossy)
-- [Faire connaissance avec l'equipe](#faire-connaissance-avec-l-equipe)
-- [Formation et evenements a venir](#formation-et-evenements-a-venir)
-- [Modification du Reglement canadien sur l'accessibilite](#modification-du-reglement-canadien-sur-l-accessibilite)
-- [Plein feu sur la retroaction sur l'accessibilite](#plein-feu-sur-la-retroaction-sur-l-accessibilite)
-- [Serie virtuelle de l'AATIA](#serie-virtuelle-de-l-aatia)
+* [Les jalons de l'AATIA en 2024](#les-jalons-de-l-aatia-en-2024)
+* [Creer une culture de l'inclusion](#creer-une-culture-de-l-inclusion)
+* [Parcours de Rossy](#parcours-de-rossy)
+* [Faire connaissance avec l'equipe](#faire-connaissance-avec-l-equipe)
+* [Formation et evenements a venir](#formation-et-evenements-a-venir)
+* [Modification du Reglement canadien sur l'accessibilite](#modification-du-reglement-canadien-sur-l-accessibilite)
+* [Plein feu sur la retroaction sur l'accessibilite](#plein-feu-sur-la-retroaction-sur-l-accessibilite)
+* [Serie virtuelle de l'AATIA](#serie-virtuelle-de-l-aatia)
 
 ## Les jalons de l'AATIA en 2024
 
 Alors que nous faisons nos adieux à 2024, il est temps de réfléchir aux progrès accomplis pour rendre les lieux de travail et les services du gouvernement du Canada plus accessibles à tous. Voici quelques-uns des principaux jalons franchis par notre équipe chargée de l’accessibilité, de l’adaptation et de la technologie informatique adaptée (AATIA) en 2024 :
 
-- Nous avons organisé plus de 500 séances d’information à l’intention des employés du GC, qui ont pu constater par eux-mêmes l’effet positif des solutions accessibles.
-- Nous avons servi plus de 300 nouveaux clients en leur proposant des solutions personnalisées.
-- Nous avons testé plus de 200 matériels, logiciels et contenus numériques pour nous assurer qu’ils sont accessibles et utilisables par des personnes de toutes capacités, renforçant ainsi notre engagement en faveur de l’inclusivité et d’expériences numériques équitables.
-- Nous avons lancé notre nouvel espace de travail accessible et un centre de service à la clientèle en personne pour les employés du GC, disponible sur rendez-vous.
-- Nous avons lancé notre bulletin d’information *L’AATIA maintenant pour l’accessibilité*, qui fournit des actualités et des idées sur l’accessibilité numérique.
-- Nous avons tenu un kiosque à la Foire de l’innovation de Services partagés Canada (SPC), où plus de 1 500 fonctionnaires ont eu l’occasion de découvrir de première main les technologies et services innovateurs que nous offrons.
-- Nous avons tenu un webinaire pour la Journée internationale des personnes en situation de handicap qui a donné le coup d’envoi de notre série sur l’accessibilité virtuelle!
-- Nous avons traité 75 rétroactions reçus dans le cadre de notre processus de rétroaction sur l’accessibilité, qui permet aux employés et aux utilisateurs des services de SPC de reconnaître les obstacles à l’accessibilité.
-- Nous avons offert une formation sur l’inclusion des personnes en situation de handicap et sur l’accessibilité au personnel de la Cour suprême du Canada.
-- Nous avons fourni gratuitement plus de 86 séances de formation sur l’accessibilité et événements d’apprentissage à plus de 7 400 employés du GC.
-- Nous avons clôturé l’année 2024 en publiant le [Rapport d’étape sur l’accessibilité 2023-2024 de Services partagés Canada](https://can01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fapp.cyberimpact.com%2Fredirect%3Fct%3D8gEDGUBE1YfhXVAAEpD2QPirSMg0kpYDoTI6edOek_baTCHpIrJReY4xV9cvsi1ZtHvW__ayaB3IkwUQIkWMVKDWpCKOJmOkvtLQv4MLwqqpPKWoxKnBUGugr3eK5DlT&data=05%7C02%7Cgenevieve.brown%40ssc-spc.gc.ca%7C2442c0dbf298467324c108dd408909e7%7Cd05bc19494bf4ad6ae2e1db0f2e38f5e%7C0%7C0%7C638737679503319813%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=F5V8oa%2BQsL0WlQHNaDEWKOtil1XleOFMpmlstY3OCKw%3D&reserved=0), qui met en lumière les efforts continus visant à rendre notre lieu de travail et nos services plus accessibles à tous.
+* Nous avons organisé plus de 500 séances d’information à l’intention des employés du GC, qui ont pu constater par eux-mêmes l’effet positif des solutions accessibles.
+* Nous avons servi plus de 300 nouveaux clients en leur proposant des solutions personnalisées.
+* Nous avons testé plus de 200 matériels, logiciels et contenus numériques pour nous assurer qu’ils sont accessibles et utilisables par des personnes de toutes capacités, renforçant ainsi notre engagement en faveur de l’inclusivité et d’expériences numériques équitables.
+* Nous avons lancé notre nouvel espace de travail accessible et un centre de service à la clientèle en personne pour les employés du GC, disponible sur rendez-vous.
+* Nous avons lancé notre bulletin d’information *L’AATIA maintenant pour l’accessibilité*, qui fournit des actualités et des idées sur l’accessibilité numérique.
+* Nous avons tenu un kiosque à la Foire de l’innovation de Services partagés Canada (SPC), où plus de 1 500 fonctionnaires ont eu l’occasion de découvrir de première main les technologies et services innovateurs que nous offrons.
+* Nous avons tenu un webinaire pour la Journée internationale des personnes en situation de handicap qui a donné le coup d’envoi de notre série sur l’accessibilité virtuelle!
+* Nous avons traité 75 rétroactions reçus dans le cadre de notre processus de rétroaction sur l’accessibilité, qui permet aux employés et aux utilisateurs des services de SPC de reconnaître les obstacles à l’accessibilité.
+* Nous avons offert une formation sur l’inclusion des personnes en situation de handicap et sur l’accessibilité au personnel de la Cour suprême du Canada.
+* Nous avons fourni gratuitement plus de 86 séances de formation sur l’accessibilité et événements d’apprentissage à plus de 7 400 employés du GC.
+* Nous avons clôturé l’année 2024 en publiant le [Rapport d’étape sur l’accessibilité 2023-2024 de Services partagés Canada](https://can01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fapp.cyberimpact.com%2Fredirect%3Fct%3D8gEDGUBE1YfhXVAAEpD2QPirSMg0kpYDoTI6edOek_baTCHpIrJReY4xV9cvsi1ZtHvW__ayaB3IkwUQIkWMVKDWpCKOJmOkvtLQv4MLwqqpPKWoxKnBUGugr3eK5DlT&data=05%7C02%7Cgenevieve.brown%40ssc-spc.gc.ca%7C2442c0dbf298467324c108dd408909e7%7Cd05bc19494bf4ad6ae2e1db0f2e38f5e%7C0%7C0%7C638737679503319813%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=F5V8oa%2BQsL0WlQHNaDEWKOtil1XleOFMpmlstY3OCKw%3D&reserved=0), qui met en lumière les efforts continus visant à rendre notre lieu de travail et nos services plus accessibles à tous.
 
 En prévision de 2025, nous sommes ravis d’organiser davantage d’événements en direct et de continuer à proposer des formations et des séances de mobilisation en personne. Nous améliorons également notre processus de service à la clientèle pour le rendre plus rapide et plus efficace. Continuons à repousser les limites, à embrasser l’innovation et à défendre l’inclusivité à chaque étape du processus. Ensemble, nous créons un monde où l’accessibilité n’est pas qu’un simple objectif, c’est la norme.
 
@@ -51,6 +51,8 @@ Alors, comment pouvons-nous être les alliés des personnes en situation de hand
 En comprenant le modèle d’inclusion des personnes en situation de handicap – axé sur un environnement exempt d’obstacles, une culture exempte de discrimination et la mise en place de mesures d’adaptation individuelles et de mesures de soutien – les fonctionnaires fédéraux peuvent influencer positivement la culture en milieu de travail. Cet engagement permettra non seulement aux personnes en situation de handicap de se sentir valorisées et incluses, mais elle enrichira aussi le lieu de travail, en promouvant la diversité et l’inclusion pour tous.
 
 ## Parcours de Rossy
+
+![](/docs/rosy_and_sophie.jpg)
 
 Alt text : Image de Sophie et Rossy.
 
@@ -73,6 +75,8 @@ Rossy est maintenant âgé de 15 mois et a passé haut la patte tous les critèr
 Malgré les nombreux obstacles rencontrés, j’ai pris conscience de l’importance de m’entourer de personnes qui non seulement croient en la possibilité de changer des vies, mais qui partagent également une vision commune d’un milieu de travail accessible et inclusif. Je ne remercierai jamais assez toute l’équipe d’accessibilité de Clara et celle de Nadine, dont l’engagement et le soutien m’ont permis de réaliser mon rêve : transformer la vie d’un enfant, mais aussi, de manière inattendue, changer la mienne. »
 
 ## Faire connaissance avec l’équipe
+
+![](/docs/picture1.png)
 
 Alt text: Peter McCormick tient un appareil de forme carrée étiqueté « X-Keys, XK-12 USB Switch Interface ». Peter porte une barbe grise bien taillée et un casque d’écoute.
 
@@ -120,15 +124,13 @@ Préparez-vous! L’AATIA propose des séances de formation gratuites sur l’ac
 
 Séance en anglais :
 
-- Date : 25 février 2025
-
-- Heure : de 12 h 30 à 15 h 30, HE
+* Date : 25 février 2025
+* Heure : de 12 h 30 à 15 h 30, HE
 
 Séance en français :
 
-- Date : 26 février 2025
-
-- Heure : de 9 h 30 à 12 h 30, HE
+* Date : 26 février 2025
+* Heure : de 9 h 30 à 12 h 30, HE
 
 Pour de plus amples renseignements sur cet événement et sur d’autres séances de formation à venir, veuillez consulter notre page [Formation et événements du GC sur l’accessibilité](https://can01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fapp.cyberimpact.com%2Fredirect%3Fct%3DENPnQ_FZlEZniHqTYhkqi4lqqUfJ8CG8Cjjyzx35ur54E2bdhJXwRHOJ1HU9ekwtnn2YEz3yqEra9iLqfAYE-8UAevIk4CMW2RyxSf60MyCquXYV0f14PfXA4yaRgT_O&data=05%7C02%7Cgenevieve.brown%40ssc-spc.gc.ca%7C2442c0dbf298467324c108dd408909e7%7Cd05bc19494bf4ad6ae2e1db0f2e38f5e%7C0%7C0%7C638737679503353962%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=%2FKb9sgblA4Wu4SRqMZqiQBsKxgbKDsXL%2BCFdTtH8Rag%3D&reserved=0). (Vous devez être sur un réseau du GC ou connecté par un réseau privé virtuel pour accéder à GCpédia).
 
@@ -144,16 +146,17 @@ Les Canadiens ont jusqu’au 19 février 2025 pour examiner les modifications pr
 
 Nous avons récemment reçu une question via le [formulaire de rétroaction sur l’accessibilité de SPC](https://can01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fapp.cyberimpact.com%2Fredirect%3Fct%3DqFj9Idss3tuU4WYZgLChj-73hZE-V1SH_kYXHYbc7EqjiJPBeN-MNWhw2VDZ7SQod2z9Slyv6gC6PNhsgVjtUPPZLm0pOmCpHTTYoSjqHYbRB-mG21TtPgPRA6yiK6i9&data=05%7C02%7Cgenevieve.brown%40ssc-spc.gc.ca%7C2442c0dbf298467324c108dd408909e7%7Cd05bc19494bf4ad6ae2e1db0f2e38f5e%7C0%7C0%7C638737679503401499%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=LkQ0JT7YNxb4VeItYdOip9FgB1uG9rI5rCHGZLJ08ss%3D&reserved=0) concernant les polices de caractères considérées comme accessibles lors de la création de documents, tels que les présentations PowerPoint ou Word. À SPC, nous avons adopté Aptos comme nouvelle police par défaut pour les versions en ligne et de bureau de Microsoft Outlook. Cependant, il est important de noter qu’il n’existe pas de solution universelle en matière d’accessibilité. D’autres polices accessibles, comme Calibri et Arial, sont également d’excellents choix.
 
-La configuration initiale des polices thématiques par défaut relève de la responsabilité de votre groupe d’applications de bureau. Vous pouvez connaître la police générale par défaut en ouvrant l’application et en sélectionnant Fichier \> Nouveau. Vous pouvez également contrôler la police par défaut des documents Word et PowerPoint en créant un fichier modèle, puis en basant vos nouveaux fichiers sur ce modèle. Cela permet de gagner du temps lors de la création de nouveaux documents et de s’assurer que la police choisie est incluse.
+La configuration initiale des polices thématiques par défaut relève de la responsabilité de votre groupe d’applications de bureau. Vous pouvez connaître la police générale par défaut en ouvrant l’application et en sélectionnant Fichier > Nouveau. Vous pouvez également contrôler la police par défaut des documents Word et PowerPoint en créant un fichier modèle, puis en basant vos nouveaux fichiers sur ce modèle. Cela permet de gagner du temps lors de la création de nouveaux documents et de s’assurer que la police choisie est incluse.
 
 Quelle que soit la police choisie, voici quelques conseils relatifs à l’accessibilité des documents en ce qui concerne les polices.
 
-- Utilisez des polices sans empattement telles que Aptos, Arial, Verdana et Calibri.
-- La taille minimale recommandée des polices de caractères pour :
-  - les messages Outlook est de 11 points;
-  - les documents Word est de 12 points;
-  - les présentations PowerPoint est de 18 points.
-- Évitez d’utiliser l’italique pour plus de quelques mots.
+* Utilisez des polices sans empattement telles que Aptos, Arial, Verdana et Calibri.
+* La taille minimale recommandée des polices de caractères pour :
+
+  * les messages Outlook est de 11 points;
+  * les documents Word est de 12 points;
+  * les présentations PowerPoint est de 18 points.
+* Évitez d’utiliser l’italique pour plus de quelques mots.
 
 Consultez la boîte à outils sur l’accessibilité numérique pour en savoir plus sur la manière de [créer des documents accessibles](https://a11y.canada.ca/fr/creer-un-document/).
 
@@ -165,4 +168,4 @@ Nous vous invitons à [nous faire part](mailto:aaact-aatia@ssc-spc.gc.ca) de vos
 
 Programme d’accessibilité, d’adaptation et de technologie informatique adaptée<br />
 Services partagés Canada / Gouvernement du Canada<br />
-<aaact-aatia@ssc-spc.gc.ca>  
+[aaact-aatia@ssc-spc.gc.ca](mailto:aaact-aatia@ssc-spc.gc.ca)

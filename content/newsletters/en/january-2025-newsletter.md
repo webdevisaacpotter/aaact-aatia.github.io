@@ -1,39 +1,39 @@
 ---
 title: January 2025 newsletter
 otherLanguageTitle: Infolettre de janvier 2025
-description: 2024 milestones; the socialization of a service dog in our workspace; creating a culture of inclusion.
+description: 2024 milestones; the socialization of a service dog in our
+  workspace; creating a culture of inclusion.
 newsletterDate: 2025-01-01
 ---
-
 Happy New Year! As we step into 2025, we’re excited to continue supporting you in making meaningful progress toward accessibility goals. This year, we are committed to providing you with valuable resources, updates, and tips to help integrate accessibility in your work. In this edition, we reflect on the milestones achieved over the last year, share a heartwarming story about the socialization of a service dog in our workspace, and explore to importance of fostering a positive workplace culture.
 
 Here’s to a year filled with success, growth, and greater accessibility!
 
 ## On This Page
 
-- [AAACT Milestones in 2024](#aaact-milestones-in-2024)
-- [Creating a Culture of Inclusion](#creating-a-culture-of-inclusion)
-- [Rossy's Journey](#rossy-s-journey)
-- [Get to Know the Team](#get-to-know-the-team)
-- [Upcoming Accessibility Training and Events](#upcoming-accessibility-training-and-events)
-- [Accessible Canada Regulations Amendment](#accessible-canada-regulations-amendment)
-- [Accessibility Feedback Spotlight](#accessibility-feedback-spotlight)
-- [AAACT Virtual Series](#aaact-virtual-series)
+* [AAACT Milestones in 2024](#aaact-milestones-in-2024)
+* [Creating a Culture of Inclusion](#creating-a-culture-of-inclusion)
+* [Rossy's Journey](#rossy-s-journey)
+* [Get to Know the Team](#get-to-know-the-team)
+* [Upcoming Accessibility Training and Events](#upcoming-accessibility-training-and-events)
+* [Accessible Canada Regulations Amendment](#accessible-canada-regulations-amendment)
+* [Accessibility Feedback Spotlight](#accessibility-feedback-spotlight)
+* [AAACT Virtual Series](#aaact-virtual-series)
 
 ## AAACT Milestones in 2024
 
 As we bid farewell to 2024, it’s time to reflect on our progress in making Government of Canada workplaces and services more accessible for all. Here are some of our key milestones for our Accessibility, Accommodation and Adaptive Computer Technology (AAACT) team in 2024:
 
-- Provided over 500 information sessions to GC employees who experienced firsthand the positive impact of accessible solutions.
-- Served over 300 new clients, providing them with personalized solutions. Tested over 200 hardware, software, and digital content to ensure they are accessible and usable by people of all abilities, reinforcing our commitment to inclusivity and equitable digital experiences.
-- Launched our new accessible workspace and in-person client service center for GC employees, available by appointment.
-- Launched our AAACT Now for Accessibility newsletter which provides news and insights on digital accessibility.
-- Hosted a booth at Shared Services Canada’s (SSC) Innovation Fair where over 1500 public servants had the opportunity to experience first-hand the innovative technologies and services that we offer.
-- Hosted a webinar for the International Day of Persons with Disabilities which kicked off our virtual accessibility series!.
-- Addressed 75 feedback items that were received through our accessibility feedback process that allows SSC employees and users of SSC services to identify accessibility barriers.
-- Delivered disability inclusion and accessibility training to staff at the Supreme Court of Canada.
-- Provided over 86 free accessibility training sessions and learning events to over 7400 GC employees.
-- We closed off 2024 by releasing the [2023-2024 SSC Accessibility Progress Report](https://can01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fapp.cyberimpact.com%2Fredirect%3Fct%3DdpF8FO1MYCl8nsIVi6nvzAfyopYPIKRBlvdO8UTgBdXqXukvqkQJJ92T_XbAqzZn5b-wUlWbBlzZw7oOWslVD4EuAzKxLPa0SkTgtQxKh8I08bmhCvyXPAX0dGdBXXlM&data=05%7C02%7Cgenevieve.brown%40ssc-spc.gc.ca%7C00f78eb8205e4a3d045308dd40890848%7Cd05bc19494bf4ad6ae2e1db0f2e38f5e%7C0%7C0%7C638737679480431986%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=1vnByKtqMXK%2BCBlXMA1LVchDfu8ehD8YheMAUJEjcOg%3D&reserved=0) that highlights the ongoing efforts to make our workplace and services more accessible for everyone.
+* Provided over 500 information sessions to GC employees who experienced firsthand the positive impact of accessible solutions.
+* Served over 300 new clients, providing them with personalized solutions. Tested over 200 hardware, software, and digital content to ensure they are accessible and usable by people of all abilities, reinforcing our commitment to inclusivity and equitable digital experiences.
+* Launched our new accessible workspace and in-person client service center for GC employees, available by appointment.
+* Launched our AAACT Now for Accessibility newsletter which provides news and insights on digital accessibility.
+* Hosted a booth at Shared Services Canada’s (SSC) Innovation Fair where over 1500 public servants had the opportunity to experience first-hand the innovative technologies and services that we offer.
+* Hosted a webinar for the International Day of Persons with Disabilities which kicked off our virtual accessibility series!.
+* Addressed 75 feedback items that were received through our accessibility feedback process that allows SSC employees and users of SSC services to identify accessibility barriers.
+* Delivered disability inclusion and accessibility training to staff at the Supreme Court of Canada.
+* Provided over 86 free accessibility training sessions and learning events to over 7400 GC employees.
+* We closed off 2024 by releasing the [2023-2024 SSC Accessibility Progress Report](https://can01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fapp.cyberimpact.com%2Fredirect%3Fct%3DdpF8FO1MYCl8nsIVi6nvzAfyopYPIKRBlvdO8UTgBdXqXukvqkQJJ92T_XbAqzZn5b-wUlWbBlzZw7oOWslVD4EuAzKxLPa0SkTgtQxKh8I08bmhCvyXPAX0dGdBXXlM&data=05%7C02%7Cgenevieve.brown%40ssc-spc.gc.ca%7C00f78eb8205e4a3d045308dd40890848%7Cd05bc19494bf4ad6ae2e1db0f2e38f5e%7C0%7C0%7C638737679480431986%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=1vnByKtqMXK%2BCBlXMA1LVchDfu8ehD8YheMAUJEjcOg%3D&reserved=0) that highlights the ongoing efforts to make our workplace and services more accessible for everyone.
 
 As we look ahead to 2025, we are excited to host more live events and continue offering in-person training and engagement sessions. We’re also enhancing our client service process to make it faster and more efficient. Let’s continue to push boundaries, embrace innovation, and champion inclusivity every step of the way. Together, we are creating a world where accessibility isn’t just a goal, it’s the standard.
 
@@ -51,7 +51,7 @@ By understanding the model of disability inclusion—focusing on a barrier-free 
 
 ## Rossy's Journey
 
-<img src="media/image2.jpeg" style="width:4.39583in;height:2.92708in" alt="Image of Sophie and Rossy, a service dog in training." />
+![](/docs/rosy_and_sophie.jpg)
 
 Alt text: Image of Sophie and Rossy, a service dog in training.
 
@@ -74,6 +74,8 @@ Rossy is now 15 months old and has met all of the Mira Foundation’s evaluation
 Despite the many obstacles, I’ve come to realize the importance of surrounding myself with people who not only believe in the possibility of changing lives, but who also share a common vision of an accessible and inclusive workplace. I can never thank the accessibility teams headed by Clara and Nadine enough; their commitment and support enabled me to make my dream come true: not only to change a child’s life but also, unexpectedly, to change my own."
 
 ## Get to Know the Team
+
+![](/docs/picture1.png)
 
 Text alt: Peter McCormick holds up a square shaped device labeled “X-Keys, XK-12 USB Switch Interface.” Peter has a tightly cropped grey beard and is wearing a headset.
 
@@ -121,13 +123,13 @@ Get ready! AAACT offers accessibility free accessibility training sessions open 
 
 English session:
 
-- Date: February 25, 2025
-- Time: 12:30 p.m. to 3:30 p.m. ET
+* Date: February 25, 2025
+* Time: 12:30 p.m. to 3:30 p.m. ET
 
 French session:
 
-- Date: February 26, 2025
-- Time: 9:30 a.m. to 12:30 p.m. ET
+* Date: February 26, 2025
+* Time: 9:30 a.m. to 12:30 p.m. ET
 
 For more information on this event and other upcoming training sessions, please visit our [GC Accessibility Training and Events page](https://can01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fapp.cyberimpact.com%2Fredirect%3Fct%3Du7-VXrBnRMZUrskxSylTJ8Tjs4NptXiCKSKJ5lHl1VDepg7J_GDy9kTnMeL2259h8LQWF7R2qtR7HHY85mbwNVLvba54OLBqKXoovpCopdLjCV4-utdxXVV5gCdyYkSn&data=05%7C02%7Cgenevieve.brown%40ssc-spc.gc.ca%7C00f78eb8205e4a3d045308dd40890848%7Cd05bc19494bf4ad6ae2e1db0f2e38f5e%7C0%7C0%7C638737679480464286%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=t9Wg8Uhh0HO%2FC%2FecpdLvGMgnFN%2Bnr5woOYW9WgmpjYg%3D&reserved=0). (You need to be on a GC network or connected through a Virtual Private Network to access GCPedia.)
 
@@ -143,16 +145,17 @@ Canadians have until February 19, 2025, to review the proposed amendments to the
 
 We recently received a question via the [SSC’s accessibility feedback form](https://can01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fapp.cyberimpact.com%2Fredirect%3Fct%3DQcZb3g7aVZb3n3DQZMhjP6NjBMsZeQJ-1PHiVdfvj93Z3dTSaTDns1P4PYJ8r2D2X1ucRieG4XnkVHbbS_3ae2Emh-dv39KlGMXfELS5zQvo4X8v2B9fgyY7nPYamaxI&data=05%7C02%7Cgenevieve.brown%40ssc-spc.gc.ca%7C00f78eb8205e4a3d045308dd40890848%7Cd05bc19494bf4ad6ae2e1db0f2e38f5e%7C0%7C0%7C638737679480515535%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=6Dt2mxiYrTHWM0XVU3ZhAh5aEiQ9TRTUgen8dHR8BGg%3D&reserved=0) regarding which fonts are considered accessible when creating documents, such as PowerPoint presentation or Word. At SSC, we have adopted Aptos as the new default font for the online and desktop version of Microsoft Outlook. However, it’s important to note that there isn’t a one-size-fits all solution for accessibility. Other accessible font options, like Calibri and Arial, are also great choices.
 
-The initial setup of default theme fonts is the responsibility of your desktop applications group. You can find out the general default font by opening the application and selecting File \> New. You can also control the default font for a Word and PowerPoint documents by creating a template file, then basing your new files on the template. This will help save time when creating new documents and ensure the chosen font is included.
+The initial setup of default theme fonts is the responsibility of your desktop applications group. You can find out the general default font by opening the application and selecting File > New. You can also control the default font for a Word and PowerPoint documents by creating a template file, then basing your new files on the template. This will help save time when creating new documents and ensure the chosen font is included.
 
 Regardless of the font you choose, here are some document accessibility tips related to fonts.
 
-- Use sans-serif fonts such as Aptos, Arial, Verdana, and Calibri.
-- The minimum recommended font size for:
-  - Outlook messages is 11 points
-  - Word documents is 12 points
-  - PowerPoint presentations is 18 points
-- Avoid using italics for more than a few words.
+* Use sans-serif fonts such as Aptos, Arial, Verdana, and Calibri.
+* The minimum recommended font size for:
+
+  * Outlook messages is 11 points
+  * Word documents is 12 points
+  * PowerPoint presentations is 18 points
+* Avoid using italics for more than a few words.
 
 Visit the Digital Accessibility Toolkit for more information on how to [create accessible documents](https://a11y.canada.ca/en/create-document/).
 
@@ -164,4 +167,4 @@ We want to hear from you. [Contact us](mailto:aaact-aatia@ssc-spc.gc.ca) to shar
 
 Accessibility, Accommodation and Adaptive Computer Technology (AAACT) Program<br />
 Shared Services Canada / Government of Canada<br />
-<aaact-aatia@ssc-spc.gc.ca>
+[aaact-aatia@ssc-spc.gc.ca](mailto:aaact-aatia@ssc-spc.gc.ca)
