@@ -9,8 +9,7 @@
 
 	{% include "partials/header.njk"  %}
 
-	<main property="mainContentOfPage" resource="#wb-main" typeof="WebPageElement">
-
+	<main property="mainContentOfPage" resource="#wb-main" typeof="WebPageElement" {% if tags %} class="{{ tags }}"{% endif %}>
 
 			<div class="container">
 				<h1 property="name" id="wb-cont">{{ title | safe }}</h1>
