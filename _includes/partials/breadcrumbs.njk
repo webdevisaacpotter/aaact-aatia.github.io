@@ -29,7 +29,7 @@ So far, there is one level for the homepage and a second level for tagged pages.
 	<div class="container">
 		<ol class="breadcrumb" typeof="BreadcrumbList">
 			<li property="itemListElement" typeof="ListItem">
-				<a property="item" typeof="WebPage" href="{% if locale == " en" %}/en/{% else %}/fr/{% endif %}">
+				<a property="item" typeof="WebPage" href="{% if locale == "en" %}/home/{% else %}/accueil/{% endif %}">
 					<span property="name">{{ firstLevel }}</span>
 				</a>
 				<meta property="position" content="1">

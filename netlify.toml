@@ -6,12 +6,20 @@
 [functions]
   directory = "netlify/functions"
 
-# ✅ Ensure `aatia.canada.ca` works correctly with Netlify's CNAME setup
+# Redirect root domains to correct homepages
 [[redirects]]
-  from = "https://aatia.canada.ca/*"
-  to = "https://aatia.canada.ca/:splat"
-  status = 200
+  from = "https://aaact.canada.ca/"
+  to = "https://aaact.canada.ca/home"
+  status = 301
+  force = true
 
+[[redirects]]
+  from = "https://aatia.canada.ca/"
+  to = "https://aatia.canada.ca/accueil"
+  status = 301
+  force = true
+
+# Redirect old localized URLs to their new non-locale versions
 [[redirects]]
   from = "/en/*"
   to = "/:splat"
