@@ -40,17 +40,15 @@
 		</div>
 	</div>
 
-<hr>
-
-{%- if page.url != "/en/" and page.url != "/fr/" -%}
-	{% include "partials/breadcrumbs.njk" %}
-{%- endif -%}
-
 <div class="siteBanner">
 	<div class="siteName container">
 		{{ metadata.title[locale] | safe }}
 	</div>
 </div>
+
+{%- if page.url != "/en/" and page.url != "/fr/" -%}
+	{% include "partials/breadcrumbs.njk" %}
+{%- endif -%}
 
 </header>
 
