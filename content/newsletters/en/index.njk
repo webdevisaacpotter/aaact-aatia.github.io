@@ -1,0 +1,21 @@
+---
+title: AAACT Now for accessibility newsletter
+description: By joining our mailing list, you'll receive news and insights on digital accessibility so we can all contribute to disability inclusion.
+permalink: /en/newsletters/
+otherLanguagePermalink: /fr/infolettres/
+eleventyExcludeFromCollections: true
+---
+
+<h2>Newsletters</h2>
+
+{# List all newsletters here #}
+{% if collections.newsletters and collections.newsletters.length > 0 %}
+	{% set newsletterslist = collections.newsletters | localeMatch(locale) %}
+{% if newsletterslist and newsletterslist.length > 0 %}
+	{% include "partials/newsletterslist.njk" %}
+{% else %}
+	There are no newsletters at the moment.
+{% endif %}
+{% else %}
+	There are no newsletters at the moment.
+{% endif %}

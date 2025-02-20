@@ -1,6 +1,7 @@
 {% set otherLang = "fr" if locale == "en" else "en" %}
 {% set otherLanguage = "Français" if locale == "en" else "English" %}
 {% set toggleTag = "evenements" if (tags and "events" in tags) and locale == "en" else ("events" if (tags and "events" in tags) else "") %}
+{% set toggleTag = "infolettres" if (tags and "newsletters" in tags) and locale == "en" else ("newsletters" if (tags and "newsletters" in tags) else "") %}
 {% set togglePage = otherLanguagePermalink if otherLanguagePermalink else "/" ~ otherLang ~ ("/" ~ toggleTag if toggleTag else "") ~ "/" ~ (otherLanguageTitle | slugify) ~ "/" %}
 
 <header>
