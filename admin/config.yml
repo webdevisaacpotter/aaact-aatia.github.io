@@ -65,5 +65,18 @@ collections:
       - { label: "Other language title", name: "otherLanguageTitle", widget: "string", i18n: true }
       - { label: "Tagline", name: "tagline", widget: "markdown", i18n: true }
       - { label: "Description (required)", name: "description", widget: "markdown", i18n: true }
-      - { label: "Event Date (YYYY-MM-DD) (required)", name: "eventDate", widget: "datetime", date_format: "YYYY-MM-DD", i18n: duplicate, required: false }
+      - { label: "Event date (YYYY-MM-DD) (required)", name: "eventDate", widget: "datetime", date_format: "YYYY-MM-DD", i18n: duplicate, required: false }
+      - { label: "Details (required)", name: "body", widget: "markdown",  i18n: true }
+
+  - name: "newsletters"
+    label: "Events"
+    folder: "content/newsletters"
+    create: true
+    slug: "{{slug}}"
+    i18n: true
+    fields:
+      - { label: "Title (required)", name: "title", widget: "string", i18n: true }
+      - { label: "Other language title", name: "otherLanguageTitle", widget: "string", i18n: true }
+      - { label: "Description (required)", name: "description", widget: "markdown", i18n: true }
+      - { label: "Published date (YYYY-MM-DD) (required)", name: "newsletterDate", widget: "datetime", date_format: "YYYY-MM-DD", i18n: duplicate, required: false }
       - { label: "Details (required)", name: "body", widget: "markdown",  i18n: true }
