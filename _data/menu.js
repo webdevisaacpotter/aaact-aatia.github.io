@@ -3,19 +3,19 @@ module.exports = {
 		mainMenu: "principal",
 		home: [{
 			title: "Accueil",
-			link: "/fr/"
+			link: "/accueil/"
 		}],
 		podcasts: [{
 			title: "Podcasts",
-			link: "/fr/podcasts"
+			link: "/podcasts/"
 		}],
 		events: [{
 			title: "Evenements",
-			link: "/fr/evenements"
+			link: "/evenements/"
 		}],
 		newsletters: [{
 			title: "Infolettres",
-			link: "/fr/infolettres"
+			link: "/infolettres/"
 		}],
 	},
 
@@ -23,19 +23,19 @@ module.exports = {
 		mainMenu: "main",
 		home: [{
 			title: "Home",
-			link: "/en/"
+			link: "/home/"
 		}],
 		podcasts: [{
 			title: "Podcasts",
-			link: "/en/podcasts/"
+			link: "/podcasts/"
 		}],
 		events: [{
 			title: "Events",
-			link: "/en/events/"
+			link: "/events/"
 		}],
 		newsletters: [{
 			title: "Newsletters",
-			link: "/en/newsletters/"
+			link: "/newsletters/"
 		}],
 	},
 };
