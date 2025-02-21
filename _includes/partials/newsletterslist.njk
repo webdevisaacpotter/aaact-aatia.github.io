@@ -1,8 +1,4 @@
-{% if locale == "fr" %}
-	{% set introDescription = "Dans cette édition : " %}
-{% else %}
-	{% set introDescription = "In this edition: " %}
-{% endif %}
+{% set introDescription = newsletter[locale].introDescription %}
 
 <ul class="row list-unstyled wb-eqht-grd wb-filter mrgn-tp-md pb-4 wb-init wb-filter-inited">
 		{% for newsletter in newsletterslist %}
@@ -10,7 +6,6 @@
 			<div class="brdr-tp brdr-rght brdr-bttm brdr-lft hght-inhrt">
 				<h3 class="mrgn-tp-md mrgn-rght-md mrgn-bttm-md mrgn-lft-md"><a href="{{ newsletter.url }}">{{ newsletter.data.title }}</a></h3>
 				<div class="mrgn-rght-md mrgn-bttm-md mrgn-lft-md">
-					<p>{{ newsletter.data.newsletterDate | htmlDateString }}</p>
 					<p><strong>{{ introDescription }}</strong>{{ newsletter.data.description| safe }}</p>
 				</div>
 			</div>
