@@ -24,21 +24,19 @@ Organisé par le programme AATIA.
 * comprennent une combinaison de présentations, de démonstrations, d'exercices et de discussions facilitées 
 * démontrer à quel point les documents accessibles peuvent être convertis plus rapidement et plus facilement en d'autres formats
 
-
-
-<dl>\
-<dt>Date:</dt>\
+<dl>
+<dt>Date:</dt>
 <dd class="mrgn-lft-md">
-<dl class="mrgn-lft-lg">Le 25 février, 2025</dd>\
- <dt>Heure :</dt>\
+<dl class="mrgn-lft-lg">Le 25 février, 2025</dd>
+ <dt>Heure :</dt>
  <dd class="mrgn-lft-md">
- <dl class="mrgn-lft-lg">\
- <dt>Séance en anglais :</dt> \
+ <dl class="mrgn-lft-lg">
+ <dt>Séance en anglais :</dt>
 <dd class="mrgn-lft-md">12h30 PM &mdash; 3h30 PM (<abbr
-title="Heure normale de l'est">EST</abbr>)</dd> \
-<dt>Plateforme:</dt>\
-<dd class="mrgn-lft-md">Microsoft Teams</dd>\
-<dt>Interprétation en langue des signes :</dt>\
+title="Heure normale de l'est">EST</abbr>)</dd>
+<dt>Plateforme:</dt>
+<dd class="mrgn-lft-md">Microsoft Teams</dd>
+<dt>Interprétation en langue des signes :</dt>
 <dd class="mrgn-lft-md">Disponible</dd>
 </dl>
 
