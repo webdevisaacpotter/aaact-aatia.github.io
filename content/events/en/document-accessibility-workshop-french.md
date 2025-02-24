@@ -23,17 +23,13 @@ Learn how to apply the basic principles of accessibility to produce accessible c
 
 <dl>
   <dt>Date:</dt>
-  <dd class="mrgn-lft-md">
-  <dl class="mrgn-lft-lg">February 25, 2025</dd>
+  <dd>February 25, 2025</dd>
   <dt>Time:</dt>
-  <dd class="mrgn-lft-md">
-  <dl class="mrgn-lft-lg">
-  <dt>English session:</dt>
-  <dd class="mrgn-lft-md">12:30 PM &mdash; 3:30 PM (<abbr title="Eastern Standard Time">EST</abbr>)</dd>
+  <dd>12:30 PM &mdash; 3:30 PM (<abbr title="Eastern Standard Time">EST</abbr>)</dd>
   <dt>Platform:</dt>
-  <dd class="mrgn-lft-md">Microsoft Teams</dd>
+  <dd>Microsoft Teams</dd>
   <dt>Sign language interpretation:</dt>
-  <dd class="mrgn-lft-md">Available for the session.</dd>
+  <dd>Available for the session.</dd>
 </dl>
 
 ### How to join
