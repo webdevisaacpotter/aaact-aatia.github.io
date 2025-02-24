@@ -15,6 +15,12 @@ Apprendre à appliquer les principes de base de l'accessibilité pour produire u
 
 ### Cet atelier permettra :
 
+- de souligner l'importance de l'accessibilité
+- d'outiller les participants pour qu'ils puissent identifier les enjeux d'accessibilité dans les documents
+- démontrer comment les participants peuvent effectuer des vérifications de l'accessibilité et de corriger le contenu
+- comprennent une combinaison de présentations, de démonstrations, d'exercices et de discussions facilitées  
+- démontrer à quel point les documents accessibles peuvent être convertis plus rapidement et plus facilement en d'autres formats
+
 <dl>
 <dt>Date:</dt>
 <dd>Le 26 février, 2025</dd>
