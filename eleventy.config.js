@@ -4,6 +4,7 @@ const pluginRss = require("@11ty/eleventy-plugin-rss");
 const pluginSyntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const { EleventyHtmlBasePlugin } = require("@11ty/eleventy");
 const getFileInfo = require("./scripts/filters/fileInfo");
+const markdownIt = require("markdown-it");
 
 module.exports = function(eleventyConfig) {
 	// Copy the contents of the `public` folder to the output folder
@@ -104,6 +105,11 @@ module.exports = function(eleventyConfig) {
 			slugify: eleventyConfig.getFilter("slugify")
 		});
 	});
+
+	let markdownLib = markdownIt();
+	eleventyConfig.setLibrary("md", markdownLib);
+
+	eleventyConfig.addFilter("markdownify", (content) => markdownLib.render(content));
 
 	eleventyConfig.addShortcode("currentBuildDate", () => {
 		return (new Date()).toISOString();

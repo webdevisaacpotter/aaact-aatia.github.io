@@ -16,7 +16,7 @@
 				{% if tagline %}
 					<p class="tagline">{{ tagline | safe }}</p>
 				{% endif %}
-				<p class="description">{% if tags and "newsletters" in tags %}<strong>{{ newsletter[locale].introDescription }}</strong>{% endif %}{{ description | safe }}</p>
+				<p class="description">{{ description or '' | markdownify | safe }}</p>
 				{% include "partials/alerts.njk" %}
 				{{ content | safe }}
 			</div>

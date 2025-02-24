@@ -1,13 +1,12 @@
 ---
 title: Bienvenue sur le site du Programme d'accessibilité, d'adaptation et de
-  technologie informatique adaptée (<abbr>AATIA</abbr>)
+  technologie informatique adaptée (AATIA)
 description: Le programme accessibilité, d’adaptation et de technologie
-  informatique adaptée (<abbr>AATIA</abbr>) soutient la création de milieux de
+  informatique adaptée (AATIA) soutient la création de milieux de
   travail inclusifs et sans barrières au sein du gouvernement du Canada. Il
   offre des formations, des outils et des technologies adaptatives pour garantir
   l'accessibilité à tous les employés, y compris ceux ayant des incapacités.
-  <abbr title="accessibilité, d’adaptation et de technologie informatique
-  adaptée">AATIA</abbr> dessert tous les employés du gouvernement, fournissant
+  AATIA dessert tous les employés du gouvernement, fournissant
   des ressources en personne et à distance.
 permalink: /accueil/
 otherLanguagePermalink: /home/

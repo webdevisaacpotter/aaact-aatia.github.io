@@ -3,7 +3,7 @@ title: Horizons accessibles
 otherLanguageTitle: Accessible Horizons
 tagline: Une étape importante sur la route vers l’accessibilité
 description: Joignez-vous à l'équipe de l'Accessibilité, adaptation et
-  technologie informatique adaptée (<abbr>AATIA</abbr>) pour un événement
+  technologie informatique adaptée (AATIA) pour un événement
   virtuel engageant et inclusif !
 eventDate: 2025-02-28
 ---
@@ -20,12 +20,12 @@ Voici l'épisode 2 des événements en direct de <abbr title="Accessibilité, ad
       <dt>Séance en anglais :</dt>
       <dd class="mrgn-lft-md">13 h à 13 h 30 (<abbr title="heure normale de l'Est">HNE</abbr>)</dd>
 			<dt>Inscription:</dt>
-			<dd class="mrgn-lft-md"><a lang="en" ref="https://events.teams.microsoft.com/event/92c8cc7f-72d4-4541-a2ba-5dbdf8112acb@d05bc194-94bf-4ad6-ae2e-1db0f2e38f5e">Accessible Horizons 
+			<dd class="mrgn-lft-md"><a lang="en" ref="https://events.teams.microsoft.com/event/92c8cc7f-72d4-4541-a2ba-5dbdf8112acb@d05bc194-94bf-4ad6-ae2e-1db0f2e38f5e">Accessible Horizons
 &mdash; Episode 2</a></dd>
       <dt>Séance en français :</dt>
       <dd class="mrgn-lft-md">14 h à 14 h 30 (<abbr title="heure normale de l'Est">HNE</abbr>)</dd>
 			<dt>Inscription:</dt>
-			<dd class="mrgn-lft-md"><a href="https://events.teams.microsoft.com/event/473cd859-177c-4f90-abb9-ce8b435439b4@d05bc194-94bf-4ad6-ae2e-1db0f2e38f5e">Horizons accessibles 
+			<dd class="mrgn-lft-md"><a href="https://events.teams.microsoft.com/event/473cd859-177c-4f90-abb9-ce8b435439b4@d05bc194-94bf-4ad6-ae2e-1db0f2e38f5e">Horizons accessibles
 &mdash; Épisode 2</a></dd>
     </dl>
   </dd>
