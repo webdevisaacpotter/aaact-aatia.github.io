@@ -1,6 +1,6 @@
 ---
 title: Document Accessibility Workshop English
-otherLanguageTitle: Atelier des documents accessibles ( Anglais )
+otherLanguageTitle: Atelier des documents accessibles Anglais
 tagline: "Make Every Word Count: Creating Accessible Documents for All"
 description: >-
   
