@@ -16,18 +16,20 @@ dans différents formats (ex. documents Word, PDF, PowerPoint). Organisé par le
 
 ### **Cet atelier permettra :**
 
-<dl>\
-<dt>Date:</dt>\ <dd class="mrgn-lft-md"> <dl
-class="mrgn-lft-lg">Le 26 février, 2025</dd>\
- <dt>Heure :</dt>\  <dd
-class="mrgn-lft-md">  <dl
-class="mrgn-lft-lg">\  <dt>Séance en anglais
-:</dt> \ <dd class="mrgn-lft-md">9h30 AM &mdash; 12h30
-PM (<abbr title="Heure normale de
-l'est">EST</abbr>)</dd> \ <dt>Plateforme:</dt>\
-<dd class="mrgn-lft-md">Microsoft Teams</dd>\
-<dt>Interprétation en langue des signes :</dt>\ <dd
-class="mrgn-lft-md">Disponible</dd> </dl>
+<dl>
+<dt>Date:</dt><dd class="mrgn-lft-md">\
+<dl class="mrgn-lft-lg">Le 26 février, 2025</dd>
+<dt>Heure :</dt>\
+<dd class="mrgn-lft-md">\
+<dl class="mrgn-lft-lg">\
+<dt>Séance en anglais:</dt>\
+<dd class="mrgn-lft-md">9h30 AM &mdash; 12h30
+PM (<abbr title="Heure normale de l'est">EST</abbr>)</dd>\
+<dt>Plateforme:</dt>
+<dd class="mrgn-lft-md">Microsoft Teams</dd>
+<dt>Interprétation en langue des signes :</dt>\
+<dd class="mrgn-lft-md">Disponible</dd>\
+</dl>
 
 ### Comment vous joindre
 
