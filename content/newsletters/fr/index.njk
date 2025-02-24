@@ -11,13 +11,13 @@ eleventyExcludeFromCollections: true
 <h2>Infolettres</h2>
 
 {# List all newsletters here #}
-{% if collections.newsletters and collections.newsletters.length > 0 %}
-{% set newsletterslist = collections.newsletters | localeMatch(locale) %}
-{% if newsletterslist and newsletterslist.length > 0 %}
-{% include "partials/newsletterslist.njk" %}
-{% else %}
+{%- if collections.newsletters and collections.newsletters.length > 0 -%}
+{%- set newsletterslist = collections.newsletters | localeMatch(locale) -%}
+{%- if newsletterslist and newsletterslist.length > 0 -%}
+{%- include "partials/newsletterslist.njk" -%}
+{%- else -%}
 Il n'y a pas de infolettre pour le moment.
-{% endif %}
-{% else %}
+{%- endif -%}
+{%- else -%}
 Il n'y a pas de infolettre pour le moment.
-{% endif %}
+{%- endif -%}

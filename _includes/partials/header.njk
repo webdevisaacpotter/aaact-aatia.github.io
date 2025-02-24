@@ -1,11 +1,11 @@
-{% set otherLang = "fr" if locale == "en" else "en" %}
-{% set otherLanguage = "Français" if locale == "en" else "English" %}
+{%- set otherLang = "fr" if locale == "en" else "en" -%}
+{%- set otherLanguage = "Français" if locale == "en" else "English" -%}
 
 <header>
 	<div id="wb-bnr" class="container">
 		<div class="row">
 
-			{% include "partials/lang.njk" %}
+			{%- include "partials/lang.njk" -%}
 
 			<div class="brand col-xs-9 col-sm-5 col-md-4" property="publisher" typeof="GovernmentOrganization">
 				<a href="{{ header[locale].governmentOfCanadaURL }}" property="url">
@@ -44,7 +44,7 @@
 </div>
 
 {%- if page.url != "/home/" and page.url != "/accueil/" -%}
-	{% include "partials/breadcrumbs.njk" %}
+	{%- include "partials/breadcrumbs.njk" -%}
 {%- endif -%}
 
 </header>

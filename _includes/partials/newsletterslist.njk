@@ -1,11 +1,11 @@
 
 <ul class="list-unstyled">
-		{% for newsletter in newsletterslist %}
+		{%- for newsletter in newsletterslist -%}
 		<li>
 			<section>
 				<h3><a href="{{ newsletter.url }}">{{ newsletter.data.title }}</a></h3>
 					<p>{{ newsletter.data.description | markdownify | safe }}</p>
 			</section>
 		</li>
-		{% endfor %}
+		{%- endfor -%}
 </ul>
