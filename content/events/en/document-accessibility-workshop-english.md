@@ -2,9 +2,10 @@
 title: Document Accessibility Workshop - English
 otherLanguageTitle: Atelier des documents accessibles -  Anglais
 tagline: "Make Every Word Count: Creating Accessible Documents for All"
-description: >-
-  
-  Learn how to create inclusive and accessible documents with practical techniques and hands-on guidance from the <abbr title="Accessibility, Accommodation and Adaptive Computer Technology">AAACT</abbr>  team. This workshop will equip GC employees and managers with the skills to identify, fix, and improve document accessibility across various formats.
+description: Learn how to create inclusive and accessible documents with
+  practical techniques and hands-on guidance from the AAACT team. This workshop
+  will equip Government of Canada employees and managers with the skills to
+  identify, fix, and improve document accessibility across various formats.
 eventDate: 2025-02-25
 ---
 **Event Details**
