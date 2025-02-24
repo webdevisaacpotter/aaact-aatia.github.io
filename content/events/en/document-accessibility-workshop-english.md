@@ -9,11 +9,62 @@ eventDate: 2025-02-25
 ---
 DETAILS
 
-Learn how to apply the
-basic principles of accessibility to produce accessible content in various
+Learn how to apply the basic principles of accessibility to produce accessible content in various
 formats (ex. Word documents, PDF, PowerPoint). Hosted by AAACT program.
 
 
+
+
+
+
+<dl>
+
+<dt>This
+workshop will:</dt>
+
+<dd>highlight
+the importance of accessibility</dd>
+
+<dd>enable participants to identify document accessibility issues</dd>
+
+<dd>demonstrate how participants can perform document
+accessibility checks and fix content</dd>
+
+<dd>include a combination of presentations, demonstrations,
+exercises and facilitated discussion</dd>
+
+<dd>how accessible documents are faster and easier to convert into
+other formats</dd>
+
+</dl>
+
+
+
+
+
+
+<dl>
+
+<dt>Date:</dt>
+
+<dd
+class="mrgn-lft-md">February 25, 2025</dd>
+
+ <dt>Time:</dt>
+
+ <dd class="mrgn-lft-md">
+
+ <dl class="mrgn-lft-lg">
+
+ <dt>English session:</dt> 
+
+<dd class="mrgn-lft-md">12:30 PM &mdash; 3:30 PM (<abbr
+title="Eastern Standard Time">EST</abbr>)</dd> 
+
+<dt>Platform:</dt> <dd class="mrgn-lft-md">Microsoft
+Teams</dd> <dt>Sign language interpretation:</dt> <dd
+class="mrgn-lft-md">Available for the session.</dd>
+</dl>
 
 
 How to join
