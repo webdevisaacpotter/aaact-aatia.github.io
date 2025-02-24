@@ -64,6 +64,6 @@ How to join
 
 [Join the workshop](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTVmZWVmZTQtMTZkMi00YTcxLThlZGYtY2RkNTY1M2Q5OTQ4%40thread.v2/0?context=%7b%22Tid%22%3a%22d05bc194-94bf-4ad6-ae2e-1db0f2e38f5e%22%2c%22Oid%22%3a%2257dd1933-e490-4a17-98c0-0c0176f7106a%22%7d)
 
-This event is open to Government of Canada employees and managers, please share this broadly. Let’s come together to make a lasting impact on accessibility and inclusion in the workplace.
+This event is open to Government of Canada employees , please share this broadly. Let’s come together to make a lasting impact on accessibility and inclusion in the workplace.
 
 We look forward to seeing you at the event!
