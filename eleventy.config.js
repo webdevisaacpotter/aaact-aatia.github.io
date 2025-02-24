@@ -106,10 +106,17 @@ module.exports = function(eleventyConfig) {
 		});
 	});
 
-	let markdownLib = markdownIt();
-	eleventyConfig.setLibrary("md", markdownLib);
-
-	eleventyConfig.addFilter("markdownify", (content) => markdownLib.render(content));
+	const markdownItOptions = {
+		html: true,  // Allows inline HTML like <abbr>
+		breaks: true, // Enables GitHub-style line breaks
+		linkify: true, // Auto-links raw URLs
+		typographer: true // Enables smart punctuation formatting https://github.com/markdown-it/markdown-it/blob/master/lib/rules_core/replacements.mjs
+	};
+	const md = markdownIt(markdownItOptions)
+	eleventyConfig.setLibrary('md', md);
+	eleventyConfig.addFilter('markdownify', (markdownString) =>
+		md.renderInline(markdownString)
+	);
 
 	eleventyConfig.addShortcode("currentBuildDate", () => {
 		return (new Date()).toISOString();

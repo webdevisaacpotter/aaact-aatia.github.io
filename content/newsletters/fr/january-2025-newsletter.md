@@ -166,6 +166,6 @@ Merci à tous ceux qui ont participé à notre événement virtuel en décembre!
 
 Nous vous invitons à [nous faire part](mailto:aaact-aatia@ssc-spc.gc.ca) de vos idées d'articles et de vos commentaires afin d'améliorer notre bulletin d’information.
 
-Programme d’accessibilité, d’adaptation et de technologie informatique adaptée<br />
-Services partagés Canada / Gouvernement du Canada<br />
+Programme d’accessibilité, d’adaptation et de technologie informatique adaptée
+Services partagés Canada / Gouvernement du Canada
 [aaact-aatia@ssc-spc.gc.ca](mailto:aaact-aatia@ssc-spc.gc.ca)

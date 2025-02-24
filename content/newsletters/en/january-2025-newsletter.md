@@ -165,6 +165,6 @@ Thank you to everyone who joined our virtual event in December! We invite you to
 
 We want to hear from you. [Contact us](mailto:aaact-aatia@ssc-spc.gc.ca) to share your story ideas and comments to improve our newsletter.
 
-Accessibility, Accommodation and Adaptive Computer Technology (AAACT) Program<br />
-Shared Services Canada / Government of Canada<br />
+Accessibility, Accommodation and Adaptive Computer Technology (AAACT) Program
+Shared Services Canada / Government of Canada
 [aaact-aatia@ssc-spc.gc.ca](mailto:aaact-aatia@ssc-spc.gc.ca)
