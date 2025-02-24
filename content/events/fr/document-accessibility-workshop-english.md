@@ -10,13 +10,13 @@ description: Apprenez à créer des documents inclusifs et accessibles grâce au
   des documents dans divers formats.
 eventDate: 2025-02-25
 ---
-**Détails de l’événement**
+## Détails de l’événement
 
 Apprendre à appliquer les principes de base de l'accessibilité pour produire un contenu accessible dans différents formats (ex. documents Word, PDF, PowerPoint).
 
 Organisé par le programme AATIA.
 
-**Cet atelier permettra :**
+### Cet atelier permettra :
 
 * de souligner l'importance de l'accessibilité
 * d'outiller les participants pour qu'ils puissent identifier les enjeux d'accessibilité dans les documents
@@ -25,22 +25,17 @@ Organisé par le programme AATIA.
 * démontrer à quel point les documents accessibles peuvent être convertis plus rapidement et plus facilement en d'autres formats
 
 <dl>
-<dt>Date:</dt>
-<dd class="mrgn-lft-md">
-<dl class="mrgn-lft-lg">Le 25 février, 2025</dd>
- <dt>Heure :</dt>
- <dd class="mrgn-lft-md">
- <dl class="mrgn-lft-lg">
- <dt>Séance en anglais :</dt>
-<dd class="mrgn-lft-md">12h30 PM &mdash; 3h30 PM (<abbr
-title="Heure normale de l'est">EST</abbr>)</dd>
-<dt>Plateforme:</dt>
-<dd class="mrgn-lft-md">Microsoft Teams</dd>
-<dt>Interprétation en langue des signes :</dt>
-<dd class="mrgn-lft-md">Disponible</dd>
+  <dt>Date:</dt>
+  <dd>Le 25 février, 2025</dd>
+  <dt>Heure :</dt>
+  <dd>12h30 PM &mdash; 3h30 PM (<abbr title="Heure normale de l'est">EST</abbr>)</dd>
+  <dt>Plateforme:</dt>
+  <dd>Microsoft Teams</dd>
+  <dt>Interprétation en langue des signes :</dt>
+  <dd>Disponible</dd>
 </dl>
 
-**Comment vous joindre**
+### Comment vous joindre
 
 [Lien de l'atelier](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjZkN2U1ZDktNTNkNi00YTc4LWE1MjctYjA4ODRiMzQzMDUz%40thread.v2/0?context=%7b%22Tid%22%3a%22d05bc194-94bf-4ad6-ae2e-1db0f2e38f5e%22%2c%22Oid%22%3a%2257dd1933-e490-4a17-98c0-0c0176f7106a%22%7d)[](<>)
 
