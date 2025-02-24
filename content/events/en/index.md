@@ -15,13 +15,13 @@ To help promote upcoming accessibility activities organized by various Governmen
 ## Events
 
 {# List all events here #}
-{% if collections.events and collections.events.length > 0 %}
-  {% set eventslist = collections.events | localeMatch(locale) %}
-  {% if eventslist and eventslist.length > 0 %}
-    {% include "partials/eventslist.njk" %}
-  {% else %}
+{%- if collections.events and collections.events.length > 0 -%}
+  {%- set eventslist = collections.events | localeMatch(locale) -%}
+  {%- if eventslist and eventslist.length > 0 -%}
+    {%- include "partials/eventslist.njk" -%}
+  {%- else -%}
     There are no events scheduled at the moment.
-  {% endif %}
-{% else %}
+  {%- endif -%}
+{%- else -%}
   There are no events scheduled at the moment.
-{% endif %}
+{%- endif -%}

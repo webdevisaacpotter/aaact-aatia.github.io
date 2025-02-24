@@ -1,31 +1,31 @@
 <!DOCTYPE html>
 <html class="no-js" lang="{{ locale }}" dir="ltr">
 
-{% include "partials/head.njk" %}
+{%- include "partials/head.njk" -%}
 
 <body vocab="http://schema.org/" typeof="WebPage">
 
-	{% include "partials/skipnav.njk" %}
+	{%- include "partials/skipnav.njk" -%}
 
-	{% include "partials/header.njk"  %}
+	{%- include "partials/header.njk"  -%}
 
-	<main property="mainContentOfPage" resource="#wb-main" typeof="WebPageElement" {% if tags %} class="{{ tags }}"{% endif %}>
+	<main property="mainContentOfPage" resource="#wb-main" typeof="WebPageElement" {%- if tags -%} class="{{ tags }}"{%- endif -%}>
 
 			<div class="container">
 				<h1 property="name" id="wb-cont">{{ title | safe }}</h1>
-				{% if tagline %}
+				{%- if tagline -%}
 					<p class="tagline">{{ tagline | safe }}</p>
-				{% endif %}
-				{% if description %}<p class="description">{{ description | markdownify | safe }}</p>{% endif %}
-				{% include "partials/alerts.njk" %}
+				{%- endif -%}
+				{%- if description -%}<p class="description">{{ description | markdownify | safe }}</p>{%- endif -%}
+				{%- include "partials/alerts.njk" -%}
 				{{ content | safe }}
 			</div>
 
-			{% include "partials/pagedetails.njk" %}
+			{%- include "partials/pagedetails.njk" -%}
 
 	</main>
 
-	{% include "partials/footer.njk" %}
+	{%- include "partials/footer.njk" -%}
 
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.js"></script>
 	<script src="https://www.canada.ca/etc/designs/canada/wet-boew/js/wet-boew.min.js"></script>

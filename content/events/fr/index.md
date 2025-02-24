@@ -15,13 +15,13 @@ Pour aider à promouvoir les activités d'accessibilité à venir organisées pa
 
 {# Liste de tous les événements ici #}
 
-{% if collections.events and collections.events.length > 0 %}
-  {% set eventslist = collections.events | localeMatch(locale) %}
-  {% if eventslist and eventslist.length > 0 %}
-    {% include "partials/eventslist.njk" %}
-  {% else %}
+{%- if collections.events and collections.events.length > 0 -%}
+  {%- set eventslist = collections.events | localeMatch(locale) -%}
+  {%- if eventslist and eventslist.length > 0 -%}
+    {%- include "partials/eventslist.njk" -%}
+  {%- else -%}
     Aucun événement n'est prévu pour le moment.
-  {% endif %}
-{% else %}
+  {%- endif -%}
+{%- else -%}
   Aucun événement n'est prévu pour le moment.
-{% endif %}
+{%- endif -%}
