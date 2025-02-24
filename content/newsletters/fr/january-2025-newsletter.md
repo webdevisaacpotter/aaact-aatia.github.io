@@ -1,8 +1,8 @@
 ---
-title: Infolettre de janvier 2025
+title: Infolettre de l'AATIA maintenant pour l'accessibilité de janvier 2025
 otherLanguageTitle: January 2025 newsletter
-description: les jalons franchis au cours de 2024; la socialisation d’un chien
-  d’assistance dans notre espace de travail; créer une culture de l'inclusion.
+description: "**Dans cette édition :** les jalons franchis au cours de 2024; la socialisation d’un chien
+  d’assistance dans notre espace de travail; créer une culture de l'inclusion."
 newsletterDate: 2025-01-01
 ---
 Bonne année! À l’aube de 2025, nous sommes ravis de continuer à vous aider à réaliser des progrès significatifs au chapitre de l’accessibilité. Cette année, nous nous engageons à vous fournir des ressources utiles, des mises à jour et des conseils pour vous aider à intégrer l’accessibilité dans votre travail. Dans cette édition, nous revenons sur les jalons franchis au cours de l’année écoulée, nous racontons une histoire réconfortante sur la socialisation d’un chien d’assistance dans notre espace de travail, et nous explorons l’importance de favoriser une culture en milieu de travail positive.
@@ -166,6 +166,6 @@ Merci à tous ceux qui ont participé à notre événement virtuel en décembre!
 
 Nous vous invitons à [nous faire part](mailto:aaact-aatia@ssc-spc.gc.ca) de vos idées d'articles et de vos commentaires afin d'améliorer notre bulletin d’information.
 
-Programme d’accessibilité, d’adaptation et de technologie informatique adaptée<br />
-Services partagés Canada / Gouvernement du Canada<br />
+Programme d’accessibilité, d’adaptation et de technologie informatique adaptée
+Services partagés Canada / Gouvernement du Canada
 [aaact-aatia@ssc-spc.gc.ca](mailto:aaact-aatia@ssc-spc.gc.ca)

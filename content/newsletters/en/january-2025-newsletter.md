@@ -1,8 +1,8 @@
 ---
-title: January 2025 newsletter
+title: January 2025 AAACT Now for Accessibility newsletter
 otherLanguageTitle: Infolettre de janvier 2025
-description: 2024 milestones; the socialization of a service dog in our
-  workspace; creating a culture of inclusion.
+description: "**In this edition:** 2024 milestones; the socialization of a service dog in our
+  workspace; creating a culture of inclusion."
 newsletterDate: 2025-01-01
 ---
 Happy New Year! As we step into 2025, we’re excited to continue supporting you in making meaningful progress toward accessibility goals. This year, we are committed to providing you with valuable resources, updates, and tips to help integrate accessibility in your work. In this edition, we reflect on the milestones achieved over the last year, share a heartwarming story about the socialization of a service dog in our workspace, and explore to importance of fostering a positive workplace culture.
@@ -165,6 +165,6 @@ Thank you to everyone who joined our virtual event in December! We invite you to
 
 We want to hear from you. [Contact us](mailto:aaact-aatia@ssc-spc.gc.ca) to share your story ideas and comments to improve our newsletter.
 
-Accessibility, Accommodation and Adaptive Computer Technology (AAACT) Program<br />
-Shared Services Canada / Government of Canada<br />
+Accessibility, Accommodation and Adaptive Computer Technology (AAACT) Program
+Shared Services Canada / Government of Canada
 [aaact-aatia@ssc-spc.gc.ca](mailto:aaact-aatia@ssc-spc.gc.ca)

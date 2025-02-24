@@ -3,7 +3,7 @@ title: Accessible Horizons
 otherLanguageTitle: Horizons accessibles
 tagline: A milestone in the road to accessibility
 description: Join the Accessibility, Accommodation and Adaptive Computer
-  Technology (<abbr>AAACT</abbr>) team for an inclusive and engaging virtual
+  Technology (AAACT) team for an inclusive and engaging virtual
   event!
 eventDate: 2025-02-28
 ---
@@ -26,7 +26,7 @@ AAACT's</abbr> live events - Accessible Horizons. This episode will follow our s
 		<dt>French session:</dt>
 		<dd class="mrgn-lft-md">2:00 PM &mdash; 2:30 PM (<abbr title="Eastern Standard Time">EST</abbr>)</dd>
 		<dt>Registration:</dt>
-		<dd class="mrgn-lft-md"><a href="https://events.teams.microsoft.com/event/473cd859-177c-4f90-abb9-ce8b435439b4@d05bc194-94bf-4ad6-ae2e-1db0f2e38f5e" lang="fr">Horizons accessibles 
+		<dd class="mrgn-lft-md"><a href="https://events.teams.microsoft.com/event/473cd859-177c-4f90-abb9-ce8b435439b4@d05bc194-94bf-4ad6-ae2e-1db0f2e38f5e" lang="fr">Horizons accessibles
 &mdash; Épisode 2</a></dd>
 	</dl>
 	</dd>

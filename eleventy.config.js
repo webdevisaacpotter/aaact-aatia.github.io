@@ -4,6 +4,7 @@ const pluginRss = require("@11ty/eleventy-plugin-rss");
 const pluginSyntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const { EleventyHtmlBasePlugin } = require("@11ty/eleventy");
 const getFileInfo = require("./scripts/filters/fileInfo");
+const markdownIt = require("markdown-it");
 
 module.exports = function(eleventyConfig) {
 	// Copy the contents of the `public` folder to the output folder
@@ -104,6 +105,18 @@ module.exports = function(eleventyConfig) {
 			slugify: eleventyConfig.getFilter("slugify")
 		});
 	});
+
+	const markdownItOptions = {
+		html: true,  // Allows inline HTML like <abbr>
+		breaks: true, // Enables GitHub-style line breaks
+		linkify: true, // Auto-links raw URLs
+		typographer: true // Enables smart punctuation formatting https://github.com/markdown-it/markdown-it/blob/master/lib/rules_core/replacements.mjs
+	};
+	const md = markdownIt(markdownItOptions)
+	eleventyConfig.setLibrary('md', md);
+	eleventyConfig.addFilter('markdownify', (markdownString) =>
+		md.renderInline(markdownString)
+	);
 
 	eleventyConfig.addShortcode("currentBuildDate", () => {
 		return (new Date()).toISOString();
