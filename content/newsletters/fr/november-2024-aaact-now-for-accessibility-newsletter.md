@@ -10,18 +10,18 @@ Bienvenue à la toute dernière édition de *L’AATIA maintenant pour l’acces
 
 ## Sur cette page
 
-- [Journee internationale des personnes en situation de handicap de 2024](#journee-internationale-des-personnes-en-situation-de-handicap-de-2024)
-- [Nouvel espace de travail accessible de l’AATIA](#nouvel-espace-de-travail-accessible-de-l-aatia)
-- [Salon de l’innovation de SPC : Recapitulation](#salon-de-l-innovation-de-spc--recapitulation)
-- [Faire connaissance avec l’equipe](#faire-connaissance-avec-l-equipe)
-- [Seances de formation et evenements a venir](#seances-de-formation-et-evenements-a-venir)
-- [Joignez-vous a l’evenement de la JIPSH de l’AATIA](#joignez-vous-a-l-evenement-de-la-jipsh-de-l-aatia)
-- [Truc pour l’accessibilite numerique – Feuille de calcul Excel accessible](#truc-pour-l-accessibilite-numerique--feuille-de-calcul-excel-accessible)
-- [Plein feu sur la retroaction sur l’accessibilite](#plein-feu-sur-la-retroaction-sur-l-accessibilite)
+* [Journee internationale des personnes en situation de handicap de 2024](#journee-internationale-des-personnes-en-situation-de-handicap-de-2024)
+* [Nouvel espace de travail accessible de l’AATIA](#nouvel-espace-de-travail-accessible-de-l-aatia)
+* [Salon de l’innovation de SPC : Recapitulation](#salon-de-l-innovation-de-spc--recapitulation)
+* [Faire connaissance avec l’equipe](#faire-connaissance-avec-l-equipe)
+* [Seances de formation et evenements a venir](#seances-de-formation-et-evenements-a-venir)
+* [Joignez-vous a l’evenement de la JIPSH de l’AATIA](#joignez-vous-a-l-evenement-de-la-jipsh-de-l-aatia)
+* [Truc pour l’accessibilite numerique – Feuille de calcul Excel accessible](#truc-pour-l-accessibilite-numerique--feuille-de-calcul-excel-accessible)
+* [Plein feu sur la retroaction sur l’accessibilite](#plein-feu-sur-la-retroaction-sur-l-accessibilite)
 
 ## Journée internationale des personnes en situation de handicap de 2024
 
-<img src="media/image2.jpeg" style="width:5.60417in;height:1.66568in" alt="Bannière décorative de la Journée internationale des personnes en situation de handicap." />
+![Description après l'image.](/docs/picture1-fr.jpg)
 
 Alt text : Bannière décorative de la Journée internationale des personnes en situation de handicap.
 
@@ -31,7 +31,7 @@ Les handicaps apparents peuvent être visibles et faciles à reconnaître, comme
 
 Au cours de la JIPSH de 2024 et au-delà, nous encourageons tous les fonctionnaires à s’informer sur les différents types d’obstacles auxquels les gens peuvent être confrontés en milieu de travail, à favoriser un dialogue ouvert sur les obstacles et les solutions, et à mettre en œuvre des pratiques inclusives dans le cadre de notre travail. 
 
-Le programme d’Accessibilité, d’adaptation et de technologie informatique adaptée (AATIA) offre des séances de formation qui aident à explorer ce sujet et qui offrent des solutions aux obstacles auxquels les gens sont confrontés en milieu de travail. Consultez la page [Formation et événements du GC sur l’accessibilité](https://www.gcpedia.gc.ca/wiki/GC_Accessibility_Training_and_Events_/_Formation_et_%C3%A9v%C3%A9nements_du_GC_sur_l%27accessibilit%C3%A9?setlang=fr&uselang=fr) pour obtenir un complément d’information sur les possibilités de formation à venir. (Vous devez être connecté à un réseau du GC ou connecté via un réseau privé virtuel pour accéder à GCpédia.) Nous proposons également un vaste éventail de mesures d’adaptation, d’approches de rechange, d’outils, de services, de ressources et de technologies informatiques adaptées aux fonctionnaires en situation de handicap ou ayant une blessure. Si vous vous posez des questions sur nos services et ce que nous avons à offrir, veuillez consulter la page Web [Comment le programme d’AATIA peut-il vous aider?](https://www.canada.ca/fr/services-partages/organisation/programme-aatia/programme-aatia-peut-aider.html) ou nous envoyer un courriel à <aaact-aatia@ssc-spc.gc.ca>. 
+Le programme d’Accessibilité, d’adaptation et de technologie informatique adaptée (AATIA) offre des séances de formation qui aident à explorer ce sujet et qui offrent des solutions aux obstacles auxquels les gens sont confrontés en milieu de travail. Consultez la page [Formation et événements du GC sur l’accessibilité](https://www.gcpedia.gc.ca/wiki/GC_Accessibility_Training_and_Events_/_Formation_et_%C3%A9v%C3%A9nements_du_GC_sur_l%27accessibilit%C3%A9?setlang=fr&uselang=fr) pour obtenir un complément d’information sur les possibilités de formation à venir. (Vous devez être connecté à un réseau du GC ou connecté via un réseau privé virtuel pour accéder à GCpédia.) Nous proposons également un vaste éventail de mesures d’adaptation, d’approches de rechange, d’outils, de services, de ressources et de technologies informatiques adaptées aux fonctionnaires en situation de handicap ou ayant une blessure. Si vous vous posez des questions sur nos services et ce que nous avons à offrir, veuillez consulter la page Web [Comment le programme d’AATIA peut-il vous aider?](https://www.canada.ca/fr/services-partages/organisation/programme-aatia/programme-aatia-peut-aider.html) ou nous envoyer un courriel à [aaact-aatia@ssc-spc.gc.ca](mailto:aaact-aatia@ssc-spc.gc.ca). 
 
 Le 3 décembre 2024, Pêches et Océans Canada, en collaboration avec l’École de la fonction publique du Canada, organise un événement à l’intention des fonctionnaires fédéraux, intitulé « Comprendre les handicaps apparents et non apparents en milieu de travail ». Cet événement virtuel de 90 minutes nous permettra d’en apprendre davantage sur les expériences des personnes en situation de handicap, en mettant l’accent sur les handicaps non apparents. Les participants y trouveront des conseils pratiques et des points clés à retenir pour favoriser la compassion et l’inclusion dans nos milieux de travail. [Inscrivez-vous dès aujourd’hui](https://catalogue.csps-efpc.gc.ca/product?catalog=IRA1-E49&cm_locale=fr) à cet important événement.
 
@@ -39,7 +39,7 @@ Le 4 décembre 2024, l’AATIA organise un événement de la JIPSH pour les fonc
 
 ## Nouvel espace de travail accessible de l’AATIA
 
-<img src="media/image3.png" style="width:2.48958in;height:3.3125in" alt="La Directrice Exécutive de l&#39;Accessibilité, et des collègues, qui coupent un ruban au nouvel espace de travail de l&#39;AATIA." />
+![Description après l'image.](/docs/picture2.png)
 
 Alt text : La Directrice Exécutive de l'Accessibilité, et des collègues, qui coupent un ruban au nouvel espace de travail de l'AATIA.
 
@@ -53,7 +53,7 @@ Restez à l’écoute pour obtenir de plus amples renseignements sur la manière
 
 ## Salon de l’innovation de Services Partagés Canada : Récapitulation
 
-<img src="media/image4.png" style="width:3.08188in;height:2.05208in" alt="Une image des employés de l&#39;AATIA qui accueil des gens au kiosque au Salon de l’innovation de SPC" />
+![Description après l'image.](/docs/picture3.png)
 
 Alt text : Une image des employés de l'AATIA qui accueil des gens au kiosque au Salon de l’innovation de SPC.
 
@@ -63,23 +63,23 @@ Notre message principal a résonné fortement : l’AATIA se consacre à l’él
 
 Voici quelques-uns des outils qui ont suscité beaucoup de questions :
 
-- *Tap Strap 2* : Ce combo clavier/souris portable à reconnaissance gestuelle tout-en-un a attiré l’attention de nombreuses personnes qui souhaitaient savoir comment elles peuvent améliorer l’expérience de l’utilisateur. L’AATIA étudie actuellement cet outil afin de mieux comprendre ses avantages.
-- Claviers et souris ergonomiques : Le large éventail de claviers et d’appareils ergonomiques a suscité de nombreuses demandes, soulignant le besoin de solutions technologiques accessibles. Avec l’AATIA, vous pouvez explorer les appareils qui répondent à vos besoins.
-- Objets imprimés en 3D : L’AATIA étudie actuellement des appareils imprimés en 3D pour résoudre de nombreux problèmes auxquels sont confrontées les personnes en situation de handicap. L’impression en 3D permet d’adapter chaque appareil à son utilisateur, et ce, plus facilement, plus rapidement et à moindre coût. 
+* *Tap Strap 2* : Ce combo clavier/souris portable à reconnaissance gestuelle tout-en-un a attiré l’attention de nombreuses personnes qui souhaitaient savoir comment elles peuvent améliorer l’expérience de l’utilisateur. L’AATIA étudie actuellement cet outil afin de mieux comprendre ses avantages.
+* Claviers et souris ergonomiques : Le large éventail de claviers et d’appareils ergonomiques a suscité de nombreuses demandes, soulignant le besoin de solutions technologiques accessibles. Avec l’AATIA, vous pouvez explorer les appareils qui répondent à vos besoins.
+* Objets imprimés en 3D : L’AATIA étudie actuellement des appareils imprimés en 3D pour résoudre de nombreux problèmes auxquels sont confrontées les personnes en situation de handicap. L’impression en 3D permet d’adapter chaque appareil à son utilisateur, et ce, plus facilement, plus rapidement et à moindre coût. 
 
-Si de nombreux participants se sont montrés intéressés par nos différentes technologies, nous avons remarqué qu’il y avait beaucoup de questions concernant les tests d’accessibilité. L’AATIA propose des tests de conformité aux normes d’accessibilité et des rapports, ainsi que des tests d’utilisateurs avec des personnes en situation de handicap. En outre, nous proposons une formation pour aider les organisations à devenir autonomes en ce qui concerne leurs propres tests d’accessibilité et l’assurance qualité pour les technologies de l’information et des communications (TIC). Si vous avez des questions sur nos services de test et si vous souhaitez savoir si nous pouvons vous aider, n’hésitez pas à nous contacter à <aaact-aatia@ssc-spc.gc.ca> pour obtenir un complément d’information.
+Si de nombreux participants se sont montrés intéressés par nos différentes technologies, nous avons remarqué qu’il y avait beaucoup de questions concernant les tests d’accessibilité. L’AATIA propose des tests de conformité aux normes d’accessibilité et des rapports, ainsi que des tests d’utilisateurs avec des personnes en situation de handicap. En outre, nous proposons une formation pour aider les organisations à devenir autonomes en ce qui concerne leurs propres tests d’accessibilité et l’assurance qualité pour les technologies de l’information et des communications (TIC). Si vous avez des questions sur nos services de test et si vous souhaitez savoir si nous pouvons vous aider, n’hésitez pas à nous contacter à [aaact-aatia@ssc-spc.gc.ca](mailto:aaact-aatia@ssc-spc.gc.ca) pour obtenir un complément d’information.
 
 Nous remercions toutes les personnes qui ont visité notre kiosque! Nous sommes impatients de poursuivre la conversation et de travailler ensemble pour éliminer les obstacles.
 
 ## Faire connaissance avec l’équipe
 
-<img src="media/image5.jpeg" style="width:4.52083in;height:3.39583in" alt="Une image de Kateri Clark. Elle porte un chandail rouge vif et se tient à l&#39;extérieur, entourée de verdure, avec un ciel bleu en arrière-plan." />
+![Description après l'image.](/docs/picture4.jpg)
 
 Alt text: Une image de Kateri Clark. Elle porte un chandail rouge vif et se tient à l'extérieur, entourée de verdure, avec un ciel bleu en arrière-plan.
 
 Kateri Clark, conseillère principale au sein de l’AATIA, est une experte chevronnée en matière de stratégie d’accessibilité. Titulaire d’une maîtrise en planification des services de l’Université Queen’s, elle compte près de 25 ans d’expérience diversifiée dans la fonction publique fédérale. Au cours des sept dernières années passées au sein de l’AATIA, elle a joué un rôle déterminant dans l’élaboration de pratiques inclusives qui améliorent l’accessibilité pour tous. Elle travaille en collaboration avec diverses équipes au sein du GC et de SPC afin d’encourager le travail en commun pour promouvoir l’accessibilité dans l’ensemble du GC.
 
-### Comment expliquer pourquoi l’accessibilité devrait être une priorité absolue? 
+### Comment expliquer pourquoi l’accessibilité devrait être une priorité absolue?
 
 Faire preuve de leadership en étant proactif nous met sur la voie du succès. Nous pouvons alors soutenir les ministères partenaires qui souhaitent que SPC leur fournisse des solutions accessibles afin qu’ils puissent respecter leurs engagements en matière d’accessibilité. En donnant la priorité aux normes d’accessibilité, nous nous assurons de fournir des solutions conformes, d’éviter les obstacles à l’accessibilité et de mieux dépenser notre budget. Remédier à des solutions inaccessibles est une entreprise très vaste et coûteuse qui peut prendre plusieurs années et nécessiter des ressources considérables. 
 
@@ -89,7 +89,7 @@ SPC est à la tête de plusieurs initiatives qui ont une incidence sur l’ensem
 
 J’aimerais que SPC soit le premier ministère à adopter officiellement la norme EN 301 549 – Exigences d’accessibilité pour les produits et services TIC. La norme a été adoptée par Normes d’accessibilité Canada, et le SCT l’a maintenant approuvée. Nous pouvons promouvoir l’innovation en utilisant la norme lorsque nous offrons des produits et des services liés aux TIC accessibles à nos ministères partenaires et à nos clients. 
 
-### Comment pouvons-nous tous participer aux initiatives en matière d’accessibilité? 
+### Comment pouvons-nous tous participer aux initiatives en matière d’accessibilité?
 
 Préparez-vous! L’AATIA offre des séances de formation sur l’accessibilité afin de donner à chacun les connaissances et les outils nécessaires à la création d’un environnement inclusif. Pour obtenir de plus amples renseignements sur nos séances de formation à venir, veuillez visiter notre page [Formation et événements du GC sur l’accessibilité](https://www.gcpedia.gc.ca/wiki/GC_Accessibility_Training_and_Events_/_Formation_et_%C3%A9v%C3%A9nements_du_GC_sur_l%27accessibilit%C3%A9#Overview_of_accessibility_features_on_smartphones_and_adaptive_technology_in_the_workplace_.28French.29). (Vous devez être connecté à un réseau du GC ou connecté via un réseau privé virtuel pour accéder à GCpédia.)
 
@@ -101,12 +101,13 @@ Joignez-vous à l'équipe AAACT pour un événement virtuel inclusif et engagean
 
 Détails de l'événement :
 
-- Date : 4 décembre 2024
-- Heure :
-  - Séance en anglais : 13 h - 13 h 30 (HNE)
-  - Séance en français : 14 h 00 – 14 h 30 (HNE)
-- Plate-forme : Webinaire par le biais de Microsoft Teams
-- Interprétation en langue des signes : Disponible pour les deux séances
+* Date : 4 décembre 2024
+* Heure :
+
+  * Séance en anglais : 13 h - 13 h 30 (HNE)
+  * Séance en français : 14 h 00 – 14 h 30 (HNE)
+* Plate-forme : Webinaire par le biais de Microsoft Teams
+* Interprétation en langue des signes : Disponible pour les deux séances
 
 Cet événement est ouvert à tous les employés du GC, alors veuillez le partager largement. Ne manquez pas – [apprenez-en plus et inscrivez-vous dès aujourd'hui](https://aaact.canada.ca/fr/evenements/journee-internationale-des-personnes-en-situation-de-handicap-2024/)!
 
@@ -118,10 +119,10 @@ L’AATIA offre des sessions de formation et des événements gratuits sur l’a
 
 Toujours en septembre, le Centre de ressources pour l’approvisionnement accessible de Services publics et Approvisionnement Canada (SPAC) et le AATIA vous invite à une séance d’introduction sur comment tenir compte de l’accessibilité et l’intégrer dans l’approvisionnement. Cette séance d’information est une excellente occasion pour vous et votre client (autorité technique/propriétaire fonctionnel) d’en apprendre davantage sur :
 
-- Ce que l’on entend par « approvisionnement accessible »;
-- Le rôle des propriétaires fonctionnels (ministère ou organisme client, responsable technique) et des autorités contractantes dans la prise en compte de l'accessibilité dans l'approvisionnement du gouvernement fédéral;
-- Les étapes à suivre pour considérer et intégrer l'accessibilité dans l'approvisionnement; et
-- Les endroits où trouver des ressources et de l'aide.
+* Ce que l’on entend par « approvisionnement accessible »;
+* Le rôle des propriétaires fonctionnels (ministère ou organisme client, responsable technique) et des autorités contractantes dans la prise en compte de l'accessibilité dans l'approvisionnement du gouvernement fédéral;
+* Les étapes à suivre pour considérer et intégrer l'accessibilité dans l'approvisionnement; et
+* Les endroits où trouver des ressources et de l'aide.
 
 Nous vous encourageons de faire passer le message à vos collègues ou clients (autorité technique/propriétaire fonctionnel) qui pourraient être intéresses à y assister.
 
@@ -154,8 +155,8 @@ Le saviez-vous? Vous pouvez ajouter un texte alternatif aux images et au contenu
 
 Voici quelques conseils concernant le texte alternatif que nous pouvons tous appliquer : 
 
-- Le texte doit être bref mais descriptif : le texte alternatif devrait résumer le contenu et le sens de l’élément visuel, sans être trop long. 
-- Évitez la redondance : si le contenu visuel est purement décoratif et n’apporte aucune valeur fonctionnelle, il est préférable de le marquer comme décoratif afin qu’il ne distraie pas les utilisateurs qui se servent de lecteurs d’écran. Pour en savoir plus, consultez le site Web [Accessibility Initiative’s Images Tutorial](https://www.w3.org/WAI/tutorials/images/) (en anglais seulement) qui offre un simple tutoriel pour ce sujet.
+* Le texte doit être bref mais descriptif : le texte alternatif devrait résumer le contenu et le sens de l’élément visuel, sans être trop long. 
+* Évitez la redondance : si le contenu visuel est purement décoratif et n’apporte aucune valeur fonctionnelle, il est préférable de le marquer comme décoratif afin qu’il ne distraie pas les utilisateurs qui se servent de lecteurs d’écran. Pour en savoir plus, consultez le site Web [Accessibility Initiative’s Images Tutorial](https://www.w3.org/WAI/tutorials/images/) (en anglais seulement) qui offre un simple tutoriel pour ce sujet.
 
 N’oubliez pas d’inclure des descriptions longues lorsque cela est nécessaire.
 
@@ -163,9 +164,9 @@ Une description longue est nécessaire pour les images complexes, comme les diag
 
 Voici quelques exemples de situations nécessitant une description longue :
 
-- Carte routière avec indications : décrivez chaque étape nécessaire pour suivre les indications.
-- Organigramme : utilisez des éléments numérotés pour décrire en détail le processus.
-- Graphique linéaire : décrivez les tendances, puis incluez les points de données dans un tableau.
+* Carte routière avec indications : décrivez chaque étape nécessaire pour suivre les indications.
+* Organigramme : utilisez des éléments numérotés pour décrire en détail le processus.
+* Graphique linéaire : décrivez les tendances, puis incluez les points de données dans un tableau.
 
 Pour obtenir un complément d’information et des conseils étape par étape sur la manière d’ajouter un texte alternatif aux images et à d’autres éléments visuels dans SharePoint, veuillez consulter la [page de soutien Microsoft SharePoint](https://support.microsoft.com/fr-fr/office/ajouter-des-images-et-des-%C3%A9l%C3%A9ments-multim%C3%A9dias-accessibles-%C3%A0-un-site-sharepoint-online-a17dc07d-1184-49d1-adc4-87841644cda4). En outre, la [Boîte à outils de l’accessibilité numérique](https://a11y.canada.ca/fr/texte-alternatif-et-description-longue-bonnes-pratiques/index.html) propose des pratiques exemplaires pour déterminer le type de texte alternatif nécessaire, ainsi que des conseils de rédaction pour les images simples et complexes.
 
@@ -177,4 +178,4 @@ If you prefer to receive news from us in English, you can [subscribe to our Engl
 
 Programme d’accessibilité, d’adaptation et de technologie informatique adaptée
 Services partagés Canada / Gouvernement du Canada
-<aaact-aatia@ssc-spc.gc.ca> 
+[aaact-aatia@ssc-spc.gc.ca](mailto:aaact-aatia@ssc-spc.gc.ca)

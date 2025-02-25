@@ -21,7 +21,7 @@ Welcome to our latest edition of *AAACT Now for Accessibility*! In this edition,
 
 ## International Day of Persons with Disabilities 2024
 
-
+![Description after image.](/docs/picture1-en.png)
 
 Alt text: International Day of Persons with Disabilities decorative banner.
 
@@ -39,7 +39,7 @@ On December 4, 2024, AAACT is hosting an IDPD event for federal public servants.
 
 ## AAACT’s New Accessible Workspace
 
-<img src="media/image3.png" style="width:2.48958in;height:3.3125in" alt="A picture of the Executive Director of Accessibility, and colleagues, cutting a ribbon at the new AAACT accessible workspace." />
+![Description after image.](/docs/picture2.png)
 
 Alt text: A picture of the Executive Director of Accessibility, and colleagues, cutting a ribbon at the new AAACT accessible workspace.
 
@@ -53,7 +53,7 @@ Stay tuned for more information on how to book your appointment and explore all 
 
 ## Shared Services Canada’s Innovative Fair: Wrap-Up
 
-<img src="media/image4.png" style="width:4.27083in;height:2.84375in" alt="A picture of the AAACT booth staff welcoming visitors." />
+![Description after image.](/docs/picture3.png)
 
 Alt text: A picture of the AAACT booth staff welcoming visitors.
 
@@ -73,7 +73,7 @@ Thank you to everyone who visited our booth! We look forward to continuing the c
 
 ## Get to Know the Team
 
-<img src="media/image5.jpeg" style="width:3.52083in;height:2.64468in" alt="An image of Kateri Clark. She is wearing a bright red jacket and standing outdoors, surrounded by greenery, with a blue sky in the background." />
+![Description after image.]()
 
 Text alt: An image of Kateri Clark. She is wearing a bright red jacket and standing outdoors, surrounded by greenery, with a blue sky in the background.
 
@@ -162,8 +162,6 @@ For step-by-step guidance on how to add Alt Text to images and other visuals in 
 We welcome your story ideas and comments to improve our newsletter.
 
 Please share our newsletter with your colleagues. They can register [here](https://forms-formulaires.alpha.canada.ca/en/id/clwg9uutq012sx883m3l6gt8p).
-
-Si vous préférez recevoir de nos nouvelles en français, [abonnez-vous à notre liste d'envoi en français](https://forms-formulaires.alpha.canada.ca/fr/id/clwg9uutq012sx883m3l6gt8p).
 
 Accessibility, Accommodation and Adaptive Computer Technology (AAACT) Program
 Shared Services Canada / Government of Canada
