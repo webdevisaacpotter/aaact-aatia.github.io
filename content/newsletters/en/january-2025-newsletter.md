@@ -1,6 +1,6 @@
 ---
 title: January 2025 AAACT Now for Accessibility newsletter
-otherLanguageTitle: Infolettre de janvier 2025
+otherLanguageTitle: Infolettre de l'AATIA maintenant pour l'accessibilité de janvier 2025
 description: "**In this edition:** 2024 milestones; the socialization of a service dog in our
   workspace; creating a culture of inclusion."
 newsletterDate: 2025-01-01
