@@ -10,14 +10,17 @@ Welcome to our latest edition of *AAACT Now for Accessibility*! In this edition,
 
 ## On This Page
 
-* [International Day of Persons with Disabilities 2024](#international-day-of-persons-with-disabilities-2024)
-* [AAACT’s New Accessible Workspace](#aaacts-new-accessible-workspace)
-* [SSC’s Innovation Fair: Wrap-Up](#shared-services-canadas-innovative-fair-wrap-up)
-* [Get to Know the Team](#get-to-know-the-team)
-* [Upcoming Training and Events](#upcoming-accessibility-training-and-events)
-* [Join AAACT’s Virtual Event for IDPD](#join-aaacts-virtual-event-for-idpd)
-* [Digital Accessibility Hack – Accessible Excel Spreadsheets](#digital-accessibility-hack---accessible-excel-spreadsheets)
-* [Accessibility Feedback Spotlight](#accessibility-feedback-spotlight)
+- [International Day of Persons with Disabilities 2024](#international-day-of-persons-with-disabilities-2024)
+- [AAACT’s New Accessible Workspace](#aaact-s-new-accessible-workspace)
+- [Shared Services Canada’s Innovative Fair: Wrap-Up](#shared-services-canada-s-innovative-fair-wrap-up)
+- [Get to Know the Team](#get-to-know-the-team)
+- [How do you explain why accessibility should be a top priority?](#how-do-you-explain-why-accessibility-should-be-a-top-priority)
+- [How do you think SSC has been an accessibility leader in the GC, and what do you want to see happen next?](#how-do-you-think-ssc-has-been-an-accessibility-leader-in-the-gc-and-what-do-you-want-to-see-happen-next)
+- [How can we all get involved in accessibility initiatives?](#how-can-we-all-get-involved-in-accessibility-initiatives)
+- [Upcoming Accessibility Training and Events](#upcoming-accessibility-training-and-events)
+- [Join AAACT’s Virtual Event for IDPD](#join-aaact-s-virtual-event-for-idpd)
+- [Digital Accessibility Hack - Accessible Excel Spreadsheets](#digital-accessibility-hack-accessible-excel-spreadsheets)
+- [Accessibility Feedback Spotlight](#accessibility-feedback-spotlight)
 
 ## International Day of Persons with Disabilities 2024
 
@@ -73,7 +76,7 @@ Thank you to everyone who visited our booth! We look forward to continuing the c
 
 ## Get to Know the Team
 
-![Description after image.]()
+![Description after image.](/docs/picture4.jpg)
 
 Text alt: An image of Kateri Clark. She is wearing a bright red jacket and standing outdoors, surrounded by greenery, with a blue sky in the background.
 

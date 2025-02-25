@@ -10,14 +10,17 @@ Bienvenue à la toute dernière édition de *L’AATIA maintenant pour l’acces
 
 ## Sur cette page
 
-* [Journee internationale des personnes en situation de handicap de 2024](#journee-internationale-des-personnes-en-situation-de-handicap-de-2024)
-* [Nouvel espace de travail accessible de l’AATIA](#nouvel-espace-de-travail-accessible-de-l-aatia)
-* [Salon de l’innovation de SPC : Recapitulation](#salon-de-l-innovation-de-spc--recapitulation)
-* [Faire connaissance avec l’equipe](#faire-connaissance-avec-l-equipe)
-* [Seances de formation et evenements a venir](#seances-de-formation-et-evenements-a-venir)
-* [Joignez-vous a l’evenement de la JIPSH de l’AATIA](#joignez-vous-a-l-evenement-de-la-jipsh-de-l-aatia)
-* [Truc pour l’accessibilite numerique – Feuille de calcul Excel accessible](#truc-pour-l-accessibilite-numerique--feuille-de-calcul-excel-accessible)
-* [Plein feu sur la retroaction sur l’accessibilite](#plein-feu-sur-la-retroaction-sur-l-accessibilite)
+- [Journée internationale des personnes en situation de handicap de 2024](#journee-internationale-des-personnes-en-situation-de-handicap-de-2024)
+- [Nouvel espace de travail accessible de l’AATIA](#nouvel-espace-de-travail-accessible-de-l-aatia)
+- [Salon de l’innovation de Services Partagés Canada : Récapitulation](#salon-de-l-innovation-de-services-partages-canada-recapitulation)
+- [Faire connaissance avec l’équipe](#faire-connaissance-avec-l-equipe)
+- [Comment expliquer pourquoi l’accessibilité devrait être une priorité absolue?](#comment-expliquer-pourquoi-l-accessibilite-devrait-etre-une-priorite-absolue)
+- [Selon vous, en quoi SPC a-t-il été un chef de file en matière d’accessibilité au sein du GC, et que souhaitez-vous qu’il se passe ensuite?](#selon-vous-en-quoi-spc-a-t-il-ete-un-chef-de-file-en-matiere-d-accessibilite-au-sein-du-gc-et-que-souhaitez-vous-qu-il-se-passe-ensuite)
+- [Comment pouvons-nous tous participer aux initiatives en matière d’accessibilité?](#comment-pouvons-nous-tous-participer-aux-initiatives-en-matiere-d-accessibilite)
+- [Joignez-vous à l’événement de la JIPSH de l’AATIA](#joignez-vous-a-l-evenement-de-la-jipsh-de-l-aatia)
+- [Séances de formation et événements à venir](#seances-de-formation-et-evenements-a-venir)
+- [Truc pour l’accessibilité numérique – Feuilles de calcul Excel accessibles](#truc-pour-l-accessibilite-numerique-feuilles-de-calcul-excel-accessibles)
+- [Plein feu sur la rétroaction sur l’accessibilité](#plein-feu-sur-la-retroaction-sur-l-accessibilite)
 
 ## Journée internationale des personnes en situation de handicap de 2024
 
