@@ -35,7 +35,7 @@ Le programme d’Accessibilité, d’adaptation et de technologie informatique a
 
 Le 3 décembre 2024, Pêches et Océans Canada, en collaboration avec l’École de la fonction publique du Canada, organise un événement à l’intention des fonctionnaires fédéraux, intitulé « Comprendre les handicaps apparents et non apparents en milieu de travail ». Cet événement virtuel de 90 minutes nous permettra d’en apprendre davantage sur les expériences des personnes en situation de handicap, en mettant l’accent sur les handicaps non apparents. Les participants y trouveront des conseils pratiques et des points clés à retenir pour favoriser la compassion et l’inclusion dans nos milieux de travail. [Inscrivez-vous dès aujourd’hui](https://catalogue.csps-efpc.gc.ca/product?catalog=IRA1-E49&cm_locale=fr) à cet important événement.
 
-Le 4 décembre 2024, l’AATIA organise un événement de la JIPSH pour les fonctionnaires fédéraux. Au cours de cette séance virtuelle de 30 minutes, nous allons jeter un coup d’œil virtuelle à notre nouvel espace de travail accessible dans la région de la capitale nationale et présenterons les outils que l’AATIA peut fournir pour éliminer les obstacles en milieu de travail. Ensemble, conduisons un changement significatif et favorisons un environnement de travail plus inclusif et accessible. Ne manquez pas – [apprenez-en plus et inscrivez-vous dès aujourd'hui](https://aaact.canada.ca/fr/evenements/journee-internationale-des-personnes-en-situation-de-handicap-2024/) ! 
+Le 4 décembre 2024, l’AATIA organise un événement de la JIPSH pour les fonctionnaires fédéraux. Au cours de cette séance virtuelle de 30 minutes, nous allons jeter un coup d’œil virtuelle à notre nouvel espace de travail accessible dans la région de la capitale nationale et présenterons les outils que l’AATIA peut fournir pour éliminer les obstacles en milieu de travail. Ensemble, conduisons un changement significatif et favorisons un environnement de travail plus inclusif et accessible.
 
 ## Nouvel espace de travail accessible de l’AATIA
 
@@ -109,7 +109,7 @@ Détails de l'événement :
 * Plate-forme : Webinaire par le biais de Microsoft Teams
 * Interprétation en langue des signes : Disponible pour les deux séances
 
-Cet événement est ouvert à tous les employés du GC, alors veuillez le partager largement. Ne manquez pas – [apprenez-en plus et inscrivez-vous dès aujourd'hui](https://aaact.canada.ca/fr/evenements/journee-internationale-des-personnes-en-situation-de-handicap-2024/)!
+Cet événement est ouvert à tous les employés du GC, alors veuillez le partager largement.
 
 Nous avons hâte de vous voir à l'événement !
 

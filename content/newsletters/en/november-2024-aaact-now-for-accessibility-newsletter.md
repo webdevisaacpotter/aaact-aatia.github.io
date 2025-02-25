@@ -35,7 +35,7 @@ Accessibility, Accommodation and Adaptive Computer Technology (AAACT) offers tra
 
 On December 3, 2024,  Fisheries and Oceans Canada, in collaboration with the Canada School of Public Service, is hosting an event for federal public servants, titled Understanding Apparent and Non-Apparent Disabilities in the Workplace. This 90-minute virtual event will help us learn more about the experiences of persons with disabilities, with a special focus on non-apparent disabilities. Participants will gain practical tips and key takeaways to foster compassion and inclusion in our workplaces. [Register today](https://catalogue.csps-efpc.gc.ca/product?catalog=IRA1-E49&cm_locale=en) for this important event.
 
-On December 4, 2024, AAACT is hosting an IDPD event for federal public servants. During this 30-minute virtual session, we will give you a virtual glimpse of our new accessible workspace in the National Capital Region and showcase tools that AAACT can provide to address workplace barriers. Together, let’s drive meaningful change and foster a more inclusive, accessible work environment. Don’t miss out – [learn more and register today](https://aaact.canada.ca/en/events/international-day-of-persons-with-disabilities-2024/)!
+On December 4, 2024, AAACT is hosting an IDPD event for federal public servants. During this 30-minute virtual session, we will give you a virtual glimpse of our new accessible workspace in the National Capital Region and showcase tools that AAACT can provide to address workplace barriers. Together, let’s drive meaningful change and foster a more inclusive, accessible work environment.
 
 ## AAACT’s New Accessible Workspace
 
@@ -113,7 +113,7 @@ Event Details:
 * Platform: Webinar via Microsoft Teams
 * Sign language Interpretation: Available for both sessions.
 
-This event is open to all GC employees, so please share it widely. Don’t miss out – [learn more and register today](https://aaact.canada.ca/en/events/international-day-of-persons-with-disabilities-2024/)!
+This event is open to all GC employees, so please share it widely
 
 We look forward to seeing you at the event!
 
