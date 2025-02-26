@@ -80,3 +80,40 @@ collections:
       - { label: "Description (required)", name: "description", widget: "markdown", i18n: true }
       - { label: "Published date (YYYY-MM-DD) (required)", name: "newsletterDate", widget: "datetime", date_format: "YYYY-MM-DD", i18n: duplicate, required: false }
       - { label: "Details (required)", name: "body", widget: "markdown",  i18n: true }
+
+  - name: "podcasts"
+    label: "Podcasts"
+    folder: "content/podcasts"
+    create: true
+    slug: "{{slug}}-{{podcastDate}}"
+    i18n: true
+    fields:
+      - { label: "Title (required)", name: "title", widget: "string", i18n: true }
+      - { label: "Other language title", name: "otherLanguageTitle", widget: "string", i18n: true }
+      - { label: "Published date (YYYY-MM-DD) (required)", name: "podcastDate", widget: "datetime", date_format: "YYYY-MM-DD", i18n: duplicate }
+      - { label: "Long description (required)", name: "longDescription", widget: "markdown", i18n: true }
+      - { label: "Short description (required)", name: "description", widget: "markdown", i18n: true }
+      - { label: "Image", name: "image", widget: "image", i18n: true, media_folder: "/public/img/podcasts", public_folder: "/img/podcasts" }
+      - { label: "Duration (required)", name: "duration", widget: "string", i18n: true }
+      - label: "Podcast Files"
+        name: "podcastFiles"
+        widget: "object"
+        i18n: true
+        fields:
+          - label: "MP3 (Required)"
+            name: "mp3"
+            widget: "object"
+            i18n: true
+            fields:
+              - { label: "MP3 URL", name: "url", widget: "string", i18n: true, required: true }
+              - { label: "Size (MB)", name: "sizeInMb", widget: "number", i18n: true, required: true }
+          - label: "OGG (Optional)"
+            collapsed: true
+            name: "ogg"
+            widget: "object"
+            i18n: true
+            required: false
+            fields:
+              - { label: "OGG URL", name: "url", widget: "string", i18n: true, required: false }
+              - { label: "Size (MB)", name: "sizeInMb", widget: "number", i18n: true, required: false }
+      - { label: "Transcript (required)", name: "body", widget: "markdown", i18n: true }

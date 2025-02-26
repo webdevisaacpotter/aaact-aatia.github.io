@@ -1,0 +1,34 @@
+{% extends "layouts/base.njk" %}
+
+{% block content %}
+	<div class="row">
+		<div class="col-sm-2">
+			<figure>
+				<img src="{{ image }}" alt="" class="img-responsive thumbnail" />
+			</figure>
+		</div>
+		{%- if longDescription -%}
+		<div class="col-sm-10">
+			{{ longDescription | markdownify | safe }}
+			<p><strong>{{ podcasts[locale].durationText }}</strong> {{ duration }}</p>
+		</div>
+		{% endif %}
+	</div>
+	<figure class="wb-mltmd mrgn-bttm-md">
+		<audio title="{{ title | safe }}">
+			<source src="{{ podcastFiles.mp3.url }}" type="audio/mp3">
+			{%- if podcastFiles.ogg -%}
+			<source src="{{ podcastFiles.ogg.url }}" type="audio/ogg">
+			{%- endif -%}
+		</audio>
+	</figure>
+	<details>
+		<summary>{{ podcasts[locale].transcriptionText }} {{ title | safe }}</summary>
+		{{ content | safe }}
+	</details>
+	<p class="mrgn-tp-lg lead"><a href="{{ podcastFiles.mp3.url }}">{{ podcasts[locale].downloadText }} {{ title | safe }} (MP3, {{ podcastFiles.mp3.sizeInMb }}<abbr title="{{ download[locale].MB }}">MB</abbr>)</a></p>
+	{%- if podcastFiles.ogg -%}
+		<p class="mrgn-tp-lg lead"><a href="{{ podcastFiles.ogg.url }}">{{ podcasts[locale].downloadText }} {{ title | safe }} (OGG, {{ podcastFiles.ogg.sizeInMb }}<abbr title="{{ download[locale].MB }}">MB</abbr>)</a></p>
+	{%- endif -%}
+
+{% endblock %}
