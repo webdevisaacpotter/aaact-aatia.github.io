@@ -43,6 +43,9 @@
 	</div>
 </div>
 
+
+{% include "partials/menu.njk" %}
+
 {%- if page.url != "/home/" and page.url != "/accueil/" -%}
 	{%- include "partials/breadcrumbs.njk" -%}
 {%- endif -%}
