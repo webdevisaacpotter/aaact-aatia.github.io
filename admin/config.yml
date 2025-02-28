@@ -89,12 +89,18 @@ collections:
     i18n: true
     fields:
       - { label: "Title (required)", name: "title", widget: "string", i18n: true }
-      - { label: "Other language title", name: "otherLanguageTitle", widget: "string", i18n: true }
       - { label: "Published date (YYYY-MM-DD) (required)", name: "podcastDate", widget: "datetime", date_format: "YYYY-MM-DD", i18n: duplicate }
+      - { label: "Episode (required)", name: "episode", widget: "number", valueType: "int", min: 1, i18n: duplicate }
       - { label: "Long description (required)", name: "longDescription", widget: "markdown", i18n: true }
       - { label: "Short description (required)", name: "description", widget: "markdown", i18n: true }
       - { label: "Image", name: "image", widget: "image", i18n: true, media_folder: "/public/img/podcasts", public_folder: "/img/podcasts" }
-      - { label: "Duration (required)", name: "duration", widget: "string", i18n: true }
+      - label: "Duration (required)"
+        name: "duration"
+        widget: "object"
+        i18n: true
+        fields:
+          - { label: "Minutes", name: "minutes", widget: "number", valueType: "int", min: 0 }
+          - { label: "Seconds", name: "seconds", widget: "number", valueType: "int", min: 0, max: 59 }
       - label: "Podcast Files"
         name: "podcastFiles"
         widget: "object"
@@ -105,14 +111,14 @@ collections:
             widget: "object"
             i18n: true
             fields:
-              - { label: "MP3 URL", name: "url", widget: "string", i18n: true, required: true }
-              - { label: "Size (MB)", name: "sizeInMb", widget: "number", i18n: true, required: true }
+              - { label: "MP3 URL", name: "url", widget: "string", i18n: true }
+              - { label: "Size (MB)", name: "sizeInMb", widget: "number", i18n: true }
           - label: "YouTube (Required)"
             name: "youtube"
             widget: "object"
             i18n: true
             fields:
-              - { label: "YouTube URL", name: "url", widget: "string", i18n: true, required: true }
+              - { label: "YouTube URL", name: "url", widget: "string", i18n: true }
           - label: "OGG (Optional)"
             collapsed: true
             name: "ogg"

@@ -1,6 +1,12 @@
 module.exports = {
 	fr: {
-		durationText: "Durée :",
+		duration: {
+			text: "Durée :",
+			minutes: "minutes",
+			seconds: "secondes"
+		},
+		detailsHeading: "Détails de l'épisode",
+		episodeText: "Épisode :",
 		downloadText: "Télécharger",
 		transcriptionText: "Transcription :",
 		releaseDateText: "Date de publication :",
@@ -8,11 +14,21 @@ module.exports = {
 		buttonText: "Écoutez le balado sur votre plateforme préférée",
 		noPodcastText: "Il n'y a pas d'épisodes pour le moment.",
 		contactUs: "Contactez-nous pour plus d'informations sur Horizons accessibles à notre address courriel d'AATIA Apprentissage&nbsp;: ",
-		emailSubject: "Courriel à propos podcast : "
+		emailSubject: "Courriel à propos podcast : ",
+		skipTranscription: "Aller à la transcription",
+		videoHeading: "Vidéo YouTube",
+		audioHeading: "Audio"
 	},
 
 	en: {
-		durationText: "Length:",
+		duration:
+			{
+				text: "Duration:",
+				minutes: "minutes",
+				seconds: "seconds"
+			},
+		detailsHeading: "Episode details",
+		episodeText: "Episode:",
 		downloadText: "Download",
 		transcriptionText: "Transcription:",
 		releaseDateText: "Release date:",
@@ -20,7 +36,10 @@ module.exports = {
 		buttonText: "Listen to the podcast on your favourite platform",
 		noPodcastText: "There are no episodes at the moment.",
 		contactUs: "Contact us for more information about Accessible Horizons at our AAACT Learning email: ",
-		emailSubject: "Email about podcast: "
+		emailSubject: "Email about podcast: ",
+		skipTranscription: "Skip to transcription",
+		videoHeading: "YouTube video",
+		audioHeading: "Audio",
 	},
 	podcastLinks: {
 		spotify: {

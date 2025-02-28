@@ -458,3 +458,8 @@
 	color: #000;
 }
 
+
+#podcast-list li img {
+	width: 50px;
+	height: auto;
+}

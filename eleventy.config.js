@@ -48,6 +48,31 @@ module.exports = function(eleventyConfig) {
 		return DateTime.fromJSDate(dateObj, { zone: zone || "utc" }).toFormat(format || "dd LLLL yyyy");
 	});
 
+	// Add a filter to format dates in full text with locale
+	eleventyConfig.addFilter("fullTextDate", (dateValue, locale = "en") => {
+		if (!dateValue) return ""; // Prevent errors if the date is empty
+
+		let parsedDate;
+
+		if (typeof dateValue === "string") {
+			// If it's a string, parse it using Luxon
+			parsedDate = DateTime.fromFormat(dateValue, "yyyy-MM-dd", { zone: "utc" });
+		} else if (dateValue instanceof Date) {
+			// If it's already a Date object, convert it to Luxon DateTime
+			parsedDate = DateTime.fromJSDate(dateValue, { zone: "utc" });
+		} else {
+			console.error("Invalid Date Format:", dateValue);
+			return "Invalid Date"; // Return a fallback text
+		}
+
+		if (!parsedDate.isValid) {
+			console.error("Invalid Date:", dateValue);
+			return "Invalid Date"; // Prevent Eleventy from breaking
+		}
+
+		return parsedDate.setLocale(locale).toFormat("EEEE, d MMMM yyyy");
+	});
+
 	eleventyConfig.addFilter('htmlDateString', (dateObj) => {
 		// dateObj input: https://html.spec.whatwg.org/multipage/common-microsyntaxes.html#valid-date-string
 		return DateTime.fromJSDate(dateObj, {zone: 'utc'}).toFormat('yyyy-LL-dd');
@@ -115,7 +140,7 @@ module.exports = function(eleventyConfig) {
 	const md = markdownIt(markdownItOptions)
 	eleventyConfig.setLibrary('md', md);
 	eleventyConfig.addFilter('markdownify', (markdownString) =>
-		md.renderInline(markdownString)
+		md.render(markdownString)
 	);
 
 	eleventyConfig.addShortcode("currentBuildDate", () => {

@@ -1,4 +1,4 @@
 {
 	"locale" : "fr",
-	"permalink": "/balados/{{ title | slugify }}/"
+	"permalink": "/balados/episode{{ episode }}/"
 }

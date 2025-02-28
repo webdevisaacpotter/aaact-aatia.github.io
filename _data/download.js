@@ -1,11 +1,15 @@
 module.exports = {
 	fr: {
 		KB: "kilo-octet",
-		MB: "méga-octet"
+		MB: "méga-octet",
+		abbrMB: "Mo",
+		abbrKB: "Ko"
 	},
 
 	en: {
 		KB: "KiloByte",
-		MB: "MegaByte"
+		MB: "MegaByte",
+		abbrMB: "MB",
+		abbrKB: "KB"
 	},
 };

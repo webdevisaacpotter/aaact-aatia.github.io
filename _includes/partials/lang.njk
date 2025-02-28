@@ -9,7 +9,13 @@
 {%- set toggleTag = "balados" if locale == "en" else "podcasts" -%}
 {%- endif -%}
 
+{%- if tags and "podcasts" in tags and episode -%}
+{# If the page has an `episode` number, use /episode#/ format #}
+{%- set togglePage = "/" ~ toggleTag ~ "/episode" ~ episode ~ "/" -%}
+{%- else -%}
+{# If there is NO `episode` front matter, use the standard permalink #}
 {%- set togglePage = otherLanguagePermalink if otherLanguagePermalink else ("/" ~ toggleTag if toggleTag else "") ~ "/" ~ (otherLanguageTitle | slugify) ~ "/" -%}
+{%- endif -%}
 
 {%- if needsTranslation != true -%}
 <section id="wb-lng" class="col-xs-3 col-sm-12 pull-right text-right">

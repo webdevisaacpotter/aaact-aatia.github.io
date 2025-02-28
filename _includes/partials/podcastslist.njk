@@ -1,24 +1,18 @@
 
-<p><a href="#podcast-list" aria-controls="podcast-list" class="wb-lbx btn btn-call-to-action" role="button"><i class="fas fa-podcast mrgn-rght-md" aria-hidden="true"></i>{{ podcasts[locale].buttonText }}</a></p>
 
-<section id="podcast-list" class="mfp-hide modal-dialog modal-content overlay-def">
-	<header class="modal-header">
-		<h2 class="modal-title">{{ podcasts[locale].buttonText }}</h2>
-	</header>
-	<div class="modal-body">
-		<ul class="colcount-sm-2 list-unstyled lst-spcd">
-			{%- for key, link in podcasts.podcastLinks -%}
-			<li class="brdr-bttm brdr-tp brdr-lft brdr-rght position-relative p-2">
-				<img src="/img/podcasts/icons/{{ link.icon }}" width="50" height="50" />
-				<a class="stretched-link no-undrln p-2" href="{{ link.url[locale] }}">
-					{{ link.name if link.name is string else link.name[locale] }}
-				</a>
-			</li>
-			{%- endfor -%}
-		</ul>
-	</div>
-</section>
-
+<aside id="podcast-list" class="mt-4">
+	<h2 class="h3">{{ podcasts[locale].buttonText }}</h2>
+	<ul class="colcount-sm-2 colcount-md-3 list-unstyled lst-spcd">
+		{%- for key, link in podcasts.podcastLinks -%}
+		<li class="brdr-bttm brdr-tp brdr-lft brdr-rght position-relative p-2">
+			<img src="/img/podcasts/icons/{{ link.icon }}" />
+			<a class="stretched-link no-undrln p-2" href="{{ link.url[locale] }}">
+				{{ link.name if link.name is string else link.name[locale] }}
+			</a>
+		</li>
+		{%- endfor -%}
+	</ul>
+</aside>
 
 <h2>{{ podcasts[locale].heading }}</h2>
 {# List all podcasts here #}
@@ -28,7 +22,7 @@
 
 <ul class="list-unstyled">
 		{%- for podcast in podcastslist -%}
-		<li>
+		<li class="mt-5 pb-4 {% if not loop.last %}brdr-bttm{% endif %}">
 			<section class="row">
 				<div class="col-sm-2">
 					<figure>
@@ -37,9 +31,9 @@
 				</div>
 				<div class="col-sm-10">
 					<h3 class="mrgn-tp-0"><a href="{{ podcast.url }}">{{ podcast.data.title }}</a></h3>
-					<p class="tagline">{{ podcast.data.podcastDate }}</p>
-					<p>{{ podcast.data.description | markdownify | safe }}</p>
-					<p><strong>{{ podcasts[locale].durationText }}</strong> {{ podcast.data.duration }}</p>
+					<p class="tagline">{{ podcast.data.podcastDate | fullTextDate(locale) }}</p>
+					{{ podcast.data.description | markdownify | safe }}
+					<p><strong>{{ podcasts[locale].duration.text }}</strong> {{ podcast.data.duration.minutes }} {{ podcasts[locale].duration.minutes }} {{ podcast.data.duration.seconds }} {{ podcasts[locale].duration.seconds }}</p>
 				</div>
 			</section>
 		</li>

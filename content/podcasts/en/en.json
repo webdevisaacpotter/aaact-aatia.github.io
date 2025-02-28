@@ -1,4 +1,4 @@
 {
 	"locale" : "en",
-	"permalink": "/podcasts/{{ title | slugify }}/"
+	"permalink": "/podcasts/episode{{ episode }}/"
 }
