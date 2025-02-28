@@ -19,520 +19,148 @@ podcastFiles:
   youtube:
     url: https://youtu.be/-SCz2ZO61gE
 ---
-00:01:04:19 - 00:01:06:03
+**Nadine :** Bon après-midi tout le monde. Merci de venir nous rejoindre, Luna et moi, à notre première. Le premier webinaire qui va peut être devenir une série. Qu'est ce que t'en penses Luna?
 
-Nadine
+**Luna :** Et bien je l'espère.
 
-I'm Nadine Charron
+**Nadine :** Alors moi, mon nom c'est Nadine Charron.
 
+**Luna :** Et moi c'est Luna Bengio, et nous vous arrivons de Services partagés Canada. Le groupe d’Accessibilité, Adaptation et Technologies Informatique Adapté AATIA aujourd'hui de la région de la Capitale-Nationale.
 
+**Nadine :** Et puis aujourd'hui, on va parlé de plusieurs choses. Et la première chose, c'est ou on est. On est à 219 Laurier on est sur les terres non cédées du peuple Algonquin. Et puis je sais qu'il y a beaucoup d'entre vous qui sont à différentes place au Canada. Vous pouvez regarder sur quel terre vous êtes et pensez aux peuples autochtones avec qui on travaille de façon régulière à tous les jours.
 
-00:01:06:06 - 00:01:54:06
+**Luna :** Exactement. Alors, le 219 Laurier. Aujourd'hui, nous avons la chance, le privilège d'être ici grâce au travail acharné de beaucoup des membres de notre équipe, de beaucoup de personnes dans différents ministères et de nos collègues qui s'occupent des installations pour Services partagés Canada qui nous ont permis d'aboutir à ce nouvel espace qui sera des plus accessibles. Alors, à l'occasion de notre première édition de cette série, nous voulons vous montrer une partie de ce local, vous décrire une partie de ce local et célébrer avec vous en même temps.
 
-Luna
+La Journée internationale des personnes en situation de handicap. Alors Nadine, à toi, pour la description.
 
-Good afternoon everyone. I am Luna Bengio, and I'm very pleased and excited to be here today. This is a first for us Nadine, so I hope everything is going to go as planned. We are first going to acknowledge that 219 Laurier Avenue West in Ottawa is located in the unceded traditional territory of the Algonquin Anishinaabe people. I would invite each and everyone of you to reflect on where you are located and where you are working, and the immense contribution and history that our indigenous people have made to our society and continue to make to our society.
+**Nadine :** Je vais essayer de faire une bonne description alors comme Luna dit le 219 Laurier a été ouvert ça fait pas longtemps et c'est quelque chose qui a été bâti spécifiquement pour le groupe d'accessibilité pour démontrer comment on peut rendre nos lieux les plus accessibles possible. Alors ici, vu qu'on veut faire une série, on va changer de place quand on va faire nos présentations ou notre série.
 
+Et nous sommes présentement dans une des salles ici au 219 à porte fermée. Alors c'est un bureau fermé que les gens peuvent utiliser quand ils travaillent ici. Pourquoi c'est plus accessible ? Alors, on a plusieurs choses ici qui nous permet de rendre ça accessible. Alors, sur le mur, derrière moi. On a des colonnes de feutre ici, on veut près trois pouces d'épais et je dirais 5 à 6 pouces de large.
 
+Et partout sur le mur pour vraiment absorber le son. Quand on va voir ici ou qu'on va entendre. Et c'est plus facile pour avoir des rencontres plus faciles, pour que le bruit soit vraiment atténué. Et puis autre chose, pour atténuer ou augmenter le bruit. On a une machine qui fait du bruit. Alors les machines à bruits sont intéressantes.
 
-00:01:54:09 - 00:02:22:03
+Moi je ne les aime pas, alors souvent je les ferme. Mais chaque bureau fermé ici au 219 nous permet de mettre du bruit en sourdine. Et puis on peut l'allumer, on peut le mettre à intensité médium et on peut le mettre à forte intensité. Ce que ça fait quand on le met à forte intensité aussi, ça devient que nos conversations sont un peu plus confidentielles.
 
-Luna
+On a des portes en vitre, alors ça permet d'avoir des rencontres assez confidentielles. Ça aide aussi les gens qui aiment avoir ce bruit là en arrière-plan, parce que pour certains gens, ça aide leur cerveau à mieux avoir un focus sur le travail qu'on fait. L'autre aspect de cette salle ici, ce sont les lumières. On peut les fermer, on peut les ouvrir et on peut régler l'intensité.
 
-And now we can get going. We can talk about some of the accessibility features of this webinar. We have our American Sign Language interpreter who has joined us. And please make sure to pin the interpreter on your screen if you need to access their interpretation. You can use the captioning on teams. We have no documents for this podcast.
+On peut fermer l'interrupteur complètement. Et puis de cette façon là, quand on rentre et on sort de la salle, elles restent fermées ou elles restent ouvertes. Alors pour des gens qui n'aiment pas les lumières, alors il y a des gens ici qui vont travailler au noir. Ça, il y a des gens qui vont travailler avec beaucoup d'éclairage. Ça nous permet de régler la façon qu'on veut travailler.
 
+Pour les lumières aussi, y a deux grandes fenêtres dans cette salle. On peut fermer les rideaux ou les stores. Alors pour avoir encore plus ou moins de lumière, alors si vous êtes quelque part aujourd'hui qu'il neige, moi par la fenêtre, je vois les gros flocons de neige qui tombent. Alors la chaise qui est derrière moi, c'est une chaise anti-gravité et on a une de nos employés qui travaille de façon régulière avec la chaise anti-gravité.
 
+Les bureaux ici montent et descendent. On peut travailler debout, on peut travailler assis, même avec la chaise et derrière moi. On peut aussi travailler allongé qui permet une différentes façons de travailler, qui est tout aussi productive que travailler assis ou debout. Alors ce sont quelques unes des fonctions de cette salle et je sais que vous voyez pas le plancher dans le moment, mais l'autre chose qui est intéressant, c'est que chaque porte a une différence de texture et de couleur.
 
-00:02:22:04 - 00:02:54:06
+Alors il y a un deux pieds à l'entrée de la porte qui est différente couleur pour le tapis pour vraiment démontrer qu'on rentre dans une autre salle ou un autre salle dans le passage. Et puis éventuellement il y aura plus de tapis ici, ça va être du vinyle partout qui aide beaucoup avec les allergies, et différentes choses. Et puis ça nous permet d'avoir du vinyle de couleur différente pour démontrer l'espace de collaboration.
 
-Luna
+Ça va démontrer l'espace, ce qui est plus tranquille. Alors avec différentes couleurs, ça va nous permettre d'un autre façon de démontrer sont où les salles et qu'est ce qu'on fait avec les salles.
 
-We will make sure, that anything that we do is explained and described so that everyone can participate. We welcome your feedback. Please don't hesitate to contact us. And you all receive copious reminders emails from Nadine. So you should know where to reach us to give us some feedback about this first edition of what we hope is going to be an ongoing occurrence, and where we'll bring you practical information.
+**Luna :** Excellent ! Alors voilà une petite partie des nombreuses mesures d'accessibilité et designs universelles que vous allez retrouver au 219 Laurier. Et pourquoi je dis vous allez retrouver ? C'est parce que nous espérons très bientôt pouvoir accueillir des clients, accueillir des gens qui veulent explorer la technologie adaptée que nous avons à offrir. C'est un espace qui va vraiment se prêter à tout ça et on a bien hâte, même pour ceux d'entre vous qui ne sont pas dans la région de la capitale nationale.
 
+Avec notre série de podcasts ou notre série de webinaires, nous vous ferons visiter de façon virtuelle les différents aspects de nos locaux ici au 219 Laurier. Et une chose que j'aurais dû mentionner au début de notre rencontre, c'est que cette rencontre comporte plusieurs mesures d'accessibilité également. Vous avez accès au sous titrage, vous aurez accès à un enregistrement et à une transcription de la séance.
 
+Nous n'avons pas de documents à offrir, mais par contre, nous avons découvert que nos magnifiques collègues de l'équipe sont là aussi pour répondre aux questions et ils font poser sur la boîte de clavardage.
 
-00:02:54:09 - 00:03:01:03
+**Nadine :**
 
-Luna
+Quelque chose que j'ai oublié de dire tantôt quand on parlait de la chaise, c'est que cette chaise ici, ça fait partie des articles qu'on a dans la bibliothèque de prêt. Alors on va parler un peu des items qui sont à la bibliothèque de prêt ici, c'est à dire je crois que l'on a alors bien expliqué le titre de l'équipe.
 
-But Nadine, let's first say what is 219 Laurier? And what are we at AAACT? What do we do?
+Et puis avec la bibliothèque de prêt, ça nous permet de prêter des objets que nous avons dans notre inventaire. Et l'inventaire compte plus de 3000 itèmes qu'on peut prêter à des employés du Gouvernement du Canada. Alors, les gens peuvent nous appeler. Je crois que l'information va être dans le clavardage. Ils peuvent nous envoyer des courriels et on va vous rencontrer pour déterminer les besoins.
 
+Et puis, à ce moment là, on peut emprunter de l'équipement de la bibliothèque de prêt pour s'assurer que l'équipement que nous avons est la bonne pour vous. Alors, à la place d'acheter 52 items, on va vous les prêter 1 à 1 ou deux par deux ou trois par trois, dépendamment ce que vous avez besoin. Et une fois qu'on arrive à la solution permanente, à ce moment là, on peut acheter l'item et ça devient la partie de vos solutions pour les barrières ou les obstacles.
 
+**Luna :**
 
-00:03:01:05 - 00:03:30:29
+Si vous êtes un gestionnaire et que vous avez un employé qui a besoin d'adaptation en milieu de travail, c'est un service qui peut vous aider. Ça vous permet de vous débrouiller avec les délais d'approvisionnement, donc sans nuire à la productivité de l'employé. Ça vous permet donc de vous acquitter de vos obligations d'adaptation en milieu de travail tout en vous donnant le temps d'acheter.
 
-Nadine
+Par exemple, les outils dont votre employé a besoin.
 
-Well, thanks, Luna for that. And AAACT is fabulous. So we do a lot of work when it comes to accessibility. And it's not just about individualized client service. We also new digital services. We help with accessibility plans. We do a lot of training and accreditation. We provide procurement advice to all departments. And everything we do here at AAACT is for the Government of Canada.
+**Nadine :** Alors on a vu la chaise. Est ce que tu penses que les gens seraient intéressés de voir un autre itème qui est dans notre inventaire ?
 
+**Luna :** Oui, parce que celui ci à moi, je le trouve assez extraordinaire. Nadine dit toujours que je veux tous les gadgets, ça s’en est un que je trouve excellent parce que il permet et vous allez voir avec la démonstration qu'il va vous faire. Il permet de faciliter la tâche quand c'est des tâches répétitives, quand votre poste ou les responsabilités de base incluent un certain nombre d'opérations répétitives.
 
+Eh bien, voici un outil qui peut aider à cela. Voilà, on peut les montrer.
 
-00:03:31:02 - 00:04:08:04
+**Nadine :** Oui, Alors j'en ai un à l'écran qu'on peut voir. La celle que je tiens dans mes mains. C'est une qui est complètement programmée avec différentes options et puis elle a 24 clés programmables. Alors quand on voit si on regarde la dernière ici en bas à droite, c'est contrôle + Alt + supprimer. Ça, ordinairement, ca nous prendrait deux main pour le faire.
 
-Nadine
+Ici, c'est un bouton Si je regarde dans le milieu, alors je veux sauvegarder quelque chose. J'ai deux boutons, un qui est sauvegardé, l'autre qui est sauvegardé comme. Alors c'est beaucoup plus facile d'aller faire des choses. Mais on a aussi un exemple pas mal parfait pour aller chercher 52 étapes et la programmer dans un bouton. J'exagère peut être un peu avec 52, mais il y en a.
 
-One thing that I love to be able to tell people is completely free of charge, so it's very easy to reach us. Luna, you mentioned 219 Laurier, and I'm so very proud of 219 Laurier. It is a space that has been designed with accessibility at the forefront. So the first thing I need to do is to acknowledge all of our colleagues and our colleagues in different, departments and in facilities for delivering a space that is going to be a showcase space for persons with disabilities and with accessibility in mind.
+Est ce que tu peux nous donner un exemple concrète de comment on pourrait utiliser ça, avoir neuf dix étapes programmées dans un bouton ?
 
+**Luna :** Alors ici, ça va nous permettre aussi de rendre hommage à nos collègues du bureau de la traduction qui font énormément de travail pour chacun et chacune d'entre nous, fonctionnaires fédéraux. Alors, quand les traducteurs, ils ont souvent à aller chercher des mots, soit dans une banque de données de mots, comme permet donc souvent des opérations répétitives où il faut sélectionner, copier le mot  dans leurs documents Word ou ouvrir leur navigateur, aller sur l'internet, trouver la traduction, etc.
 
+Une de ces clés programmables permet d'automatiser toutes ces étapes. Alors avec un seul bouton, la personne peut aller faire toutes ces opérations là et se retrouver avec le mot traduit ou expliqué de retour dans leur document Word. Alors imaginez un peu ce que ça peut faire pour éliminer des obstacles posés par des tâches répétitives. Les tâches répétitives, ça peut causer toutes sortes de difficultés pour quelqu'un.
 
-00:04:08:07 - 00:04:24:13
+Et donc voilà une solution simple. Cette solution aussi peut être combinée avec d'autres types d'outils adaptés ou de logiciel qui fait que ça peut aider dans bien  des situations. C'est ce que nos techniciens font, c'est d'examiner avec les employés, avec leurs gestionnaires, le travail à accomplir, les obstacles qu'ils rencontrent au niveau du travail et les solutions possibles.
 
-Nadine
+**Nadine :** Je vous ai montré des clés programmables, je vous en ai montré 24. Par contre, on a d'autres formats disponibles dans la bibliothèque de prêt. Une. Ici, on voit celle ci que je montre à l'écran à 16 clés. Elle est un peu différente parce qu'elle est dans une colonne ou une rangée et c'est très facile de le mettre au dessus d'un clavier pour avoir accès.
 
-If you all allow me, I'm going to talk a little bit about the features. And because you talked about this being a series, what we're going to do is to show you bits and pieces of 219 Laurier and we're going to start with this room. Are you good with that?
+Les boutons sont un peu différents, mais ils sont tous programmables de la même façon, alors on regarde. 24 Je vous démontre seize Et puis la plupart sont là. Alors  tout de suite est différente. Clés qui sont programmables Ouvrir un document, ouvrir Excel ou ouvrir Word, quelque chose qui est beaucoup plus facile en utilisant quelque chose comme les claviers programmables.
 
+On en a différents formats par.
 
+Là, je peux vous montrer aussi le 64. Encore plusieurs clés qui sont programmables et nos techniciens sont capables de vous parler de vos tâches de travail. Et puis de cette façon là, beaucoup plus facile à savoir qu'est ce qui va améliorer votre journée ? Qu'est ce qui va vous rendre plus productif ? Qu'est ce qui va changer un peu la façon que vous allez travailler pour être capable de avancer dans votre travail ?
 
-00:04:24:16 - 00:04:45:09
+Et puis je pense qu'il y a quelque chose qu'on n'a pas mentionné tantôt, que j'aimerais mentionner. Quand vous venez à la bibliothèque de prêt ou quand vous venez chez nous à AATIA et vous nous dites Ok, je pense que c'est ça que j'ai besoin. On va explorer la solution avec vous. Une fois qu'on va déterminer que le clavier programmable serait peut être une option pour vous, on va vous le prêter, mais on vous laissera pas partir sans vous donner de la formation.
 
-Luna
+La formation est importante parce que on va vous soutenir au delà de juste le équipement. On pense que c'est très important d'être capable de faire ça. Alors si je vous donne un clavier programmable à 24 clés, on détermine and quelle clé doit être programmée. Je vous le donne, mais je vais vous donner aussi la formation. Je crois que c'est important à souligner.
 
-Absolutely. Until we have an opportunity to fully open it to our visitors or clients or colleagues, and for all of you who are not in the National Capital Region, we will make sure we continue to share with you the wonderful features of this location. Go ahead with this room.
+**Luna :**
 
+C'est absolument critique, ça fait vraiment partie des adaptations en milieu de travail. Bien des adaptations demandent de la formation. On s'improvise pas du jour au lendemain à être un bon utilisateur efficace de ces outils. Peu importe d'ailleurs les outils dont on parle. De la même façon que vous suivrez de la formation pour mieux utiliser Word ou autre, c'est la même chose.
 
+On a besoin de formation pour utiliser certains de ces outils et on est en mesure de décider avec vous de la formation dont vous avez besoin. Et quand on dit vous, évidemment, on s'adresse aux employés en situation de handicap. Mais je veux vraiment répéter le message pour nos gestionnaires, pour nos collègues des ressources humaines, pour tous ceux qui sont de près ou de loin impliqués dans le processus d'adaptation du milieu de travail.
 
-00:04:45:16 - 00:05:10:13
+Comment il est important, vraiment de se concentrer sur la situation, sur les tâches à accomplir, sur les obstacles au travail et sur les solutions possibles.
 
-Nadine
+**Nadine :**
 
-So we're going to start by describing this room. This room is one of the many closed offices that you can find here at 219 Laurier. What makes it accessible? It's some of the features that are in this room. For example, there is a back wall here that has some columns. These columns are made of felt in there about three inches thick.
+Quand dis-tu Luna, que nous pourrions peut être simuler une conversation entre un gestionnaire et un employé qui débutent dans un nouvel emploi pour voir quel langue on peut utiliser, quels mots on peut utiliser à la place de toujours dire quelle est votre barrière et comment je peux vous accommoder. Alors je pense qu'il y a différentes façons d'approcher cette conversation là, et on pourrait définitivement démontrer ça.
 
+Qu'en penses tu ?
 
+**Luna :** Absolument. On va vous le montrer parce que, comme vous le savez, des fois, c'est difficile d'expliquer. Des fois, on se sent mal à l'aise d'expliquer qu'on rencontre des obstacles au travail, des fois on ne veut pas en parler parce qu'on a peur de se faire voir différemment, de se faire traiter différemment. Quant aux gestionnaires,  ils ont souvent peur de poser la mauvaise question.
 
-And what that does, it really helps absorb the sound within the room. It's really important to talk about the noise machine. So here every single room that has a door has a noise machine with a button on the wall. And this button allows you to control the white noise. You can either turn it on or you can turn it off.
+Ils ne savent pas comment s'y prendre et ils sont pas toujours sûrs d'aller jusqu'au fond des choses sans vraiment poser des questions qui peuvent être intrusives. Alors voilà pourquoi on veut vous montrer un petit peu la conversation idéale. Et au lieu de dire à quelqu'un quels sont vos obstacles ou quelles sont encore pires, quelles sont vos limitations ? Il ne s'agit pas de limitation.
 
+C'est vraiment un mot terrible. Parce qu'au fond, ce dont on parle, ce n'est pas de quelque chose d'un défaut de la personne qu'il faudrait réparer ou qu'il faudrait éliminer. Il s'agit d'une interaction entre la personne et son environnement. Et c'est ça qu'il faut réparer. C'est l'environnement qu'il faut rendre plus accueillant, plus inclusif, plus accessible. Nous allons commencer notre petite conversation.
 
+Bonjour Nadine, merci pour l'entrevue la semaine dernière. J'ai très hâte d'avoir l'occasion de travailler dans ton équipe, de faire partie de ton équipe. Je pensais qu'aujourd'hui nous pourrions parler de mes besoins particuliers et de mes besoins d'adaptation pour pouvoir accomplir mon travail.
 
-The lighting in here is also dimmable, or you can completely turn it off, which is a great feature for a person that may have a light sensitivity. Somebody that would like it nice and bright, someone that would like it nice and dark. It allows you to customize the room to your liking. For those of you who can visualize, the chair that's in back of me is an anti-gravity chair.
+**Nadine :** Mais certainement merci de me faire confiance et de parler des besoins que tu vas avoir. Alors la semaine dernière, j'ai eu le plaisir de t'offrir le poste au sein de notre équipe et j'ai hâte que tu puisses commencer. Alors une des choses que j'aimerais qu'on parle un peu davantage, c'est un peu des tâches à accomplir comme conseillère stratégique au niveau de notre équipe.
 
+Et ça va te donner peut être une idée de ce que tu vas faire et des outils dont tu pourrais avoir besoin. Alors, en tant que conseillère stratégique, ce que j'envisage, c'est il va y avoir beaucoup de recherche, analyse de l'information qui vient de différentes sources. Alors des documents Word, des PowerPoint, des sites web et un peu de cette information là qu'on va mettre ensemble pour être capable de donner des idées, des conseils stratégiques à nos collègues et aussi à la haute gestion.
 
+Je sais qu'on a déjà parlé que tu connais Word et Excel. Alors, en utilisant ces outils là, est ce que ça vous va ? Ou si tu aurais besoin d'autre chose ?
 
-And you see, we do have someone that actually works here and she's a real person. It's not just a figment of your imagination. We have sit, stand desks. Well, we also have these types of chairs that allow us to work in a different position. So you have that and it's something you can come to the office and test out if you would need this kind of chair, which I mentioned that eventually a client can come and try different things.
+**Luna :** Comme tu le sais, j'utilise un logiciel de technologie adapté. Déjà que j'ai déjà utilisé dans d'autres postes précédents pour utiliser Word, Excel et PowerPoint, etc. Donc je suis très contente de pouvoir apporter un logiciel que je connais. Ce dont j'aurais surtout besoin par exemple, c'est si lors de rencontres d'équipe ou lors de nos bilats par exemple, on donne une liste de documents à consulter, on donne une liste de tâches à accomplir ou de points qu'il faudrait que je couvre dans mes analyses.
 
+Et bien d'avoir des notes par écrit qui me permettent de me concentrer sur la conversation sans avoir à me préoccuper de prendre des notes et que les notes peuvent être envoyées par la suite. Eh bien ça va me servir aussi d'outil de référence. Alors ça, ça va être vraiment, vraiment très utile pour moi.
 
+**Nadine :** Alors, quelque chose d'assez facile pour moi, J'utilise souvent dans mes bilats et dans mes notes, j'utilise OneNote et avec la conversation, ce serait facile pour moi d'extraire les tâches dans cet outil ou autre. Si j'utilise le courriel, mais au moins d'extraire les tâches après une rencontre pour pouvoir te les envoyer. Alors ça, ça me fait plaisir d'être capable de faire ça assez facilement.
 
-00:06:31:24 - 00:06:45:26
+**Luna :** Et bien c'est excellent parce que ça va me servir de référence, surtout s'il y a du temps qui s'écoule entre le début d'un projet et la fin du projet, alors ça va être utile. Une autre chose dont j'ai beaucoup entendu parler et je sais que Service partagé Canada fait un test, c'est du Co-pilote qui est un outil Microsoft et qui est fort utile pour créer des résumés, pour créer des notes, pour commencer à écrire des documents.
 
-Luna
+Est ce que je pourrais avoir la possibilité de participer à ce teste de Copilote ? Donc j'aurais accès à la licence de Copilote pour pouvoir faire mon travail.
 
-So you mentioned two very key things. The first thing is Lending Library. And the second thing is you can try in the store. Can you tell us a little bit more, more about those two services that we offer.
+**Nadine :** Alors oui, il faut que je vérifie parce qu'on est encore en essai. Et nous, on est chanceux ici à AATIA, parce qu'on évalue l'outil pour l'accessibilité. Et jusqu'à date, les employés qui l'utilisent ont trouvé que ça faisait une énorme différence dans leur travail. Et puis, obtenir une licence est possible, mais c'est des choses que je dois vérifier. Alors je ne peux pas te répondre aujourd'hui, mais je dois vérifier au sein de l'autre équipe.
 
+Mais définitivement, je vais pousser pour avoir une licence parce que dans le travail que j'accomplis, je crois que c'est quelque chose qui aiderait beaucoup.
 
+**Luna :** Et bien merci, parce que ça va couvrir du moins mes besoins au début, lorsque les tâches vont évoluer, lorsque je vais mieux connaître ce à quoi mes objectifs de travail et bien il se peut que je rencontre d'autres obstacles et dans ce cas là, j'ai besoin d'avoir une autre conversation avec toi pour savoir ce qui est possible. Alors ce que j'apprécierais beaucoup, c'est une occasion d'y revenir de façon régulière pour m'assurer que j'ai tous les outils dont j’ai besoin.
 
-00:06:45:29 - 00:07:22:18
+**Nadine :** Excellent, alors on n'a plus beaucoup de temps parce qu'on a juste 30 minutes. Alors en résumé, ce que j'aimerais te dire aussi, quelque chose qu'on n'a pas oublié, parce qu'une fois que tu commences avec nous, je sais que tu ne voudras plus jamais partir et tu vas travailler avec moi pour le restant de ton temps. Alors ici, par contre, il y a des gens qui déménagent, il y a des gens qui ont des promotions, il y a des gens qui changent de ministères.
 
-Nadine
+Alors on veut documenter tes solutions, tes barrières pour ton travail. Alors, est ce qu'il y a un outil qu'utilisent qu'on utilise au Gouvernement du Canada qui te permettrait de documenter ces solutions là pour pouvoir apporter les solutions à d'autres ministères et pour ne pas être obliger de recommencer cette conversation là de façon régulière ? Alors tu as à peu près une minute avant qu'on va quitter.
 
-I can definitely do that. The lending library has over 3000 items that range for very simple items to different mice, and keyboard to the extravagance of an anti-gravity chair, different, brailers, as we call them, and  everything in between. We also have a really great team for research and development because technology advances all of the time. So how can we support our employees and make it easy for them to obtain tools that are going to remove barriers within their workplace?
+**Luna :** Bien sûr, tu parles du Passeport d'accessibilité en milieu de travail du gouvernement du Canada et je vous invite tous à aller regarder sur Canada.ca les pages qui sont consacrées au Passeport. Le Passeport, c'est un outil pour documenter les situations, les obstacles, les solutions. Mais c'est un outil aussi pour faciliter une conversation comme celle, un peu idéale, qu'on vient d'avoir, Nadine et moi.
 
+Toutes les conversations, évidemment ne sont pas aussi facile, mais par contre, ce que nous voulons vous montrer, c'est un exemple de comment ça devrait se passer dans un moment idéal, dans une telle conversation. Alors je vous invite à aller explorer le Passeport. Je vous invite aussi à nous contacter pour des questions, pour des commentaires et pour nous dire si vous avez aimé, pas aimé, été ennuyé par cette séance.
 
+Si vous l'avez trouvée intéressante, alors merci encore Une fois Nadine et à toute l'équipe. Il y a une équipe derrière nous aussi qui a facilité ce webinaire et nous tenons à les remercier.
 
-These items would come to you through an info session that you would have with parts of the team, and then you could actually loan it out for two, three, four months to make sure you try out the tools to make sure they are the right ones. Once that is done, if it's not the right one after 2 or 3 weeks, you can actually exchange it for a different one.
+**Nadine :** Définitivement, et on a pas beaucoup de temps mais on va faire une série. Alors Luna le dit, si vous avez de la rétroaction, s'il y a des sujets que vous aimeriez aborder, nous on va continuer à améliorer, échanger et vous apporter encore des indices de qu'est ce que ça a l'air ici au 219, différentes salles, différentes places et on va pouvoir continuer à partager les outils que nous avons dans la bibliothèque des prêts.
 
+Mais appelez nous, Avons nous des courriels ? La rétroaction est importante et si vous avez besoin de support, que vous êtes un employé ou gestionnaire, nous sommes ici pour vous. Alors je suis Nadine.
 
+**Luna :** Je suis Luna et merci et bonne fin de journée.
 
-00:07:45:18 - 00:08:06:21
-
-Nadine
-
-So similar as if you would go to the library and rent a book. You're renting adaptive technology equipment here at the lending library, which, you know, allows us to provide a lot of different tools. And our next segment of our conversation will actually going to be displaying some of these tools and explaining a little bit of what they do.
-
-
-
-00:08:06:24 - 00:08:43:28
-
-Luna
-
-Excellent. And I think the option of coming here physically, whenever possible to try some of this equipment to explore what it can do, is the way to look at any barriers that employees are facing in finding the right solution without having to buy gadgets, as I call them, or a software that you can you buy, but then it's not the right fit so it stays somewhere in a drawer or on a computer unused.
-
-
-
-00:08:44:01 - 00:08:50:06
-
-Luna
-
-It's an opportunity to find the right solution for people's accommodation.
-
-
-
-00:08:50:06 - 00:08:57:00
-
-Nadine
-
-Excellent I think so do you think we should show one of our specialty tools, Luna?
-
-
-
-00:08:57:02 - 00:09:21:02
-
-Luna
-
-Absolutely. We are very excited. And by the way, something that we didn't see. But today is December 4th and we are, in an International day or International Week of Persons with Disabilities. So we are proud to come here to come to you on this day, to celebrate IDPD with all of you.
-
-
-
-00:09:21:04 - 00:09:42:09
-
-Nadine
-
-And I hope you all joined the event yesterday, which was excellent. So I'm going to show you, a few, different items, and I'm going to start Luna with the X keys. And I'm trying to show this, and I'm hoping that people see this on the camera. This X keys that I'm holding right now has 24 key.
-
-
-
-00:09:42:12 - 00:10:13:18
-
-Nadine
-
-Each of these keys has been programmed to do one thing. So for example the bottom button here is control alt delete. I don't have to use both hands and hit a number of buttons to turn off my computer or to lock it. I can close one button here and it's going to do control alt delete. Luna, can you give us a concrete example on how this would help someone do a variety of tasks, and why it's important?
-
-
-
-00:10:13:20 - 00:10:48:01
-
-Luna
-
-Why it is important? Because sometimes involve repetitive task tasks that you do very often and that involve many small steps. So one of the uses of these devices is they can be programed to add the hitting one button, perform multiple steps. And the example that we want to give is of people who do translation. So they want to translate this specific paragraph.
-
-
-
-00:10:48:07 - 00:11:16:01
-
-Luna
-
-They want to check a word. So they've got to select the word go open their browser, copy the word, find the explanation, copy that explanation, replace it in their word doc. Those are tasks that they do very often and time is of the essence. So it allows somebody with one button to do all those operations at once.
-
-
-
-00:11:16:03 - 00:11:43:08
-
-Luna
-
-Imagine of the improvement in terms of stress for the individual, but also we have eliminated or mitigated a barrier that can be caused by repetitive tasks. For example, if you had to memorize a series of steps and you could program those steps into one of these keys and imagine how much easier it would be to do.
-
-
-
-00:11:43:10 - 00:12:06:24
-
-Nadine
-
-That's great. Again, there's a lot of different ones. This one is already set up, but all of them can be customized for each person. We have different sizes, so this one I'm showing now is a 24 keys. So this one here is not programmed. So you'll notice it doesn't have any information or stickers to say what there is.
-
-
-
-00:12:06:24 - 00:12:26:22
-
-Nadine
-
-But this one is a 64 key. So you can actually change some of the information that you put on here. And you can have up to 64 on this one. If you're looking for something small, if you wanted to put it above your keyboard, for example, then we have one that looks like this. This one is 16 keys.
-
-
-
-00:12:26:24 - 00:13:00:01
-
-Nadine
-
-It is in one row. Keys are very easy to press. And again, it can be programed with your laptop, with your computer, with your keyboard as well. And we also have the largest one that we have here has actually a 128 keys that can all be programed with macros. And that looks like this. So it's almost like having two keyboards, but this one would allow you to, create a whole bunch of different information with the keys.
-
-
-
-00:13:00:01 - 00:13:27:20
-
-Nadine
-
-So there's 128 here again, allowing you to do that. And I'm going to go back to one of the things that you said. You talked about repetitive tasks and you talked about barriers. How important is it to know what the person will be working on, what kind of tasks they'll be working on before we just hand out any tools that we have in the lending library?
-
-
-
-00:13:27:22 - 00:14:02:25
-
-Luna
-
-Well, first of all, because barriers that people face are situational, what that means is that the barrier really occurs differently in different situations. So for example, if I am the policy analyst, constantly typing on my computer, the barriers I encounter may be completely different from someone who's in a call center responding to calls all the time, or somebody who is in a fisheries and oceans those ship trying to rescue people in the ocean.
-
-
-
-00:14:02:25 - 00:14:31:29
-
-Luna
-
-So really barriers are very much related to the type of work that we do. The conditions in which we work or so are we in an office, are we in on the field somewhere? Are we at home? So that's why it is important to understand the job and the working conditions, and to describe what is it that is more difficult to do among the tasks that we have to perform?
-
-
-
-00:14:32:06 - 00:14:56:25
-
-Luna
-
-Where are the barriers and therefore how can we find the most effective solution? And for all of you who are managers out there and who may feel sometimes that you don't know what you don't know, you don't know how you can address, the barriers so you can help, address the barriers, how you can meet your duty to accommodate obligations.
-
-
-
-00:14:56:28 - 00:15:03:08
-
-Luna
-
-Again, please reach out to us. We you can find our coordinates .
-
-
-
-00:15:03:08 - 00:15:30:03
-
-Nadine
-
-You, Excellent. Thank you. Luna. And again, we gave you one small sample of some of the tools that we do. And hopefully each segment in our series will allow us to bring forward another, different tool. Some of them will be something you are not sure of or you've never seen before. And we're hoping to tell you why that is useful and what kind of barriers it addresses.
-
-
-
-00:15:30:06 - 00:15:57:01
-
-Nadine
-
-We will also show you why we're using this different mic today, or why we can use a vertical mouse, or a simple mouse, or a magic mouse or a trackball mouse. So we'll be showing you some of the things that you're used to seeing. And that's our goal. What we want to do today. Now that we've talked to you and  told you about our excuse that really cool.
-
-
-
-00:15:57:03 - 00:16:20:02
-
-Nadine
-
-What we want to do is we want to show you what a conversation with a new employee might look like. That is not just run of the mill. Hello. What are your barriers? How can I help you? Luna and I, I think we're going to demonstrate a little bit of a conversation that we've had and that we sometimes have with onboarding some of our employees.
-
-
-
-00:16:20:05 - 00:16:31:06
-
-Nadine
-
-And we hope that you get other some insights and some tips and tricks on the conversations that you have with your employees moving forward.
-
-
-
-00:16:31:08 - 00:17:02:02
-
-Luna
-
-These conversations can be difficult, especially when the two people don't know each other so the manager doesn't know the employee, and vice versa. The employee may feel reluctant to say, I need a ceratin action because they're concerned about being looked at differently, about being treated differently. They think they may think it's going to limit their approach. It's all it's going to create stigma and all that kind of stuff.
-
-
-
-00:17:02:08 - 00:17:36:18
-
-Luna
-
-So how do we create the kind of conversation that is going to make it easy for both the employee and the manager to discuss the barriers and the solutions? And you will note that a consistent theme, the consistent theme about situation barriers and solutions, that's what the conversation needs to be about. People don't have to divulge their diagnostic, their condition, their treatment, how they do X, Y, or Z at home.
-
-
-
-00:17:36:20 - 00:18:03:07
-
-Luna
-
-That's not what's important to know. What's important to focus is on is the workplace and how are we going to do things. So Nadine, thank you for this interview. I am so excited at the prospect of working with the accessibility, accommodation and adaptive computer technology team already. I can say the name. I think I deserve to become part of this team.
-
-
-
-00:18:03:09 - 00:18:28:15
-
-Nadine
-
-I agree, if you can say the name and know the acronym, I think you're good to go. But seriously, thank you. I loved the interview that we had and I think you'll be a great fit for this team. So I'd like to offer you the position. And while I'm doing that, I'd like to talk about some of the tools we have and some of the tasks that you're going to be doing so that I know how to accommodate you.
-
-
-
-00:18:28:16 - 00:18:51:11
-
-Nadine
-
-Once you do start working in about three weeks. Are you okay to answer a few questions for me? Excellent. So one of the things that you'll be doing here as a strategic advisor is, is really looking at different sources of information and compiling that. So oftentimes there are decks to write. There is information to research. We use PowerPoint.
-
-
-
-00:18:51:18 - 00:19:04:18
-
-Nadine
-
-We use Word and sometimes we use Excel. You've told me already that you're used to using these tools. Are there any other tools that you would need in order to complete your tasks?
-
-
-
-00:19:04:21 - 00:19:47:26
-
-Luna
-
-So, you know, Nadine, because we've already discussed it, that I use adaptive software to access my computer, where some of the barriers are that I face have to do with ensuring that I have all the sources of information. Keeping a good list of the sources of information. Let's say we discuss a bunch of possibilities during a meeting. Having a written list that somebody can send me by email helps me refer to that list, and it's much easier for me to find the information that I'm looking for.
-
-
-
-00:19:47:28 - 00:19:53:07
-
-Luna
-
-Would that be something that you would be prepared to do? As my manager?
-
-
-
-00:19:53:09 - 00:20:23:09
-
-Nadine
-
-Definitely. I think that's really important. And one of the things that I've noticed with using the Microsoft products, because we do use Teams and OneNote, it allows me to take notes when I am providing information and when I'm requesting tasks. So definitely after a meeting, easy for me to do. A quick summary with tasks so that you can I can send you an email or a one note if that works for you, that would track all of the tasks that you've been assigned with that work.
-
-
-
-00:20:23:12 - 00:20:51:16
-
-Luna
-
-That is fantastic. And I noticed from talking to prospective colleagues that we have access to a co-pilot here as a test to try and tested for Shared Services Canada. Copilot is an amazing tool, and so would I be able to access that license in order, for example, to create meeting summaries or to get started with documents, to get started with research?
-
-
-
-00:20:51:19 - 00:20:55:07
-
-Luna
-
-Is that something that would be available to me?
-
-
-
-00:20:55:09 - 00:21:29:19
-
-Nadine
-
-In theory, yes. That's something that I do have to double check. You did mention that Shared Services is piloting Copilot and it is a great tool. So a lot of people on the team have it in order to ensure its accessibility. I've been working with it the way I would have to look at how to get that license for you, but in order to do your tasks, if that's something that is needed, definitely work with the team to have that in the next three weeks so that when you do start, it's a tool that you can use as soon as you start your day.
-
-
-
-00:21:29:21 - 00:22:01:08
-
-Luna
-
-Excellent. I think that would cover it for now. Obviously, it may be possible that as time goes by and different tasks or different responsibilities get assigned that I may need other tools or other measures. I like to know that I can have that conversation with you at any time, so that we can discuss how things are going and if any changes are needed.
-
-
-
-00:22:01:11 - 00:22:20:18
-
-Nadine
-
-Well, that's good to know as you will be working directly with me and that will be regular bilats. So we can have this conversation. And I hope that our conversation stays as open as it was today, and that there's a really good rapport between the two of us so that there's trust and there's openings for using different tools.
-
-
-
-00:22:20:18 - 00:22:53:19
-
-Nadine
-
-Or if Copilot is not available, how else can we address the barrier or the obstacle that you may have within your work? And how can we work differently so that it makes it easy for you to do? It was great having this conversation with you today, and I'm looking forward to the next three weeks. We should have a laptop ready for you, a phone, and the right software so that we can start on your first day, giving you the tools and the tasks that you're going to be accomplishing within the team.
-
-
-
-00:22:53:22 - 00:23:12:06
-
-Luna
-
-Excellent, because that will allow me to focus on the work and to really hit the ground running as we see, so that we don't have to worry about accommodation for a long period of time before I can be functional and productive. Thank you very, very much. I look forward to it.
-
-
-
-00:23:12:08 - 00:23:19:18
-
-Nadine
-
-So within the team, that's one of my goals, is really to accommodate a person the day they start working.
-
-
-
-00:23:19:20 - 00:23:55:09
-
-Luna
-
-Okay. And to our participants, obviously you can tell this is a bit of an ideal conversation. What we want to demonstrate to you is how these conversations should go. Of course there are variations, there are different twists to a situation, a solution may not be readily available, and more exploration may need to happen. But having that openness and creating that climate of trust, I feel like we can trust each other.
-
-
-
-00:23:55:11 - 00:24:14:14
-
-Luna
-
-I feel we can have that conversation. I noticed it was never about me personally. It was always focusing on the work, and that's where it kind of demystifies, normalizes the workplace accommodation conversation. And that's the goal.
-
-
-
-00:24:14:16 - 00:24:33:12
-
-Nadine
-
-So you took the words right out of my mouth. And when you come to AAACT, sometimes people will come to AAACT because the conversations are not always as easy as this one. This was, you know, this was our first one. So we're good. We took it easy and we made sure that it wasn't that much of a difficult conversation.
-
-
-
-00:24:33:15 - 00:24:59:23
-
-Nadine
-
-The reasons people do come to AAACT is because we don't always know as a manager what is happening, what the tools that we have that are available and what can be done. The conversation with our team will allow us to explore that. Talk to the manager, look at the tasks for each employee, and because everything is a case by case basis and also help with the conversation.
-
-
-
-00:24:59:25 - 00:25:26:29
-
-Nadine
-
-One of the things that I forgot to ask you, Luna. We talked about barriers and solutions, how are we going to document this and make changes as we go? So shall we talk a little bit about the passport and how it's a great tool to allow this solution and barrier to go with you, because we know that now that you're an "AAACTor", never going to leave us and go to another department or change jobs.
-
-
-
-00:25:27:01 - 00:25:44:03
-
-Nadine
-
-But in reality, everyone moves around, everyone goes to different departments. They get a promotion, they get a deployment. They want to learn something new. So tell us a little bit about the passport. And we have a two minutes. And then we're going to have to say goodbye. And until next time.
-
-
-
-00:25:44:06 - 00:26:19:06
-
-Luna
-
-The Government of Canada Workplace Accessibility Passport is a tool that allows us to record these kinds of conversations. What is the situation? What are the barriers? What are the solutions? And to have an agreement between the employee and the manager that these solutions will be implemented. The passport also serves, as you mentioned, as a basis for a conversation with a new manager in a new organization.
-
-
-
-00:26:19:12 - 00:26:53:28
-
-Luna
-
-In the new position, it's a starting point. Rather than having to tell the story over and over and over again. So that is the passport again, you can Google the Government of Canada Workplace Accessibility Passport for next editions of these webinars. We will be better equipped to share links with you and to share resources with you. Also, I think one of the features that I did not mention is that this is being recorded, and a recording and a transcript will be available.
-
-
-
-00:26:54:01 - 00:26:54:27
-
-Luna
-
-Great.
-
-
-
-00:26:54:29 - 00:27:01:21
-
-Nadine
-
-Stay tuned. Luna, it was a pleasure working with you today. I'm Nadine
-
-
-
-00:27:01:21 - 00:27:03:01
-
-Luna
-
-And I am Luna, and see you next time.
-
-
-
-00:27:03:01 - 00:27:05:19
-
-Nadine
-
-See you next time. And thank you for participating.
+**Nadine :** Bye tout le monde et merci d'être là.
