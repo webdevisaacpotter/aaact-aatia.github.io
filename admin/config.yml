@@ -99,8 +99,8 @@ collections:
         widget: "object"
         i18n: true
         fields:
-          - { label: "Minutes", name: "minutes", widget: "number", valueType: "int", min: 0 }
-          - { label: "Seconds", name: "seconds", widget: "number", valueType: "int", min: 0, max: 59 }
+          - { label: "Minutes", name: "minutes", widget: "number", valueType: "int", min: 0, i18n: true }
+          - { label: "Seconds", name: "seconds", widget: "number", valueType: "int", min: 0, max: 59, i18n: true }
       - label: "Podcast Files"
         name: "podcastFiles"
         widget: "object"
