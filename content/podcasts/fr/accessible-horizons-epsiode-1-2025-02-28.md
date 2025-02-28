@@ -1,6 +1,6 @@
 ---
 title: Horizons accessibles - Épisode 1
-otherLanguageTitle: Accessible Horizons- Epsiode 1
+otherLanguageTitle: Accessible Horizons- Episode 1
 podcastDate: 2025-02-28
 longDescription: >-
   

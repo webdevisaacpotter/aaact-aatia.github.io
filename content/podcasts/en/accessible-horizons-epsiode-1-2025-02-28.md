@@ -1,12 +1,12 @@
 ---
-title: Accessible Horizons- Epsiode 1
+title: Accessible Horizons- Episode 1
 otherLanguageTitle: Horizons accessibles - Épisode 1
 podcastDate: 2025-02-28
 longDescription: >-
   
   Accessible Horizons is a podcast dedicated to explore accessibility from multiple perspectives. Hosted by accessibility experts, Luna Bengio and Nadine Charron, the show dives into key topics shaping inclusive workplaces and communities. Each episode features engaging segments, including exclusive teasers for 219 Laurier, insights into adaptive equipment, and expert interviews packed with practical tips and tricks. Whether you're an advocate, policy maker, or someone navigating accessibility firsthand, this podcast offers valuable discussions and real-world solutions.
 description: >-
-  # Episode 1 Accessibility Unveiled - The Journey Begins
+  # Episode 1 - Accessibility Unveiled - The Journey Begins
 
 
   Demystifying Accessibility - 219 Laurier Teaser, adaptive technology and workplace accommodation strategy
