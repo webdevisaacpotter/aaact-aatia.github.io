@@ -11,7 +11,7 @@ description: >-
 
   Demystifying Accessibility - 219 Laurier Teaser, adaptive technology and workplace accommodation strategy
 image: /img/podcasts/CoverArtEnglishPurple.png
-duration: "30"
+duration: "27"
 podcastFiles:
   mp3:
     url: https://accessibility-accessibilite.ca/AccessibleHorizons-E1.mp3
