@@ -1,15 +1,11 @@
 ---
-title: Horizons accessibles - Épisode 1
-otherLanguageTitle: Accessible Horizons- Episode 1
+title: Horizons accessibles - L'Accessibilité démystifiée - C'est un départ
+otherLanguageTitle: Accessible Horizons- Accessibility Unveiled - The Journey Begins
 podcastDate: 2025-02-28
 longDescription: >-
   
-  Horizons accessibles est un balado qui explore l'accessibilité sous plusieurs angles. Animée par les expertes en accessibilité Luna Bengio et Nadine Charron, du programme Accessibilité, adaptation et technologie informatique adaptée(AATIA), l'émission aborde des sujets clés qui contribuent à des lieux de travail et des communautés inclusifs. Chaque épisode présente des segments attrayants, tels que des visites exclusives aux nouveaux bureaux et espace client de l’AATIA à Ottawa, des aperçus de l'équipement adapté et des entrevues avec des experts remplies de trucs et astuces pratiques. Que vous soyez un défenseur, un décideur ou quelqu'un qui s'intéresse directement à l'accessibilité, ce balado propose des discussions précieuses et des solutions concrètes.
-description: >-
-  Épisode 1 - L'Accessibilité démystifiée - C'est un départ
-
-
   Débloquer l'accessibilité - 219 Laurier Teaser, technologie adaptée et stratégie d'adaptation du lieu de travail
+description: Épisode 1
 image: /img/podcasts/CoverArtPurpleFrench.png
 duration: "30"
 podcastFiles:
