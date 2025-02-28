@@ -5,7 +5,7 @@ podcastDate: 2025-02-28
 longDescription: >-
   
   Demystifying Accessibility - 219 Laurier Teaser, adaptive technology and workplace accommodation strategy
-description: "# Episode 1"
+description: Episode 1
 image: /img/podcasts/CoverArtEnglishPurple.png
 duration: "27"
 podcastFiles:
