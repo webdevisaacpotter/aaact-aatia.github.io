@@ -1,10 +1,11 @@
 ---
-title: Accessible Horizons- Accessibility Unveiled - The Journey Begins
-otherLanguageTitle: Horizons accessibles - L'Accessibilité démystifiée - C'est un départ
-podcastDate: 2025-02-28
 longDescription: >-
   
   Demystifying Accessibility - 219 Laurier Teaser, adaptive technology and workplace accommodation strategy
+otherLanguageTitle: Horizons accessibles - L'Accessibilité démystifiée - C'est un départ
+title: Accessible Horizons- Accessibility Unveiled - The Journey Begins
+podcastDate: 2025-02-28
+episode: 1
 description: Episode 1
 image: /img/podcasts/CoverArtEnglishPurple.png
 duration: "27"
