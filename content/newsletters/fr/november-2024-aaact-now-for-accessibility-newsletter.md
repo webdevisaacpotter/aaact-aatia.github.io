@@ -21,7 +21,7 @@ Bienvenue à la toute dernière édition de *L’AATIA maintenant pour l’acces
 
 ## Journée internationale des personnes en situation de handicap de 2024
 
-![Description après l'image.](/docs/picture1-fr.jpg)
+![Description après l'image.](../../../public/img/newsletters/picture1-fr.jpg)
 
 Alt text : Bannière décorative de la Journée internationale des personnes en situation de handicap.
 
@@ -39,7 +39,7 @@ Le 4 décembre 2024, l’AATIA organise un événement de la JIPSH pour les fonc
 
 ## Nouvel espace de travail accessible de l’AATIA
 
-![Description après l'image.](/docs/picture2.png)
+![Description après l'image.](../../../public/img/newsletters/picture2.png)
 
 Alt text : La Directrice Exécutive de l'Accessibilité, et des collègues, qui coupent un ruban au nouvel espace de travail de l'AATIA.
 
@@ -53,7 +53,7 @@ Restez à l’écoute pour obtenir de plus amples renseignements sur la manière
 
 ## Salon de l’innovation de Services Partagés Canada : Récapitulation
 
-![Description après l'image.](/docs/picture3.png)
+![Description après l'image.](../../../public/img/newsletters/picture3.png)
 
 Alt text : Une image des employés de l'AATIA qui accueil des gens au kiosque au Salon de l’innovation de SPC.
 
@@ -73,7 +73,7 @@ Nous remercions toutes les personnes qui ont visité notre kiosque! Nous sommes 
 
 ## Faire connaissance avec l’équipe
 
-![Description après l'image.](/docs/picture4.jpg)
+![Description après l'image.](../../../public/img/newsletters/picture4.jpg)
 
 Alt text: Une image de Kateri Clark. Elle porte un chandail rouge vif et se tient à l'extérieur, entourée de verdure, avec un ciel bleu en arrière-plan.
 

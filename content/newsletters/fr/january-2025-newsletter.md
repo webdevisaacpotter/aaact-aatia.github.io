@@ -52,7 +52,7 @@ En comprenant le modèle d’inclusion des personnes en situation de handicap �
 
 ## Parcours de Rossy
 
-![](/docs/rosy_and_sophie.jpg)
+![](../../../public/img/newsletters/rosy_and_sophie.jpg)
 
 Alt text : Image de Sophie et Rossy.
 
@@ -76,7 +76,7 @@ Malgré les nombreux obstacles rencontrés, j’ai pris conscience de l’import
 
 ## Faire connaissance avec l’équipe
 
-![](/docs/picture1.png)
+![](../../../public/img/newsletters/picture1.png)
 
 Alt text: Peter McCormick tient un appareil de forme carrée étiqueté « X-Keys, XK-12 USB Switch Interface ». Peter porte une barbe grise bien taillée et un casque d’écoute.
 
