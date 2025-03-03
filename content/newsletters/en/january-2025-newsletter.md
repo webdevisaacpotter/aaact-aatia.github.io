@@ -51,7 +51,7 @@ By understanding the model of disability inclusion—focusing on a barrier-free 
 
 ## Rossy's Journey
 
-![](/docs/rosy_and_sophie.jpg)
+![](../../../public/img/newsletters/rosy_and_sophie.jpg)
 
 Alt text: Image of Sophie and Rossy, a service dog in training.
 
@@ -75,7 +75,7 @@ Despite the many obstacles, I’ve come to realize the importance of surrounding
 
 ## Get to Know the Team
 
-![](/docs/picture1.png)
+![](../../../public/img/newsletters/picture1.png)
 
 Text alt: Peter McCormick holds up a square shaped device labeled “X-Keys, XK-12 USB Switch Interface.” Peter has a tightly cropped grey beard and is wearing a headset.
 
