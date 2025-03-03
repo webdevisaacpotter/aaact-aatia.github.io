@@ -1,12 +1,29 @@
 ---
 longDescription: >-
   
-  Débloquer l'accessibilité - 219 Laurier Teaser, technologie adaptée et stratégie d'adaptation du lieu de travail
+  Joignez-vous aux animatrices Luna Bengio et Nadine Charron qui présentent le programme Accessibilité, adaptation et technologie informatique adaptée (AATIA) et le 219 Laurier, un espace de travail accessible à la fine pointe de la technologie pour le gouvernement du Canada. Ils discutent des principales caractéristiques d'accessibilité, du mobilier adapté au contrôle du bruit, et mettent en lumière la bibliothèque de prêt, qui fournit plus de 3 000 outils d'assistance que les employés peuvent essayer avant de s'engager dans un achat.
+
+
+
+  Ils présentent des outils spécialisés comme les X-Keys, qui simplifient les tâches répétitives et améliorent la productivité des employés handicapés. 
+
+
+
+  Cet épisode aborde également les meilleures pratiques en matière d'aménagements sur le lieu de travail, en soulignant comment des conversations ouvertes entre les gestionnaires et les employés peuvent favoriser un environnement de travail inclusif.
+
+
+
+  Enregistré à l'occasion de la Journée internationale des personnes en situation de handicap, cet épisode célèbre l'innovation en matière d'accessibilité et offre des conseils pratiques pour créer des lieux de travail sans obstacles.
+
+
+
+  Écoutez cet épisode pour découvrir comment l'accessibilité favorise l'innovation et l'intégration sur le lieu de travail !
 otherLanguageTitle: Accessible Horizons- Accessibility Unveiled - The Journey Begins
 title: Horizons accessibles - L'Accessibilité démystifiée - C'est un départ
 podcastDate: 2025-02-28
 episode: 1
-description: Épisode 1
+description: Débloquer l'accessibilité - 219 Laurier Teaser, technologie adaptée
+  et stratégie d'adaptation du lieu de travail
 image: /img/podcasts/CoverArtPurpleFrench.png
 duration: "30"
 podcastFiles:

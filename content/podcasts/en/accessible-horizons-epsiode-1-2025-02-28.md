@@ -1,12 +1,29 @@
 ---
 longDescription: >-
-  
-  Demystifying Accessibility - 219 Laurier Teaser, adaptive technology and workplace accommodation strategy
+  Join hosts Luna Bengio and Nadine Charron as they introduce the Accessibility,
+  Accommodation, and Adaptive Computer Technology (AAACT) program and showcase
+  219 Laurier, a cutting-edge accessible workspace for the Government of Canada.
+  They discuss key accessibility features, from adaptive furniture to noise
+  control, and highlight the Lending Library, which provides over 3,000
+  assistive tools for employees to try before committing to a purchase.
+
+
+  Learn about specialized tools like X-Keys, which streamline repetitive tasks and improve productivity for employees with disabilities. 
+
+
+  The episode also delves into best practices for workplace accommodations, highlighting how open conversations between managers and employees can foster an inclusive work environment.
+
+
+  Recorded during International Day of Persons with Disabilities, this episode celebrates innovation in accessibility and offers practical insights for creating barrier-free workplaces.
+
+
+  Tune in to learn how accessibility drives innovation and inclusivity in the workplace!
 otherLanguageTitle: Horizons accessibles - L'Accessibilité démystifiée - C'est un départ
 title: Accessible Horizons- Accessibility Unveiled - The Journey Begins
 podcastDate: 2025-02-28
 episode: 1
-description: Episode 1
+description: Demystifying Accessibility - 219 Laurier Teaser, adaptive
+  technology and workplace accommodation strategy
 image: /img/podcasts/CoverArtEnglishPurple.png
 duration: "27"
 podcastFiles:
