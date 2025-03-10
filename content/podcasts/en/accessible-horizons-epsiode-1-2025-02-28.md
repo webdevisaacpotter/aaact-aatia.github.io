@@ -27,7 +27,7 @@ description: Demystifying Accessibility - 219 Laurier Teaser, adaptive
 image: /img/podcasts/CoverArtEnglishPurple.png
 duration:
   minutes: 27
-  seconds: 00
+  seconds: 0
 podcastFiles:
   mp3:
     url: https://accessibility-accessibilite.ca/AccessibleHorizons-E1.mp3
