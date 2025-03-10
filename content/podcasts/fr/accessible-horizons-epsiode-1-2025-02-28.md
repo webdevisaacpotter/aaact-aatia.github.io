@@ -1,20 +1,22 @@
 ---
 longDescription: >-
-
-  Joignez-vous aux animatrices Luna Bengio et Nadine Charron qui présentent le programme Accessibilité, adaptation et technologie informatique adaptée (AATIA) et le 219 Laurier, un espace de travail accessible à la fine pointe de la technologie pour le gouvernement du Canada. Ils discutent des principales caractéristiques d'accessibilité, du mobilier adapté au contrôle du bruit, et mettent en lumière la bibliothèque de prêt, qui fournit plus de 3 000 outils d'assistance que les employés peuvent essayer avant de s'engager dans un achat.
-
+  Joignez-vous aux animatrices Luna Bengio et Nadine Charron qui présentent le
+  programme Accessibilité, adaptation et technologie informatique adaptée
+  (AATIA) et le 219 Laurier, un espace de travail accessible à la fine pointe de
+  la technologie pour le gouvernement du Canada. Ils discutent des principales
+  caractéristiques d'accessibilité, du mobilier adapté au contrôle du bruit, et
+  mettent en lumière la bibliothèque de prêt, qui fournit plus de 3 000 outils
+  d'assistance que les employés peuvent essayer avant de s'engager dans un
+  achat.
 
 
   Ils présentent des outils spécialisés comme les X-Keys, qui simplifient les tâches répétitives et améliorent la productivité des employés handicapés.
 
 
-
   Cet épisode aborde également les meilleures pratiques en matière d'aménagements sur le lieu de travail, en soulignant comment des conversations ouvertes entre les gestionnaires et les employés peuvent favoriser un environnement de travail inclusif.
 
 
-
   Enregistré à l'occasion de la Journée internationale des personnes en situation de handicap, cet épisode célèbre l'innovation en matière d'accessibilité et offre des conseils pratiques pour créer des lieux de travail sans obstacles.
-
 
 
   Écoutez cet épisode pour découvrir comment l'accessibilité favorise l'innovation et l'intégration sur le lieu de travail !
@@ -27,7 +29,7 @@ description: Débloquer l'accessibilité - 219 Laurier Teaser, technologie adapt
 image: /img/podcasts/CoverArtPurpleFrench.png
 duration:
   minutes: 30
-  seconds: 00
+  seconds: 0
 podcastFiles:
   mp3:
     url: https://accessibility-accessibilite.ca/HorizonsAccessibles-E1.mp3
@@ -78,17 +80,13 @@ Avec notre série de podcasts ou notre série de webinaires, nous vous ferons vi
 
 Nous n'avons pas de documents à offrir, mais par contre, nous avons découvert que nos magnifiques collègues de l'équipe sont là aussi pour répondre aux questions et ils font poser sur la boîte de clavardage.
 
-**Nadine :**
-
-Quelque chose que j'ai oublié de dire tantôt quand on parlait de la chaise, c'est que cette chaise ici, ça fait partie des articles qu'on a dans la bibliothèque de prêt. Alors on va parler un peu des items qui sont à la bibliothèque de prêt ici, c'est à dire je crois que l'on a alors bien expliqué le titre de l'équipe.
+**Nadine :** Quelque chose que j'ai oublié de dire tantôt quand on parlait de la chaise, c'est que cette chaise ici, ça fait partie des articles qu'on a dans la bibliothèque de prêt. Alors on va parler un peu des items qui sont à la bibliothèque de prêt ici, c'est à dire je crois que l'on a alors bien expliqué le titre de l'équipe.
 
 Et puis avec la bibliothèque de prêt, ça nous permet de prêter des objets que nous avons dans notre inventaire. Et l'inventaire compte plus de 3000 itèmes qu'on peut prêter à des employés du Gouvernement du Canada. Alors, les gens peuvent nous appeler. Je crois que l'information va être dans le clavardage. Ils peuvent nous envoyer des courriels et on va vous rencontrer pour déterminer les besoins.
 
 Et puis, à ce moment là, on peut emprunter de l'équipement de la bibliothèque de prêt pour s'assurer que l'équipement que nous avons est la bonne pour vous. Alors, à la place d'acheter 52 items, on va vous les prêter 1 à 1 ou deux par deux ou trois par trois, dépendamment ce que vous avez besoin. Et une fois qu'on arrive à la solution permanente, à ce moment là, on peut acheter l'item et ça devient la partie de vos solutions pour les barrières ou les obstacles.
 
-**Luna :**
-
-Si vous êtes un gestionnaire et que vous avez un employé qui a besoin d'adaptation en milieu de travail, c'est un service qui peut vous aider. Ça vous permet de vous débrouiller avec les délais d'approvisionnement, donc sans nuire à la productivité de l'employé. Ça vous permet donc de vous acquitter de vos obligations d'adaptation en milieu de travail tout en vous donnant le temps d'acheter.
+**Luna :** Si vous êtes un gestionnaire et que vous avez un employé qui a besoin d'adaptation en milieu de travail, c'est un service qui peut vous aider. Ça vous permet de vous débrouiller avec les délais d'approvisionnement, donc sans nuire à la productivité de l'employé. Ça vous permet donc de vous acquitter de vos obligations d'adaptation en milieu de travail tout en vous donnant le temps d'acheter.
 
 Par exemple, les outils dont votre employé a besoin.
 
@@ -122,17 +120,13 @@ Et puis je pense qu'il y a quelque chose qu'on n'a pas mentionné tantôt, que j
 
 La formation est importante parce que on va vous soutenir au delà de juste le équipement. On pense que c'est très important d'être capable de faire ça. Alors si je vous donne un clavier programmable à 24 clés, on détermine and quelle clé doit être programmée. Je vous le donne, mais je vais vous donner aussi la formation. Je crois que c'est important à souligner.
 
-**Luna :**
-
-C'est absolument critique, ça fait vraiment partie des adaptations en milieu de travail. Bien des adaptations demandent de la formation. On s'improvise pas du jour au lendemain à être un bon utilisateur efficace de ces outils. Peu importe d'ailleurs les outils dont on parle. De la même façon que vous suivrez de la formation pour mieux utiliser Word ou autre, c'est la même chose.
+**Luna :** C'est absolument critique, ça fait vraiment partie des adaptations en milieu de travail. Bien des adaptations demandent de la formation. On s'improvise pas du jour au lendemain à être un bon utilisateur efficace de ces outils. Peu importe d'ailleurs les outils dont on parle. De la même façon que vous suivrez de la formation pour mieux utiliser Word ou autre, c'est la même chose.
 
 On a besoin de formation pour utiliser certains de ces outils et on est en mesure de décider avec vous de la formation dont vous avez besoin. Et quand on dit vous, évidemment, on s'adresse aux employés en situation de handicap. Mais je veux vraiment répéter le message pour nos gestionnaires, pour nos collègues des ressources humaines, pour tous ceux qui sont de près ou de loin impliqués dans le processus d'adaptation du milieu de travail.
 
 Comment il est important, vraiment de se concentrer sur la situation, sur les tâches à accomplir, sur les obstacles au travail et sur les solutions possibles.
 
-**Nadine :**
-
-Quand dis-tu Luna, que nous pourrions peut être simuler une conversation entre un gestionnaire et un employé qui débutent dans un nouvel emploi pour voir quel langue on peut utiliser, quels mots on peut utiliser à la place de toujours dire quelle est votre barrière et comment je peux vous accommoder. Alors je pense qu'il y a différentes façons d'approcher cette conversation là, et on pourrait définitivement démontrer ça.
+**Nadine :** Quand dis-tu Luna, que nous pourrions peut être simuler une conversation entre un gestionnaire et un employé qui débutent dans un nouvel emploi pour voir quel langue on peut utiliser, quels mots on peut utiliser à la place de toujours dire quelle est votre barrière et comment je peux vous accommoder. Alors je pense qu'il y a différentes façons d'approcher cette conversation là, et on pourrait définitivement démontrer ça.
 
 Qu'en penses tu ?
 
