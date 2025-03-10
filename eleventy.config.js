@@ -140,7 +140,7 @@ module.exports = function(eleventyConfig) {
 	const md = markdownIt(markdownItOptions)
 	eleventyConfig.setLibrary('md', md);
 	eleventyConfig.addFilter('markdownify', (markdownString) =>
-		md.render(markdownString)
+		md.renderInline(markdownString)
 	);
 
 	eleventyConfig.addShortcode("currentBuildDate", () => {
