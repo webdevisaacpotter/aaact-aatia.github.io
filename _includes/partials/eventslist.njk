@@ -9,7 +9,7 @@
 						<dt>{{ events[locale].eventDate }}</dt>
 						<dd>{{ event.data.eventDate | htmlDateString }}</dd>
 					</dl>
-					<p>{{ event.data.description | markdownify | safe }}</p>
+					<p>{{ event.data.description | markdownInline | safe }}</p>
 				</div>
 			</div>
 		</li>

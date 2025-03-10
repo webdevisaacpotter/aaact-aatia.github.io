@@ -123,6 +123,14 @@ module.exports = function(eleventyConfig) {
 		return collection.filter((item) => item.data.locale === locale);
 	});
 
+	const markdownItOptions = {
+		html: true,  // Allows inline HTML like <abbr>
+		breaks: true, // Enables GitHub-style line breaks
+		linkify: true, // Auto-links raw URLs
+		typographer: true // Enables smart punctuation formatting https://github.com/markdown-it/markdown-it/blob/master/lib/rules_core/replacements.mjs
+	};
+	const md = markdownIt(markdownItOptions)
+
 	// Customize Markdown library settings:
 	eleventyConfig.amendLibrary("md", mdLib => {
 		mdLib.use(markdownItAnchor, {
@@ -131,17 +139,17 @@ module.exports = function(eleventyConfig) {
 		});
 	});
 
-	const markdownItOptions = {
-		html: true,  // Allows inline HTML like <abbr>
-		breaks: true, // Enables GitHub-style line breaks
-		linkify: true, // Auto-links raw URLs
-		typographer: true // Enables smart punctuation formatting https://github.com/markdown-it/markdown-it/blob/master/lib/rules_core/replacements.mjs
-	};
-	const md = markdownIt(markdownItOptions)
 	eleventyConfig.setLibrary('md', md);
-	eleventyConfig.addFilter('markdownify', (markdownString) =>
-		md.renderInline(markdownString)
-	);
+
+	// Full Markdown rendering (blocks, paragraphs, lists, etc.)
+	eleventyConfig.addFilter("markdownify", (markdownString) => {
+		return md.render(markdownString);
+	});
+
+	// Inline Markdown rendering (no paragraphs, just inline elements)
+	eleventyConfig.addFilter("markdownInline", (markdownString) => {
+		return md.renderInline(markdownString);
+	});
 
 	eleventyConfig.addShortcode("currentBuildDate", () => {
 		return (new Date()).toISOString();
