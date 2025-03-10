@@ -19,7 +19,7 @@
 			<!-- Description (Larger Column on Large Screens) -->
 			{%- if description -%}
 			<div class="col-md-8 col-12">
-				{{ description | markdownify | safe }}
+				<p>{{ description | markdownInline | safe }}</p>
 			</div>
 			{%- endif -%}
 		</div>
