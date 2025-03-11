@@ -128,10 +128,6 @@ We welcome your story ideas and comments to improve our newsletter.
 
 Please share our newsletter with your colleagues. They can register [here](https://forms-formulaires.alpha.canada.ca/en/id/clwg9uutq012sx883m3l6gt8p).
 
-Si vous préférez recevoir de nos nouvelles en français, [abonnez-vous à notre liste d'envoi en français](https://forms-formulaires.alpha.canada.ca/fr/id/clwg9uutq012sx883m3l6gt8p).
-
 Accessibility, Accommodation and Adaptive Computer Technology (AAACT) Program
-
 Shared Services Canada / Government of Canada
-
 [aaact-aatia@ssc-spc.gc.ca](mailto:aaact-aatia@ssc-spc.gc.ca)

@@ -25,7 +25,7 @@ Services partagés Canada a lancé [un appel d'offres ouvert pour des tests de c
 
 ## Norme nationale du Canada sur les exigences d'accessibilité pour les produits et services TIC
 
-[img border="0" width="341" height="178" src="file:////Users/shawn.thompson/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image002.png" alt="Logo pour la Norme nationale du Canada et le Conseil canadien des normes." v:shapes="Picture_x0020_3">
+![](/docs/nsc-scc.png)
 
 Alt text : Logo pour la Norme nationale du Canada et le Conseil canadien des normes.
 
@@ -49,11 +49,11 @@ Allez sur notre page [Formation et événements du GC sur l'accessibilité](http
 
 Pour obtenir des conseils et une orientation sur l'approvisionnement en TIC accessibles, communiquez avec l'[AATIA](mailto:aaact-aatia@ssc-spc.gc.ca).
 
-Passeport pour l'accessibilité en milieu de travail du GC 
+## Passeport pour l'accessibilité en milieu de travail du GC 
 
-[img border="0" width="372" height="180" src="file:////Users/shawn.thompson/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image003.png" alt="Image de marque pour le passport pour l'accessibilité en milieu de travail du GC" v:shapes="Picture_x0020_2">
+![](/docs/gcaccesspass-fr.png)
 
-Image de marque pour le passeport pour l'accessibilité en milieu de travail du GC.
+Alt text : Image de marque pour le passeport pour l'accessibilité en milieu de travail du GC.
 
 Êtes-vous un employé du GC confronté à des obstacles dans votre milieu de travail? Êtes-vous un gestionnaire qui cherche à créer un environnement de travail inclusif pour tous les employés? Le [Passeport pour l'accessibilité en milieu de travail du GC](https://www.canada.ca/fr/gouvernement/fonctionpublique/mieux-etre-inclusion-diversite-fonction-publique/diversite-equite-matiere-emploi/accessibilite-fonction-publique/passeport-accessibilite-milieu-travail-gouvernement-canada/a-propos.html) est là pour vous aider.
 
@@ -67,9 +67,9 @@ Nous travaillons actuellement à l'élaboration d'une version numérique du pass
 
 ## Faire connaissance avec l'équipe
 
-[img border="0" width="308" height="206" src="file:////Users/shawn.thompson/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image004.png" alt="Une image de Luna Bengio" v:shapes="Picture_x0020_1">
+![](/docs/luna.png)
 
-Une image de Luna Bengio.
+Alt text : Une image de Luna Bengio.
 
 Luna Bengio sait convaincre lorsqu'il s'agit d'accessibilité. La richesse de son expérience professionnelle et de son vécu aide les dirigeants de SPC et de l'ensemble de la fonction publique fédérale à comprendre les avantages opérationnels de l'accessibilité. Selon elle, une fois que les gens voient comment l'accessibilité profite à tous, ils sont plus enclins à l'intégrer dans leurs processus quotidiens. En tant que conseillère principale de l'AATIA, elle participe également aux mesures d'adaptation complexes, aidant les employés de la fonction publique à obtenir les outils de travail dont ils ont besoin. 
 
@@ -129,8 +129,6 @@ Si vous avez des idées sur la manière d'améliorer l'accessibilité à SPC, no
 Nous vous invitons à [nous faire part](mailto:aaact-aatia@ssc-spc.gc.ca) de vos idées d'articles et de vos commentaires afin d'améliorer notre bulletin d'information.
 
 Veuillez partager notre bulletin d'information avec vos collègues. Ils peuvent s'abonner [ici](https://forms-formulaires.alpha.canada.ca/fr/id/clwg9uutq012sx883m3l6gt8p). 
-
-If you prefer to receive news from us in English, you can [subscribe to our English mailing list](https://forms-formulaires.alpha.canada.ca/en/id/clwg9uutq012sx883m3l6gt8p).
 
 Programme d'accessibilité, d'adaptation et de technologie informatique adaptée
 
