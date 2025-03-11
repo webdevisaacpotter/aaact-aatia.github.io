@@ -13,7 +13,7 @@
 <p class="mt-4 well">
 	<i class="fas fa-envelope fa-lg mr-2" aria-hidden="true"></i>
 	{{ dataSource.contactUs | safe }}
-	<a href="mailto:{{ footer.contextualFooter[locale].learning.email }}?subject={{ dataSource.emailSubject }}">
+	<a href="mailto:{{ footer.contextualFooter[locale].learning.email }}?subject={{ dataSource.emailSubject | urlEncode }}">
 		{{ footer.contextualFooter[locale].learning.email }}
 	</a>
 </p>

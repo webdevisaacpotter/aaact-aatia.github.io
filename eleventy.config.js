@@ -155,6 +155,12 @@ module.exports = function(eleventyConfig) {
 		return (new Date()).toISOString();
 	})
 
+	// Encode URL components (e.g., email subjects)
+	eleventyConfig.addFilter("urlEncode", (value) => {
+		if (!value) return "";
+		return encodeURIComponent(value);
+	});
+
 	// Features to make your build faster (when you need them)
 
 	// If your passthrough copy gets heavy and cumbersome, add this line
