@@ -9,17 +9,6 @@ Happy New Year! As we step into 2025, we’re excited to continue supporting you
 
 Here’s to a year filled with success, growth, and greater accessibility!
 
-## On This Page
-
-* [AAACT Milestones in 2024](#aaact-milestones-in-2024)
-* [Creating a Culture of Inclusion](#creating-a-culture-of-inclusion)
-* [Rossy's Journey](#rossy-s-journey)
-* [Get to Know the Team](#get-to-know-the-team)
-* [Upcoming Accessibility Training and Events](#upcoming-accessibility-training-and-events)
-* [Accessible Canada Regulations Amendment](#accessible-canada-regulations-amendment)
-* [Accessibility Feedback Spotlight](#accessibility-feedback-spotlight)
-* [AAACT Virtual Series](#aaact-virtual-series)
-
 ## AAACT Milestones in 2024
 
 As we bid farewell to 2024, it’s time to reflect on our progress in making Government of Canada workplaces and services more accessible for all. Here are some of our key milestones for our Accessibility, Accommodation and Adaptive Computer Technology (AAACT) team in 2024:

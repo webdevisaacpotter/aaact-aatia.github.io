@@ -8,17 +8,6 @@ newsletterDate: 2024-11-01
 ---
 Welcome to our latest edition of *AAACT Now for Accessibility*! In this edition, we celebrate the International Day of Persons with Disabilities. Read on as we share valuable resources and steps that we can all take to foster a more inclusive federal public service.
 
-## On This Page
-
-- [International Day of Persons with Disabilities 2024](#international-day-of-persons-with-disabilities-2024)
-- [AAACT’s New Accessible Workspace](#aaact-s-new-accessible-workspace)
-- [Shared Services Canada’s Innovative Fair: Wrap-Up](#shared-services-canada-s-innovative-fair-wrap-up)
-- [Get to Know the Team](#get-to-know-the-team)
-- [Upcoming Accessibility Training and Events](#upcoming-accessibility-training-and-events)
-- [Join AAACT’s Virtual Event for IDPD](#join-aaact-s-virtual-event-for-idpd)
-- [Digital Accessibility Hack - Accessible Excel Spreadsheets](#digital-accessibility-hack-accessible-excel-spreadsheets)
-- [Accessibility Feedback Spotlight](#accessibility-feedback-spotlight)
-
 ## International Day of Persons with Disabilities 2024
 
 ![Description after image.](/docs/picture1-en.png)

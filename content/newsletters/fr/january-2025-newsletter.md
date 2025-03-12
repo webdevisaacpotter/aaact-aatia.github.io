@@ -9,17 +9,6 @@ Bonne année! À l’aube de 2025, nous sommes ravis de continuer à vous aider 
 
 Nous vous souhaitons une année sous le signe du succès, de la croissance et d’une plus grande accessibilité!
 
-## Sur cette page
-
-* [Les jalons de l'AATIA en 2024](#les-jalons-de-l-aatia-en-2024)
-* [Creer une culture de l'inclusion](#creer-une-culture-de-l-inclusion)
-* [Parcours de Rossy](#parcours-de-rossy)
-* [Faire connaissance avec l'equipe](#faire-connaissance-avec-l-equipe)
-* [Formation et evenements a venir](#formation-et-evenements-a-venir)
-* [Modification du Reglement canadien sur l'accessibilite](#modification-du-reglement-canadien-sur-l-accessibilite)
-* [Plein feu sur la retroaction sur l'accessibilite](#plein-feu-sur-la-retroaction-sur-l-accessibilite)
-* [Serie virtuelle de l'AATIA](#serie-virtuelle-de-l-aatia)
-
 ## Les jalons de l'AATIA en 2024
 
 Alors que nous faisons nos adieux à 2024, il est temps de réfléchir aux progrès accomplis pour rendre les lieux de travail et les services du gouvernement du Canada plus accessibles à tous. Voici quelques-uns des principaux jalons franchis par notre équipe chargée de l’accessibilité, de l’adaptation et de la technologie informatique adaptée (AATIA) en 2024 :
