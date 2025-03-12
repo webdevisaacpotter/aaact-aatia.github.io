@@ -8,17 +8,6 @@ newsletterDate: 2024-07-01
 ---
 Bienvenue à l'édition de l'été 2024 de *L'AATIA maintenant pour l'accessibilité*, le bulletin d'information de l'équipe du Programme d'accessibilité, d'adaptation et de technologie informatique adaptée (AATIA) de Services partagés Canada. Le bulletin d'information comprend des nouvelles et des idées sur l'accessibilité numérique afin que nous puissions tous contribuer à l'inclusion des personnes en situation de handicap.
 
-## Sur cette page
-
-* Dernières nouvelles
-* Norme nationale du Canada sur les exigences d'accessibilité pour les produits et services TIC
-* Approvisionnement en TIC accessibles
-* Passeport pour l'accessibilité en milieu de travail du GC
-* Faire connaissance avec l'équipe
-* Séances de formation et événements à venir
-* Truc pour l'accessibilité numérique -- accessibilité des documents
-* Plein feu sur la rétroaction sur l'accessibilité
-
 ## Dernières nouvelles
 
 Services partagés Canada a lancé [un appel d'offres ouvert pour des tests de conformité en matière d'accessibilité](https://achatscanada.canada.ca/fr/occasions-de-marche/appels-d-offres/ws4673762670-doc4673815228) et [un marché réservé aux entreprises autochtones pour des tests de conformité en matière d'accessibilité](https://achatscanada.canada.ca/fr/occasions-de-marche/appels-d-offres/ws4657465204-doc4657699287). Par le biais de ces appels d'offres, nous sommes à la recherche d'offres pour fournir des tests de conformité en matière d'accessibilité par rapport aux exigences d'accessibilité des technologies de l'information et de la communication (TIC) dans les catégories suivantes : Web, Documents non-web -- PDF, Documents non-web -- non-PDF, Logiciels non-web, Applications mobiles natives iOS, Applications mobiles natives Android et Matériel TIC. Tous les documents à l'appui requis et les soumissions doivent être soumis par le 19 août 2024, avant 14 h HAE.
@@ -49,7 +38,7 @@ Allez sur notre page [Formation et événements du GC sur l'accessibilité](http
 
 Pour obtenir des conseils et une orientation sur l'approvisionnement en TIC accessibles, communiquez avec l'[AATIA](mailto:aaact-aatia@ssc-spc.gc.ca).
 
-## Passeport pour l'accessibilité en milieu de travail du GC 
+## Passeport pour l'accessibilité en milieu de travail du GC
 
 ![](/docs/gcaccesspass-fr.png)
 

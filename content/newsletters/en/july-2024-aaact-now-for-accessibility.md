@@ -8,17 +8,6 @@ newsletterDate: 2024-07-01
 ---
 Welcome to the summer 2024 edition of *AAACT Now For Accessibility*, the newsletter from Shared Services Canada's Accessibility, Accommodation and Adaptive Computer Technology (AAACT) team. This newsletter includes news and insights on digital accessibility so we can all contribute to disability inclusion.  
 
-## On This Page
-
-* Latest News
-* National Standard of Canada on Accessibility Requirements for ICT
-* Accessible ICT Procurement
-* GC Workplace Accessibility Passport
-* Get to Know the Team
-* Upcoming Training and Events
-* Digital Accessibility Hack -- Document Accessibility
-* Accessibility Feedback Spotlight
-
 ## Latest News
 
 Shared Services Canada has launched an [open tender for Accessibility Conformance Testing](https://canadabuys.canada.ca/en/tender-opportunities/tender-notice/ws4673762670-doc4673815228) and an [Indigenous Business Set-Aside for Accessibility Conformance Testing](https://canadabuys.canada.ca/en/tender-opportunities/tender-notice/ws4657465204-doc4657699287). Through these tenders, we are seeking offers to provide accessibility conformance testing against Information Communication Technology (ICT) accessibility requirements in the following categories: Web, Non-web documents -- PDF, Non-web documents -- Non-PDF, Non-web software, iOS Native Mobile Applications, Android Native Mobile Applications and Hardware ICT. All required supporting documentation and bid submissions must be submitted by August 19, 2024, 2 p.m. EDT.
