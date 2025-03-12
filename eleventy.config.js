@@ -5,6 +5,8 @@ const pluginSyntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const { EleventyHtmlBasePlugin } = require("@11ty/eleventy");
 const getFileInfo = require("./scripts/filters/fileInfo");
 const markdownIt = require("markdown-it");
+const { stripHtml } = require('string-strip-html');
+const getSlugify = (eleventyConfig) => eleventyConfig.getFilter("slugify");
 
 module.exports = function(eleventyConfig) {
 	// Copy the contents of the `public` folder to the output folder
@@ -13,6 +15,8 @@ module.exports = function(eleventyConfig) {
 		"./public": "/",
 		"./admin": "/admin",
 	});
+
+	const slugify = getSlugify(eleventyConfig);
 
 	eleventyConfig.addNunjucksAsyncFilter("fileInfo", async (filePaths, callback) => {
 		try {
@@ -159,6 +163,77 @@ module.exports = function(eleventyConfig) {
 	eleventyConfig.addFilter("urlEncode", (value) => {
 		if (!value) return "";
 		return encodeURIComponent(value);
+	});
+
+	eleventyConfig.addCollection("allHeadings", function (collectionApi) {
+		return collectionApi.getAll().map(item => {
+			if (item.data.toc || item.data.tocSimple) {
+				const tokens = md.parse(item.template.frontMatter.content, {});
+				const levels = item.data.tocSimple ? 1 : 2;
+				const validTags = Array.from({ length: levels + 1 }, (_, i) => `h${i + 2}`);
+				const headings = tokens.filter(token =>
+					validTags.includes(token.tag) && token.type === 'heading_open'
+				).map(token => {
+					const level = token.tag;
+					const rawText = tokens[tokens.indexOf(token) + 1].content;
+					const text = stripHtml(rawText).result;
+					const id = slugify(text, { lower: true, strict: true, locale: 'fr' });
+					return { level, text, id };
+				});
+				item.data.headings = headings;
+			}
+			return item;
+		});
+	});
+
+	// Generate TOC
+	eleventyConfig.addShortcode('extractHeadings', function (content, tocType) {
+		const slugify = eleventyConfig.getFilter("slugify");
+		const tokens = md.parse(content, {});
+		const levels = tocType === 'tocSimple' ? 1 : 2; // tocSimple only includes level 2 headings
+		const validTags = Array.from({ length: levels + 1 }, (_, i) => `h${i + 2}`);
+		const headings = tokens.filter(token =>
+			validTags.includes(token.tag) && token.type === 'heading_open'
+		).map(token => {
+			const level = token.tag;
+			const rawText = tokens[tokens.indexOf(token) + 1].content;
+			const text = stripHtml(rawText).result; // Strip HTML tags from the heading text
+			const id = slugify(text, { lower: true, strict: true, locale: 'fr' });
+			return { level, text, id };
+		});
+
+		// Create TOC HTML
+		let tocHTML = '<aside><h2>{{ onThisPage[locale].heading }}</h2><ul>';
+		const levelsStack = [];
+
+		headings.forEach(heading => {
+			const levelIndex = parseInt(heading.level.substring(1)) - 1;
+
+			while (levelsStack.length && levelsStack[levelsStack.length - 1] > levelIndex) {
+				tocHTML += '</ul></li>';
+				levelsStack.pop();
+			}
+
+			if (levelsStack.length && levelsStack[levelsStack.length - 1] === levelIndex) {
+				tocHTML += '</li>';
+			}
+
+			if (!levelsStack.length || levelsStack[levelsStack.length - 1] < levelIndex) {
+				tocHTML += '<ul>';
+				levelsStack.push(levelIndex);
+			}
+
+			tocHTML += `<li><a href="#${heading.id}">${heading.text}</a>`;
+		});
+
+		while (levelsStack.length) {
+			tocHTML += '</ul></li>';
+			levelsStack.pop();
+		}
+
+		tocHTML += '</ul></aside>';
+
+		return tocHTML;
 	});
 
 	// Features to make your build faster (when you need them)
