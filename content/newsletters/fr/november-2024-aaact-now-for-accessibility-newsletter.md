@@ -5,8 +5,8 @@ description: "**Dan cette édition:** Journée internationale des personnes en
   situation de handicap; salon de l'innovation : récapitulation; feuille de
   calcul Excel accessible."
 newsletterDate: 2024-11-01
+introduction: Bienvenue à la toute dernière édition de *L’AATIA maintenant pour l’accessibilité*! Dans cette édition, nous célébrons la Journée internationale des personnes en situation de handicap. Poursuivez votre lecture pour découvrir de précieuses ressources et les mesures que nous pouvons tous prendre pour favoriser une fonction publique fédérale plus inclusive.
 ---
-Bienvenue à la toute dernière édition de *L’AATIA maintenant pour l’accessibilité*! Dans cette édition, nous célébrons la Journée internationale des personnes en situation de handicap. Poursuivez votre lecture pour découvrir de précieuses ressources et les mesures que nous pouvons tous prendre pour favoriser une fonction publique fédérale plus inclusive.
 
 ## Journée internationale des personnes en situation de handicap de 2024
 

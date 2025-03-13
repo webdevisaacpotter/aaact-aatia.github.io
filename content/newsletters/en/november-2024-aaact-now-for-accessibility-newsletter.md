@@ -5,8 +5,8 @@ description: "**In this edition:** International Day of Persons with
   Disabilities; innovation fair wrap-up; how to make accessible Excel
   spreadsheets."
 newsletterDate: 2024-11-01
+introduction: Welcome to our latest edition of **AAACT Now for Accessibility**! In this edition, we celebrate the International Day of Persons with Disabilities. Read on as we share valuable resources and steps that we can all take to foster a more inclusive federal public service.
 ---
-Welcome to our latest edition of *AAACT Now for Accessibility*! In this edition, we celebrate the International Day of Persons with Disabilities. Read on as we share valuable resources and steps that we can all take to foster a more inclusive federal public service.
 
 ## International Day of Persons with Disabilities 2024
 
