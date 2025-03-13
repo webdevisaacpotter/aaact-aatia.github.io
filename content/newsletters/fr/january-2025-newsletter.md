@@ -4,21 +4,11 @@ otherLanguageTitle: January 2025 AAACT Now for Accessibility newsletter
 description: "**Dans cette édition :** les jalons franchis au cours de 2024; la socialisation d’un chien
   d’assistance dans notre espace de travail; créer une culture de l'inclusion."
 newsletterDate: 2025-01-01
+introduction: |
+  Bonne année! À l’aube de 2025, nous sommes ravis de continuer à vous aider à réaliser des progrès significatifs au chapitre de l’accessibilité. Cette année, nous nous engageons à vous fournir des ressources utiles, des mises à jour et des conseils pour vous aider à intégrer l’accessibilité dans votre travail. Dans cette édition, nous revenons sur les jalons franchis au cours de l’année écoulée, nous racontons une histoire réconfortante sur la socialisation d’un chien d’assistance dans notre espace de travail, et nous explorons l’importance de favoriser une culture en milieu de travail positive.
+
+  Nous vous souhaitons une année sous le signe du succès, de la croissance et d’une plus grande accessibilité!
 ---
-Bonne année! À l’aube de 2025, nous sommes ravis de continuer à vous aider à réaliser des progrès significatifs au chapitre de l’accessibilité. Cette année, nous nous engageons à vous fournir des ressources utiles, des mises à jour et des conseils pour vous aider à intégrer l’accessibilité dans votre travail. Dans cette édition, nous revenons sur les jalons franchis au cours de l’année écoulée, nous racontons une histoire réconfortante sur la socialisation d’un chien d’assistance dans notre espace de travail, et nous explorons l’importance de favoriser une culture en milieu de travail positive.
-
-Nous vous souhaitons une année sous le signe du succès, de la croissance et d’une plus grande accessibilité!
-
-## Sur cette page
-
-* [Les jalons de l'AATIA en 2024](#les-jalons-de-l-aatia-en-2024)
-* [Creer une culture de l'inclusion](#creer-une-culture-de-l-inclusion)
-* [Parcours de Rossy](#parcours-de-rossy)
-* [Faire connaissance avec l'equipe](#faire-connaissance-avec-l-equipe)
-* [Formation et evenements a venir](#formation-et-evenements-a-venir)
-* [Modification du Reglement canadien sur l'accessibilite](#modification-du-reglement-canadien-sur-l-accessibilite)
-* [Plein feu sur la retroaction sur l'accessibilite](#plein-feu-sur-la-retroaction-sur-l-accessibilite)
-* [Serie virtuelle de l'AATIA](#serie-virtuelle-de-l-aatia)
 
 ## Les jalons de l'AATIA en 2024
 
