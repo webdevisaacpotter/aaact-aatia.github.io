@@ -14,7 +14,7 @@ Shared Services Canada has launched an [open tender for Accessibility Conformanc
 
 ## National Standard of Canada on Accessibility Requirements for ICT
 
-![](/docs/nsc-scc.png)
+![](../../../public/img/newsletters/nsc-scc.png)
 
 Alt text: Logo for the National Standard of Canada and Standards Council of Canada.
 
@@ -40,7 +40,7 @@ For advice and guidance on accessible ICT procurement, reach out to [AAACT](mail
 
 ## GC Workplace Accessibility Passport
 
-![](/docs/gcaccesspass.png)
+![](../../../public/img/newsletters/gcaccesspass.png)
 
 Alt text: GC Workplace Accessibility Passport branding
 
@@ -54,7 +54,7 @@ Work is underway to develop a digital version of the Passport that will be avail
 
 ## Get to Know the Team
 
-![](/docs/luna.png)
+![](../../../public/img/newsletters/luna.png)
 
 Alt text: A picture of Luna Bengio.
 
