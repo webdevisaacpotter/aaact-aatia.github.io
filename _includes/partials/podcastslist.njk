@@ -32,7 +32,7 @@
 				<div class="col-sm-10">
 					<h3 class="mrgn-tp-0"><a href="{{ podcast.url }}">{{ podcast.data.title }}</a></h3>
 					<p class="tagline">{{ podcast.data.podcastDate | fullTextDate(locale) }}</p>
-					{{ podcast.data.description | markdownify | safe }}
+					<p>{{ podcast.data.description | markdownInline | safe }}</p>
 					<p><strong>{{ podcasts[locale].duration.text }}</strong> {{ podcast.data.duration.minutes }} {{ podcasts[locale].duration.minutes }} {{ podcast.data.duration.seconds }} {{ podcasts[locale].duration.seconds }}</p>
 				</div>
 			</section>

@@ -1,5 +1,7 @@
 {
 	"tags": [
 		"newsletters"
-	]
+	],
+	"tocSimple": true,
+	"layout": "layouts/newsletter.njk"
 }

@@ -5,6 +5,8 @@ const pluginSyntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const { EleventyHtmlBasePlugin } = require("@11ty/eleventy");
 const getFileInfo = require("./scripts/filters/fileInfo");
 const markdownIt = require("markdown-it");
+const striptags = require('striptags');
+const getSlugify = (eleventyConfig) => eleventyConfig.getFilter("slugify");
 
 module.exports = function(eleventyConfig) {
 	// Copy the contents of the `public` folder to the output folder
@@ -13,6 +15,8 @@ module.exports = function(eleventyConfig) {
 		"./public": "/",
 		"./admin": "/admin",
 	});
+
+	const slugify = getSlugify(eleventyConfig);
 
 	eleventyConfig.addNunjucksAsyncFilter("fileInfo", async (filePaths, callback) => {
 		try {
@@ -114,21 +118,13 @@ module.exports = function(eleventyConfig) {
 
 		if (!str) return;
 
-		return slugifyFilter(stripHtml(str).result, {
+		return slugifyFilter(striptags(str), {
 		});
 	});
 
 	eleventyConfig.addFilter("localeMatch", function (collection) {
 		const { locale } = this.ctx; // avoid retrieving it for each item
 		return collection.filter((item) => item.data.locale === locale);
-	});
-
-	// Customize Markdown library settings:
-	eleventyConfig.amendLibrary("md", mdLib => {
-		mdLib.use(markdownItAnchor, {
-			level: [1,2,3,4],
-			slugify: eleventyConfig.getFilter("slugify")
-		});
 	});
 
 	const markdownItOptions = {
@@ -138,14 +134,107 @@ module.exports = function(eleventyConfig) {
 		typographer: true // Enables smart punctuation formatting https://github.com/markdown-it/markdown-it/blob/master/lib/rules_core/replacements.mjs
 	};
 	const md = markdownIt(markdownItOptions)
+
+	// Customize Markdown library settings:
+	eleventyConfig.amendLibrary("md", mdLib => {
+		mdLib.use(markdownItAnchor, {
+			level: [1,2,3,4],
+			slugify: eleventyConfig.getFilter("slugify")
+		});
+	});
+
 	eleventyConfig.setLibrary('md', md);
-	eleventyConfig.addFilter('markdownify', (markdownString) =>
-		md.render(markdownString)
-	);
+
+	// Full Markdown rendering (blocks, paragraphs, lists, etc.)
+	eleventyConfig.addFilter("markdownify", (markdownString) => {
+		return md.render(markdownString);
+	});
+
+	// Inline Markdown rendering (no paragraphs, just inline elements)
+	eleventyConfig.addFilter("markdownInline", (markdownString) => {
+		return md.renderInline(markdownString);
+	});
 
 	eleventyConfig.addShortcode("currentBuildDate", () => {
 		return (new Date()).toISOString();
 	})
+
+	// Encode URL components (e.g., email subjects)
+	eleventyConfig.addFilter("urlEncode", (value) => {
+		if (!value) return "";
+		return encodeURIComponent(value);
+	});
+
+	eleventyConfig.addCollection("allHeadings", function (collectionApi) {
+		return collectionApi.getAll().map(item => {
+			if (item.data.toc || item.data.tocSimple) {
+				const tokens = md.parse(item.template.frontMatter.content, {});
+				const levels = item.data.tocSimple ? 1 : 2;
+				const validTags = Array.from({ length: levels + 1 }, (_, i) => `h${i + 2}`);
+				const headings = tokens.filter(token =>
+					validTags.includes(token.tag) && token.type === 'heading_open'
+				).map(token => {
+					const level = token.tag;
+					const rawText = tokens[tokens.indexOf(token) + 1].content;
+					const text = striptags(rawText);
+					const id = slugify(text, { lower: true, strict: true, locale: 'fr' });
+					return { level, text, id };
+				});
+				item.data.headings = headings;
+			}
+			return item;
+		});
+	});
+
+	// Generate TOC
+	eleventyConfig.addShortcode('extractHeadings', function (content, tocType) {
+		const slugify = eleventyConfig.getFilter("slugify");
+		const tokens = md.parse(content, {});
+		const levels = tocType === 'tocSimple' ? 1 : 2; // tocSimple only includes level 2 headings
+		const validTags = Array.from({ length: levels + 1 }, (_, i) => `h${i + 2}`);
+		const headings = tokens.filter(token =>
+			validTags.includes(token.tag) && token.type === 'heading_open'
+		).map(token => {
+			const level = token.tag;
+			const rawText = tokens[tokens.indexOf(token) + 1].content;
+			const text = striptags(rawText); // Strip HTML tags from the heading text
+			const id = slugify(text, { lower: true, strict: true, locale: 'fr' });
+			return { level, text, id };
+		});
+
+		// Create TOC HTML
+		let tocHTML = '<aside><h2>{{ onThisPage[locale].heading }}</h2><ul>';
+		const levelsStack = [];
+
+		headings.forEach(heading => {
+			const levelIndex = parseInt(heading.level.substring(1)) - 1;
+
+			while (levelsStack.length && levelsStack[levelsStack.length - 1] > levelIndex) {
+				tocHTML += '</ul></li>';
+				levelsStack.pop();
+			}
+
+			if (levelsStack.length && levelsStack[levelsStack.length - 1] === levelIndex) {
+				tocHTML += '</li>';
+			}
+
+			if (!levelsStack.length || levelsStack[levelsStack.length - 1] < levelIndex) {
+				tocHTML += '<ul>';
+				levelsStack.push(levelIndex);
+			}
+
+			tocHTML += `<li><a href="#${heading.id}">${heading.text}</a>`;
+		});
+
+		while (levelsStack.length) {
+			tocHTML += '</ul></li>';
+			levelsStack.pop();
+		}
+
+		tocHTML += '</ul></aside>';
+
+		return tocHTML;
+	});
 
 	// Features to make your build faster (when you need them)
 

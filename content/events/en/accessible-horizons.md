@@ -8,8 +8,7 @@ description: Join the Accessibility, Accommodation and Adaptive Computer
 eventDate: 2025-02-28
 ---
 
-This is Episode 2 of <abbr title="Accessibility, Accommodation and Adaptive Computer Technology">
-AAACT's</abbr> live events - Accessible Horizons. This episode will follow our signature style which is comprised of 3 parts.
+This is Episode 2 of <abbr title="Accessibility, Accommodation and Adaptive Computer Technology">AAACT's</abbr> live events - Accessible Horizons. This episode will follow our signature style which is comprised of 3 parts.
 
 ## Event details
 

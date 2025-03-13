@@ -8,7 +8,7 @@ longDescription: >-
   assistive tools for employees to try before committing to a purchase.
 
 
-  Learn about specialized tools like X-Keys, which streamline repetitive tasks and improve productivity for employees with disabilities. 
+  Learn about specialized tools like X-Keys, which streamline repetitive tasks and improve productivity for employees with disabilities.
 
 
   The episode also delves into best practices for workplace accommodations, highlighting how open conversations between managers and employees can foster an inclusive work environment.
@@ -25,7 +25,9 @@ episode: 1
 description: Demystifying Accessibility - 219 Laurier Teaser, adaptive
   technology and workplace accommodation strategy
 image: /img/podcasts/CoverArtEnglishPurple.png
-duration: "27"
+duration:
+  minutes: 27
+  seconds: 0
 podcastFiles:
   mp3:
     url: https://accessibility-accessibilite.ca/AccessibleHorizons-E1.mp3

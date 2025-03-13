@@ -4,7 +4,7 @@
 		<li>
 			<section>
 				<h3><a href="{{ newsletter.url }}">{{ newsletter.data.title }}</a></h3>
-					{{ newsletter.data.description | markdownify | safe }}
+					<p>{{ newsletter.data.description | markdownInline | safe }}</p>
 			</section>
 		</li>
 		{%- endfor -%}
