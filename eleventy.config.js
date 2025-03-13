@@ -5,7 +5,7 @@ const pluginSyntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const { EleventyHtmlBasePlugin } = require("@11ty/eleventy");
 const getFileInfo = require("./scripts/filters/fileInfo");
 const markdownIt = require("markdown-it");
-const { stripHtml } = require('string-strip-html');
+const striptags = require('striptags');
 const getSlugify = (eleventyConfig) => eleventyConfig.getFilter("slugify");
 
 module.exports = function(eleventyConfig) {
@@ -118,7 +118,7 @@ module.exports = function(eleventyConfig) {
 
 		if (!str) return;
 
-		return slugifyFilter(stripHtml(str).result, {
+		return slugifyFilter(striptags(str), {
 		});
 	});
 
@@ -176,7 +176,7 @@ module.exports = function(eleventyConfig) {
 				).map(token => {
 					const level = token.tag;
 					const rawText = tokens[tokens.indexOf(token) + 1].content;
-					const text = stripHtml(rawText).result;
+					const text = striptags(rawText);
 					const id = slugify(text, { lower: true, strict: true, locale: 'fr' });
 					return { level, text, id };
 				});
@@ -197,7 +197,7 @@ module.exports = function(eleventyConfig) {
 		).map(token => {
 			const level = token.tag;
 			const rawText = tokens[tokens.indexOf(token) + 1].content;
-			const text = stripHtml(rawText).result; // Strip HTML tags from the heading text
+			const text = striptags(rawText); // Strip HTML tags from the heading text
 			const id = slugify(text, { lower: true, strict: true, locale: 'fr' });
 			return { level, text, id };
 		});
