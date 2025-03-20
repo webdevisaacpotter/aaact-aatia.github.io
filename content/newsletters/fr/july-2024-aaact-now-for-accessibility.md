@@ -14,7 +14,7 @@ Services partagés Canada a lancé [un appel d'offres ouvert pour des tests de c
 
 ## Norme nationale du Canada sur les exigences d'accessibilité pour les produits et services TIC
 
-![](../../../public/img/newsletters/nsc-scc.png)
+![](/img/newsletters/nsc-scc.png)
 
 Alt text : Logo pour la Norme nationale du Canada et le Conseil canadien des normes.
 
@@ -40,7 +40,7 @@ Pour obtenir des conseils et une orientation sur l'approvisionnement en TIC acce
 
 ## Passeport pour l'accessibilité en milieu de travail du GC
 
-![](../../../public/img/newsletters/gcaccesspass-fr.png)
+![](/img/newsletters/gcaccesspass-fr.png)
 
 Alt text : Image de marque pour le passeport pour l'accessibilité en milieu de travail du GC.
 
@@ -56,7 +56,7 @@ Nous travaillons actuellement à l'élaboration d'une version numérique du pass
 
 ## Faire connaissance avec l'équipe
 
-![](../../../public/img/podcasts/luna.png)
+![](/img/podcasts/luna.png)
 
 Alt text : Une image de Luna Bengio.
 

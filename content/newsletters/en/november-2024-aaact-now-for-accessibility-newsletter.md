@@ -10,7 +10,7 @@ introduction: Welcome to our latest edition of **AAACT Now for Accessibility**! 
 
 ## International Day of Persons with Disabilities 2024
 
-![Description after image.](../../../public/img/newsletters/picture1-en.png)
+![Description after image.](/img/newsletters/picture1-en.png)
 
 Alt text: International Day of Persons with Disabilities decorative banner.
 
@@ -28,7 +28,7 @@ On December 4, 2024, AAACT is hosting an IDPD event for federal public servants.
 
 ## AAACT’s New Accessible Workspace
 
-![Description after image.](../../../public/img/newsletters/picture2.png)
+![Description after image.](/img/newsletters/picture2.png)
 
 Alt text: A picture of the Executive Director of Accessibility, and colleagues, cutting a ribbon at the new AAACT accessible workspace.
 
@@ -42,7 +42,7 @@ Stay tuned for more information on how to book your appointment and explore all 
 
 ## Shared Services Canada’s Innovative Fair: Wrap-Up
 
-![Description after image.](../../../public/img/newsletters/picture3.png)
+![Description after image.](/img/newsletters/picture3.png)
 
 Alt text: A picture of the AAACT booth staff welcoming visitors.
 
@@ -62,7 +62,7 @@ Thank you to everyone who visited our booth! We look forward to continuing the c
 
 ## Get to Know the Team
 
-![Description after image.](../../../public//img/newsletters/picture4.jpg)
+![Description after image.](//img/newsletters/picture4.jpg)
 
 Text alt: An image of Kateri Clark. She is wearing a bright red jacket and standing outdoors, surrounded by greenery, with a blue sky in the background.
 
